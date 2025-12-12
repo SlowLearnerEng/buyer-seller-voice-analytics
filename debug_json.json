@@ -1,0 +1,236 @@
+{
+  "call_metadata": {
+    "analysis_reason": "Buyer and seller discussed a 4-inch label printer suitable for e-commerce, including software, warranty, pricing, and negotiation attempts."
+  },
+  "products_discussed": [
+    {
+      "product_id": "P1",
+      "product_name": "4-Inch Label Printer with Lifetime Free Software",
+      "product_kw": "label_printer_4inch",
+      "reason_for_product_kw": "4-inch printer size is the key variant attribute mentioned; product is a label printer.",
+      "specifications": {
+        "attributes": [
+          {
+            "name": "Printer Size",
+            "value": "4 inch",
+            "reason": "Buyer explicitly mentioned 4 inch printer."
+          },
+          {
+            "name": "Software",
+            "value": "Lifetime free label application from Playstore",
+            "reason": "Seller stated software is lifetime free and available on Playstore."
+          },
+          {
+            "name": "Warranty",
+            "value": "1 year",
+            "reason": "Seller mentioned 1 year warranty included."
+          },
+          {
+            "name": "Included Accessories",
+            "value": "Roll stand free",
+            "reason": "Seller said roll stand is provided free."
+          }
+        ],
+        "reason": "Specifications derived from seller's description of product features and accessories."
+      },
+      "quantity_required": {
+        "value": "",
+        "unit": "",
+        "reason": "Buyer did not explicitly state any purchase quantity."
+      },
+      "moq": {
+        "value": "",
+        "unit": "",
+        "price": "",
+        "currency": "",
+        "reason": "No explicit or implicit MOQ mentioned in the call."
+      },
+      "final_quoted_seller_price": 7800,
+      "prices_discussed": {
+        "price_entries": [
+          {
+            "price_value": "10500",
+            "currency": "INR",
+            "price_type": "unit_price",
+            "applies_to_quantity": {
+              "min_quantity": "",
+              "max_quantity": "",
+              "unit": "",
+              "reason": "No quantity range specified for market price."
+            },
+            "applies_to_specifications": {
+              "related_spec_attributes": [
+                {
+                  "name": "Printer Size",
+                  "value": "4 inch",
+                  "reason": "Market price mentioned for 4 inch printer."
+                }
+              ],
+              "reason": "Market price for the discussed 4 inch printer."
+            },
+            "moq_applies": {
+              "value": "",
+              "unit": "",
+              "reason": "No MOQ linked to this price."
+            },
+            "unit_price": "10500",
+            "other_conditions": {
+              "basis": "Market price online",
+              "payment_terms": "",
+              "additional_condition_notes": "",
+              "reason": "Seller referenced online market price."
+            },
+            "reason": "Seller stated online market price is 10,500 INR."
+          },
+          {
+            "price_value": "10000",
+            "currency": "INR",
+            "price_type": "unit_price",
+            "applies_to_quantity": {
+              "min_quantity": "",
+              "max_quantity": "",
+              "unit": "",
+              "reason": "No quantity range specified for initial quote."
+            },
+            "applies_to_specifications": {
+              "related_spec_attributes": [
+                {
+                  "name": "Printer Size",
+                  "value": "4 inch",
+                  "reason": "Initial quoted price for 4 inch printer."
+                }
+              ],
+              "reason": "Seller's initial quoted price."
+            },
+            "moq_applies": {
+              "value": "",
+              "unit": "",
+              "reason": "No MOQ linked to this price."
+            },
+            "unit_price": "10000",
+            "other_conditions": {
+              "basis": "Seller's initial quote",
+              "payment_terms": "",
+              "additional_condition_notes": "",
+              "reason": "Seller stated initial price as 10,000 INR."
+            },
+            "reason": "Seller mentioned initial price before discount."
+          },
+          {
+            "price_value": "7800",
+            "currency": "INR",
+            "price_type": "unit_price",
+            "applies_to_quantity": {
+              "min_quantity": "",
+              "max_quantity": "",
+              "unit": "",
+              "reason": "No quantity range specified for discounted price."
+            },
+            "applies_to_specifications": {
+              "related_spec_attributes": [
+                {
+                  "name": "Printer Size",
+                  "value": "4 inch",
+                  "reason": "Discounted price for 4 inch printer."
+                }
+              ],
+              "reason": "Seller's discounted final price."
+            },
+            "moq_applies": {
+              "value": "",
+              "unit": "",
+              "reason": "No MOQ linked to this price."
+            },
+            "unit_price": "7800",
+            "other_conditions": {
+              "basis": "Seller's final discounted quote",
+              "payment_terms": "",
+              "additional_condition_notes": "Price will not go lower than this",
+              "reason": "Seller stated 7,800 INR is the lowest price."
+            },
+            "reason": "Seller gave final discounted price after negotiation."
+          }
+        ],
+        "reason": "Prices discussed include market price, initial quote, and final discounted quote."
+      },
+      "seller_deals_in_product": {
+        "value": "yes",
+        "reason": "Seller is directly selling the 4 inch label printer."
+      },
+      "delivery_terms": {
+        "responsibility": "unknown",
+        "seller_delivers_to_buyer_location": "unknown",
+        "delivery_location": "",
+        "reason": "No delivery terms or locations discussed."
+      }
+    }
+  ],
+  "buyer_profile": {
+    "buyer_type": "unknown",
+    "business_category": "e-commerce",
+    "intent_for_purchase": "purchase label printer for e-commerce parcel labeling",
+    "reason_for_intent": "Buyer described need for label printer to print labels for e-commerce parcels.",
+    "additional_requirements": [
+      {
+        "requirement": "Easy to use label software with lifetime free access",
+        "reason": "Buyer and seller discussed software availability and ease of use."
+      }
+    ],
+    "reason": "Buyer is involved in e-commerce and wants a suitable label printer."
+  },
+  "seller_profile": {
+    "deals_in_requested_product": {
+      "value": "yes",
+      "reason": "Seller is selling the 4 inch label printer with software and warranty."
+    },
+    "capabilities": [
+      {
+        "capability": "Provides label printers with free lifetime software",
+        "reason": "Seller offers free lifetime label application software."
+      },
+      {
+        "capability": "Offers 1 year warranty on printers",
+        "reason": "Seller mentioned 1 year warranty included."
+      }
+    ],
+    "delivery_coverage": {
+      "locations": [
+        ""
+      ],
+      "reason": "No delivery locations or coverage discussed."
+    },
+    "reason": "Seller confirmed product availability and features but did not discuss delivery."
+  },
+  "call_insights": {
+    "negotiation_summary": "Buyer requested price reduction; seller offered discount from 10,000 to 7,800 INR and stated this is the lowest price.",
+    "follow_up_actions": [
+      {
+        "action": "Buyer to call seller on WhatsApp number later",
+        "owner": "buyer",
+        "deadline_or_timeline": "unspecified, after current traffic situation",
+        "reason": "Buyer said will call later due to traffic.",
+        "followup_channel": "phone/WhatsApp"
+      }
+    ],
+    "blockers_or_risks": [
+      {
+        "blocker": "Buyer unable to communicate clearly due to traffic and voice clarity",
+        "severity": "medium",
+        "reason": "Buyer mentioned voice not clear and being stuck in traffic."
+      }
+    ],
+    "buyer_sentiment": {
+      "value": "neutral",
+      "reason": "Buyer engaged in negotiation but did not express strong positive or negative sentiment."
+    },
+    "seller_sentiment": {
+      "value": "neutral",
+      "reason": "Seller remained professional, provided information and price, and accepted buyer's request to talk later."
+    }
+  },
+  "buyer_requirement_classification": {
+    "requirement_type": "B2B",
+    "requirement_volume_type": "unknown",
+    "reason": "Buyer is purchasing for e-commerce business, indicating B2B; volume not specified."
+  }
+}

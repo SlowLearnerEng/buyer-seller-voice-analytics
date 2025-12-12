@@ -51,12 +51,24 @@ def append_jsonl(path, obj):
 def normalize_recording_url(raw_url: str) -> str:
     """
     Normalize recording URLs:
+    - Remove all whitespace (spaces, tabs, newlines)
+    - Ensure UTF-8 encoding
     - If it is a Knowlarity player page (...playsound.html?soundurl=...), extract the soundurl.
     - Otherwise, return as-is.
     """
-    logger.debug(f"Normalizing URL: {raw_url}")
-    raw_url = raw_url.strip()
+    logger.debug(f"Normalizing URL (original): {repr(raw_url)}")
+    
+    # First, ensure we have a string and handle encoding
+    if isinstance(raw_url, bytes):
+        raw_url = raw_url.decode('utf-8', errors='ignore')
+    
+    # Remove ALL whitespace characters (spaces, tabs, newlines, etc.)
+    raw_url = ''.join(raw_url.split())
+    
+    logger.debug(f"After whitespace removal: {raw_url}")
+    
     if not raw_url:
+        logger.warning("URL is empty after sanitization")
         return raw_url
 
     if "playsound.html" in raw_url:
@@ -64,11 +76,13 @@ def normalize_recording_url(raw_url: str) -> str:
         qs = parse_qs(parsed.query)
         soundurls = qs.get("soundurl") or qs.get("soundUrl")
         if soundurls:
-            normalized = soundurls[0].strip()
+            normalized = soundurls[0]
+            # Remove whitespace from extracted URL too
+            normalized = ''.join(normalized.split())
             logger.info(f"Extracted soundurl from Knowlarity player: {normalized}")
             return normalized
 
-    logger.debug(f"URL unchanged: {raw_url}")
+    logger.debug(f"Final normalized URL: {raw_url}")
     return raw_url
 
 
@@ -76,15 +90,17 @@ def request_transcription(caller_id, receiver_id, recording_url, call_type="PNS"
     logger.info(f"Requesting transcription for URL: {recording_url}")
     logger.debug(f"Caller: {caller_id}, Receiver: {receiver_id}, Type: {call_type}")
     
+    # Ensure all values are properly encoded strings
     files = {
-        "caller_id": (None, str(caller_id)),
-        "receiver_id": (None, str(receiver_id)),
-        "callRecordingLink": (None, recording_url),
-        "callType": (None, call_type),
+        "caller_id": (None, str(caller_id).encode('utf-8').decode('utf-8')),
+        "receiver_id": (None, str(receiver_id).encode('utf-8').decode('utf-8')),
+        "callRecordingLink": (None, str(recording_url).encode('utf-8').decode('utf-8')),
+        "callType": (None, str(call_type).encode('utf-8').decode('utf-8')),
     }
 
     try:
-        resp = requests.post(API_URL, headers=headers, files=files, timeout=60)
+        logger.debug(f"Sending POST request to {API_URL}")
+        resp = requests.post(API_URL, headers=headers, files=files, timeout=120)  # Increased timeout
         resp.raise_for_status()
         data = resp.json()
         
@@ -98,25 +114,32 @@ def request_transcription(caller_id, receiver_id, recording_url, call_type="PNS"
         trans_url = data["Data"]["TranscriptionURL"]
         logger.info(f"Transcription requested successfully. MediaID: {media_id}")
         return media_id, trans_url
+    except requests.exceptions.Timeout as e:
+        logger.error(f"Request timeout after 120 seconds: {e}")
+        raise RuntimeError(f"Request timeout: The transcription service took too long to respond. URL: {recording_url}")
     except requests.exceptions.RequestException as e:
         logger.error(f"Network error during transcription request: {e}")
         raise
 
 
-def download_transcription_text(url, max_retries=2):
+def download_transcription_text(url, max_retries=3):
     """
     Download the transcription text from the URL.
-    Make the request look like a plain curl call.
+    Include authentication headers to avoid 403 errors.
     """
     logger.info(f"Downloading transcription from: {url}")
+    
+    # Use the same authentication headers as the API request
     dl_headers = {
         "User-Agent": "curl/7.88.1",
         "Accept": "*/*",
-        # no Referer, no extra headers
+        "BearerToken": BEARER_TOKEN,
+        "TeamName": TEAM_NAME,
     }
 
     last_status = None
     last_body_snippet = None
+    last_error = None
 
     for attempt in range(1, max_retries + 1):
         try:
@@ -138,12 +161,14 @@ def download_transcription_text(url, max_retries=2):
             logger.info(f"Transcription downloaded successfully ({len(resp.text)} chars)")
             return resp.text
         except requests.exceptions.RequestException as e:
+            last_error = str(e)
             logger.error(f"Network error during download (attempt {attempt}/{max_retries}): {e}")
-            if attempt == max_retries:
+            if attempt < max_retries:
+                time.sleep(2 * attempt)
+            else:
                 raise
-            time.sleep(2 * attempt)
 
-    error_msg = f"Failed to download transcription: status={last_status}, body_snippet={last_body_snippet!r}"
+    error_msg = f"Failed to download transcription after {max_retries} attempts: status={last_status}, error={last_error}, body_snippet={last_body_snippet!r}"
     logger.error(error_msg)
     raise RuntimeError(error_msg)
 
@@ -175,7 +200,7 @@ def transcribe_audio(url, caller_id="unknown", receiver_id="unknown"):
                 "error": str or None
             }
     """
-    logger.info(f"=== Starting transcription for URL: {url} ===")
+    logger.info(f"=== Starting transcription for URL: {repr(url)} ===")
     result = {
         "success": False,
         "data": None,
@@ -189,8 +214,18 @@ def transcribe_audio(url, caller_id="unknown", receiver_id="unknown"):
             result["error"] = "URL cannot be empty"
             return result
         
-        # Normalize the URL
-        normalized_url = normalize_recording_url(url)
+        # CRITICAL: Remove ALL whitespace FIRST before any processing
+        # Handle UTF-8 encoding
+        if isinstance(url, bytes):
+            url = url.decode('utf-8', errors='ignore')
+        
+        # Remove all whitespace (spaces, tabs, newlines, etc.)
+        clean_url = ''.join(url.split())
+        logger.info(f"URL after whitespace removal: {clean_url}")
+        
+        # Normalize the URL (this will also remove whitespace again as safety)
+        normalized_url = normalize_recording_url(clean_url)
+        logger.info(f"URL after normalization: {normalized_url}")
         
         # Request transcription
         media_id, trans_url = request_transcription(
@@ -235,6 +270,9 @@ def main():
             caller_id = row.get("caller_id", "").strip()
             receiver_id = row.get("receiver_id", "").strip()
             raw_url = row.get(URL_COLUMN, "").strip()
+            
+            # Remove all whitespace from URL (spaces, tabs, newlines)
+            raw_url = ''.join(raw_url.split())
 
             if not raw_url:
                 print("[%-4d] SKIP: empty URL" % idx)

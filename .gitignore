@@ -15,9 +15,12 @@ env/
 venv/
 ENV/
 
-# Output files
+# Output files (exclude, but allow Input.csv)
 *.jsonl
-*.csv
+output*.csv
+result*.csv
+transcriptions*.csv
+!Input.csv
 
 # IDE
 .vscode/
