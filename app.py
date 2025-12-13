@@ -12,6 +12,11 @@ import csv
 import pandas as pd
 from datetime import datetime
 from bulk import transcribe_audio
+from dashboard import render_dashboard
+from dashboard_buyer import render_buyer_dashboard
+from dashboard_product import render_product_dashboard
+from dashboard_matrix import render_matrix_dashboard
+from dashboard_price_opp import render_price_opportunity_dashboard
 
 # Configure logging for Streamlit app
 os.makedirs("logs", exist_ok=True)
@@ -88,7 +93,15 @@ st.markdown('<div class="main-header">🎙️ Audio Transcription Tool</div>', u
 st.markdown('<div class="sub-header">Transcribe buyer-seller call recordings with AI-powered speech recognition</div>', unsafe_allow_html=True)
 
 # Create tabs for single and batch processing
-tab1, tab2 = st.tabs(["📎 Single URL", "📊 Batch Processing (CSV)"])
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
+    "📎 Single URL", 
+    "📊 Batch Processing (CSV)", 
+    "📈 Seller Dashboard",
+    "📉 Buyer Dashboard",
+    "📦 Product Dashboard",
+    "🧩 Call Level Insight",
+    "💰 Price Opportunities"
+])
 
 # Sidebar for additional options
 with st.sidebar:
@@ -153,8 +166,8 @@ with tab1:
             logger.warning("Empty URL submitted")
             st.markdown('<div class="error-box">❌ <strong>Error:</strong> Please enter a valid URL</div>', unsafe_allow_html=True)
         else:
-            # Remove all whitespace from URL
-            clean_url = ''.join(audio_url.split())
+            # Remove leading/trailing whitespace only (preserve internal spaces for tokens)
+            clean_url = audio_url.strip()
             logger.info(f"URL after sanitization: {clean_url}")
             
             # Show loading spinner
@@ -331,8 +344,8 @@ with tab2:
                             # Get URL
                             url = str(row[url_column])
                             
-                            # Remove all whitespace from URL (spaces, tabs, newlines)
-                            url = ''.join(url.split())
+                            # Remove leading/trailing whitespace only (preserve internal spaces for tokens)
+                            url = url.strip()
                             
                             status_text.text(f"Processing {idx + 1}/{len(df)}: ID {pns_id}")
                             logger.info(f"Processing record {pns_id}, URL: {url}")
@@ -431,6 +444,36 @@ with tab2:
         except Exception as e:
             logger.error(f"Error processing CSV: {e}", exc_info=True)
             st.markdown(f'<div class="error-box">❌ <strong>Error:</strong> {str(e)}</div>', unsafe_allow_html=True)
+
+# ============================================================================
+# TAB 3: Seller Dashboard
+# ============================================================================
+with tab3:
+    render_dashboard()
+
+# ============================================================================
+# TAB 4: Buyer Dashboard
+# ============================================================================
+with tab4:
+    render_buyer_dashboard()
+
+# ============================================================================
+# TAB 5: Product Dashboard
+# ============================================================================
+with tab5:
+    render_product_dashboard()
+
+# ============================================================================
+# TAB 6: Intent Matrix Dashboard
+# ============================================================================
+with tab6:
+    render_matrix_dashboard()
+
+# ============================================================================
+# TAB 7: Price Opportunities Dashboard
+# ============================================================================
+with tab7:
+    render_price_opportunity_dashboard()
 
 # Footer
 st.markdown("---")

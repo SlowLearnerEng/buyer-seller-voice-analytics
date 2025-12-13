@@ -1,0 +1,238 @@
+call_id,caller_id,reciever_id,call_product_id,product_name,final_matched_pc_item_id,final_matched_pc_item_name,reason,call_price,catalog_price,price_diff_absolute,price_diff_percent
+638646573,16344901,152298969,P1,Shriyanka Thermal Label Printer 300 DPI,,,,,,,
+638653977,255311872,152298969,P1,4-Inch Label Printer,189116128.0,Shreyans SRS CD410 4 inch Receipt & Label printer,Highest score with identifier near match and spec compatibility,10500.0,9000.0,1500.0,16.66666667
+638653977,255311872,152298969,P1,4-Inch Label Printer,189116128.0,Shreyans SRS CD410 4 inch Receipt & Label printer,Highest score with identifier near match and spec compatibility,10000.0,9000.0,1000.0,11.11111111
+638653977,255311872,152298969,P1,4-Inch Label Printer,189116128.0,Shreyans SRS CD410 4 inch Receipt & Label printer,Highest score with identifier near match and spec compatibility,7800.0,9000.0,1200.0,13.33333333
+638669797,145710803,72509641,P1,Sugarcane Juice Machine,,,,,,,
+638826264,77218948,42728554,P1,"Wet Tissue Pack, 20 Pieces",,,,9.0,,,
+638860652,215017361,72509641,P1,Natorch Air Compressor 5HP 250-300L Tank,,,,,,,
+638911462,71234229,72509641,P1,Juice Extraction Machine Small,,,,,,,
+638980599,115263902,24108739,P1,Canon Xerox Printing Machine Thermal Head MK 1500,171176015.0,Canon Ink Ribbon,Only valid candidate with brand match and identifier near match,,625.0,,
+639001620,115263902,24108739,P1,Thermal Plate,,,,,,,
+639028363,235090901,72509641,P1,Manual Kanna Machine Green,,,,,,,
+639058009,218556470,152298969,P1,Seryas Billing Printer 80mm,185858076.0,Shreyans SRS710 80mm Thermal Receipt Printer with USB Interface,Highest score with identifier near match and spec compatibility,4500.0,5200.0,700.0,13.4615
+639058009,218556470,152298969,P2,Seryas Portable Billing Printer 58mm,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Only valid candidate with identifier near match and category compatibility,1700.0,2200.0,500.0,22.72727273
+639058746,218556470,152298969,P1,"Printer, 58 mm",185784424.0,Shreyans KP206 Thermal Receipt Printer With Bluetooth (58mm),Highest score with identifier exact match and spec compatibility,1700.0,2200.0,500.0,22.72727273
+639058746,218556470,152298969,P2,"Printer, 80 mm",260836449.0,Shreyans 89CU Thermal Receipt Printer,Only valid candidate with matching print width 80 mm,4500.0,5000.0,500.0,10
+639069156,218556470,152298969,P1,Printer,185784424.0,Shreyans KP206 Thermal Receipt Printer With Bluetooth (58mm),Tie broken by price proximity,1700.0,2200.0,500.0,22.72727273
+639242387,11448831,152298969,P1,"Thermal Receipt Printer, 4-Inch CD 410",,,,,,,
+639242387,11448831,152298969,P2,Barcode Scanner,,,,,,,
+639267471,77543878,72509641,P1,Vegetable Cutter Machine For Salad,,,,77.0,,,
+639267471,77543878,72509641,P1,Vegetable Cutter Machine For Salad,276114544.0,Cabbage cutting machine,Only valid candidate with matching category and semantic relevance,200.0,23400.0,23200.0,99.14529915
+639267471,77543878,72509641,P1,Vegetable Cutter Machine For Salad,,,,44.0,,,
+639267471,77543878,72509641,P1,Vegetable Cutter Machine For Salad,,,,912.0,,,
+639271912,84338326,72509641,P1,Papad Machine,270585082.0,Ss Papad Making Machine,Only valid candidate matching product category and keywords,,96000.0,,
+639396599,195934901,152298969,P1,Barcode Label Printer 4 Inch,249682011.0,SHREYANS SRS406T Label Barcode Printer (Thermal Transfer + Direct Thermal),Tie broken by price proximity,4500.0,10300.0,5800.0,56.3107
+639472129,214283379,42728554,P1,YemoX Pro Cutto Machine,,,,6400.0,,,
+639472129,214283379,42728554,P2,Hand Cylinder 4 Inch,,,,,,,
+639498103,50319676,72509641,P1,Maratha Chakki Machine 2HP,,,,12500.0,,,
+639498103,50319676,72509641,P2,Maxwell Heavy Chakki Machine 2HP,,,,15500.0,,,
+639498103,50319676,72509641,P3,Natraj Chakki Machine 1HP,,,,,,,
+639536764,254280789,72509641,P1,Garlic Peeling Machine 100 Kg Per Hour Capacity Full Setup,,,,,,,
+639542132,88128856,152298969,P1,Bluetooth Thermal Printer 2 Inch,185784424.0,Shreyans KP206 Thermal Receipt Printer With Bluetooth (58mm),Only valid candidate with identifier near match and category compatibility,4500.0,6800.0,2300.0,51.11%
+639542132,88128856,152298969,P1,Bluetooth Thermal Printer 2 Inch,185877242.0,Shreyans SRS80D Bluetooth Label And Reciept Printer,Highest score with identifier near match and brand neutral,2400.0,2200.0,200.0,8.33%
+639542132,88128856,152298969,P2,Bluetooth Thermal Printer 3 Inch,,,,4500.0,,,
+639800568,17540813,152298969,P1,Bluetooth Receipt Printer 2 Inch,260836449.0,Shreyans 89CU Thermal Receipt Printer,Only valid candidate with matching category and semantic relevance,,5000.0,,
+639894623,244196654,42728554,P1,Vacuum Cleaner 30 Liter,256243937.0,Wireless Handheld Vacuum Cleaner,Only valid candidate matching category and semantic,,1250.0,,
+639894623,244196654,42728554,P2,Vacuum Cleaner 70 Liter,256243937.0,Wireless Handheld Vacuum Cleaner,Only valid candidate matching category and semantic,,1250.0,,
+639924255,150185454,42728554,P1,Imported Geyser Spare Parts,255433356.0,Pure copper Gas Geyser Assembly,Only valid candidate matching geyser spare parts category,,375.0,,
+640001713,102546784,42728554,P1,MOOF Pro Pipe 10 Inch,,,,5200.0,,,
+640043857,30937636,42728554,P1,Makpro Meter Search 10 Inch,,,,9000.0,,,
+640043857,30937636,42728554,P1,Makpro Meter Search 10 Inch,,,,5500.0,,,
+640051635,107660868,24108739,P1,"Ferrule Tube, 3 Square Mm",,,,215.0,,,
+640051635,107660868,24108739,P1,"Ferrule Tube, 3 Square Mm",,,,182.75,,,
+640051635,107660868,24108739,P2,"Ferrule Tube, 5 Millimeter",,,,425.0,,,
+640051635,107660868,24108739,P3,"Ferrule Tube, 6.5 Millimeter",283256552.0,PT-IR50BH Ink Ribbon Black for Max - Letatwin,Only valid candidate matching usage/application with ferrule tube,550.0,595.0,45.0,7.56302521
+640067743,225273914,24108739,P1,Lita Bin Printer Machine Roller,249682011.0,SHREYANS SRS406T Label Barcode Printer (Thermal Transfer + Direct Thermal),Tie broken by price proximity,,10300.0,,
+640212121,134160851,42728554,P1,Drill Machine 20mm,,,,1250.0,,,
+640212121,134160851,42728554,P2,Drill Machine 10mm,,,,,,,
+640222751,103658699,152298969,P1,Sriyansh Label Sticker Printer Model 368D,,,,4500.0,,,
+640335642,186347151,24108739,P1,Ferrule Tube 2.7mm,,,,,,,
+640335642,186347151,24108739,P2,Ferrule Tube 4.2mm,,,,,,,
+640335642,186347151,24108739,P3,Ferrule Tube 6.3mm,,,,,,,
+640373110,248857939,152298969,P1,Thermal Receipt Printer 3-Inch,250008539.0,SHREYANS SRS-KP307 3 inch Thermal Printer with Autocutter (USB+Bluetooth),Tie broken by price proximity,,4800.0,,
+640439732,245283500,42728554,P1,Havells Capacitor 2.5 MFD,,,,,,,
+640448844,112230231,152298969,P1,Shreyansh Billing Machine POS System 3-Inch Printer Android OS,189206114.0,"Shreyans SRS95A 15.6"" Inch Android Touch Pos with Inbuilt Printer & Software",Highest score and valid match with identifier exact and brand match,30000.0,37000.0,7000.0,18.91891892
+640448844,112230231,152298969,P1,Shreyansh Billing Machine POS System 3-Inch Printer Android OS,189206114.0,"Shreyans SRS95A 15.6"" Inch Android Touch Pos with Inbuilt Printer & Software",Highest score among valid candidates with identifier near match and brand match,35000.0,37000.0,2000.0,5.405405405
+640523446,93297367,24108739,P1,Epson Label Tape LK4WBN,290426388.0,Epson Lk-4YBP Label Tape (12mm Yellow),Best score with identifier near match and brand match,560.0,507.0,53.0,10.45
+640567919,9007991,24108739,P1,Printer Cartridge For Mask Label Printer,,,,,,,
+640613763,255825718,42728554,P1,Bike Cover Umbrella,,,,1500.0,,,
+640764464,133856124,72509641,P1,Popcorn Machine,,,,,,,
+640804988,12525995,152298969,P1,Bluetooth Printer,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Highest score with identifier exact and brand similarity,1250.0,2200.0,950.0,43.1818
+640804988,12525995,152298969,P1,Bluetooth Printer,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Highest score with identifier near match and brand similarity,1300.0,2200.0,900.0,40.9091
+640812166,69815260,24108739,P1,Pherol Printing Machine Manual Model,246884449.0,Shreyans SRS95A Android Touch Pos with Inbuilt Printer & Software,Selected among valid candidates with highest score and no call identifiers to restrict,,37000.0,,
+640812166,69815260,24108739,P2,Pherol Printing Machine Software Model,,,,,,,
+640819587,74745381,72509641,P1,Garlic Peeling Machine,,,,11500.0,,,
+640874556,255882574,24108739,P1,Partex Ferrule Sleeve 10mm White,,,,,,,
+640896094,234429531,42728554,P1,Mlan Texon Mok Pro Washer Pump M1 Model,291088629.0,MOKPRO WATER PUMP 3 INCH OUTLET,Only valid candidate with identifier near match,,6380.0,,
+640931593,87782922,152298969,P1,Receipt Printer With Screen,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Highest score among valid candidates; tie broken by brand and name similarity,,2200.0,,
+640951114,79046811,72509641,P1,Garlic Peeling Machine,,,,11500.0,,,
+640999397,28409348,152298969,P1,Posiflo 2D Wireless Handheld Barcode Scanner,,,,,,,
+640999397,28409348,152298969,P2,Posiflo Desktop 2D Barcode Scanner,189205292.0,Omni Directional Laser Barcode Scanner,Only valid candidate with matching category and identifier rule bypassed due to no call identifiers,,4400.0,,
+640999397,28409348,152298969,P3,Posiflo 3-Inch Thermal POS Printer,250008539.0,SHREYANS SRS-KP307 3 inch Thermal Printer with Autocutter (USB+Bluetooth),Highest score among valid candidates,,4800.0,,
+641039804,107561453,152298969,P1,Billing Printer 2-Inch,189086593.0,Shreyans CLA58UB Label + Receipt Printer (2inch),Highest score among valid candidates,,5500.0,,
+641094291,228461954,42728554,P1,PCB Compressor 300 Bar,,,,,,,
+641094291,228461954,42728554,P2,PCB Compressor 450 PSI,,,,,,,
+641306420,235877892,152298969,P1,Shyan Fido Solution Windows Desktop Touchscreen POS Machine With Software And Thermal Printer,246884449.0,Shreyans SRS95A Android Touch Pos with Inbuilt Printer & Software,Higher score and valid match after tie-breaking,45000.0,37000.0,8000.0,21.62162162
+641306420,235877892,152298969,P1,Shyan Fido Solution Windows Desktop Touchscreen POS Machine With Software And Thermal Printer,184781097.0,Shreyans Q1 Handheld Android POS (5000mAh Large Battery Backup),Only valid candidate with partial brand and semantic match,41000.0,15000.0,26000.0,173.3333333
+641306420,235877892,152298969,P1,Shyan Fido Solution Windows Desktop Touchscreen POS Machine With Software And Thermal Printer,184781097.0,Shreyans Q1 Handheld Android POS (5000mAh Large Battery Backup),Only valid candidate; category and brand compatible; tie-break not needed,3500.0,15000.0,11500.0,76.6667
+641306420,235877892,152298969,P1,Shyan Fido Solution Windows Desktop Touchscreen POS Machine With Software And Thermal Printer,184781097.0,Shreyans Q1 Handheld Android POS (5000mAh Large Battery Backup),Only valid candidate with partial brand and semantic match,41000.0,15000.0,26000.0,173.3333333
+641372528,254436520,42728554,P1,Mokro Piston Pump 6.5 HP,,,,5500.0,,,
+641476515,49060277,72509641,P1,Srilaxmi Atta Chakki 2HP,271583465.0,16 inch stone aata chakki Machine With Motor,Only valid candidate; matched on category and identifiers; tie-break not needed,14500.0,48500.0,34000.0,70.1031
+641487115,256061570,42728554,P1,Drilling Machine 20mm,,,,2000.0,,,
+641499481,121493527,152298969,P1,POS Machine Android,189206114.0,"Shreyans SRS95A 15.6"" Inch Android Touch Pos with Inbuilt Printer & Software",Highest score among valid candidates with Android OS and POS category,35000.0,37000.0,2000.0,5.405405405
+641499481,121493527,152298969,P2,POS Machine Windows,189205579.0,"15"" Touch Windows Pos 4Gb Ram 128Gb SSD Capacitive Touch",Only valid candidate with identifier near match and matching Windows OS,45000.0,45000.0,0.0,0
+641499481,121493527,152298969,P2,POS Machine Windows,189205579.0,"15"" Touch Windows Pos 4Gb Ram 128Gb SSD Capacitive Touch",Only valid candidate with matching category and OS; highest score,46000.0,45000.0,1000.0,2.222222222
+641499481,121493527,152298969,P3,Thermal Scanner,,,,,,,
+641499481,121493527,152298969,P4,Barcode Scanner Standing Round,,,,,,,
+641813606,255364043,152298969,P1,Thermometer POS Machine,248525290.0,Pos Machine,Highest score with valid category and no contradictions,,15000.0,,
+641813606,255364043,152298969,P2,Thermal Printer,249682011.0,SHREYANS SRS406T Label Barcode Printer (Thermal Transfer + Direct Thermal),Highest score with identifier near match and category compatibility,,10300.0,,
+641893295,139785679,42728554,P1,Umbrella Canopy For Scooter Activa,261029864.0,Bike Rain canopy For Rain Protection & Sun Protection,Only valid candidate; category and semantic compatible,1500.0,1000.0,500.0,50
+641971766,66036475,42728554,P1,Mock Pro Tile Cutter 2 Feet,,,,6200.0,,,
+641971766,66036475,42728554,P1,Mock Pro Tile Cutter 2 Feet,,,,6000.0,,,
+641972129,194984753,152298969,P1,KP307 Desktop Thermal Printer,250008539.0,SHREYANS SRS-KP307 3 inch Thermal Printer with Autocutter (USB+Bluetooth),Identifier exact match and category compatibility,4800.0,4800.0,0.0,0
+641972129,194984753,152298969,P1,KP307 Desktop Thermal Printer,250008539.0,SHREYANS SRS-KP307 3 inch Thermal Printer with Autocutter (USB+Bluetooth),Only valid candidate with identifier near match and brand neutral,4600.0,4800.0,200.0,4.166666667
+642073861,180930188,24108739,P1,Max Letter Ribbon Cartridge,,,,,,,
+642114542,101613460,152298969,P1,SRS 421 Thermal Receipt Printer Wifi LAN USB Bluetooth,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Highest score with identifier near match and brand neutral,,2200.0,,
+642114542,101613460,152298969,P2,Seri 410 Thermal Receipt Printer,189113892.0,Shreyans SRS CD410 4 inch Direct Thermal Barcode Printing Machine,Only valid candidate with matching identifiers and brand,,10000.0,,
+642114542,101613460,152298969,P3,Mobile Thermal Receipt Printer 2 Inch Bluetooth,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Highest score among valid candidates; tie broken by name and semantic similarity,,2200.0,,
+642117936,36984089,72509641,P1,SSI Sugar Cane Machine Casting Roll,,,,24500.0,,,
+642117936,36984089,72509641,P2,SSI Sugar Cane Machine SSI Roll,,,,28500.0,,,
+642117936,36984089,72509641,P3,SSI Sugar Cane Machine Unknown Roll Type,,,,18500.0,,,
+642253360,247811455,72509641,P1,Electric Popcorn Machine,270946039.0,Automatic Popcorn Machine,Highest score among valid candidates; tie broken by identifier exact and spec score,14500.0,15000.0,500.0,3.333333333
+642255068,247811455,72509641,P1,Popcorn Machine Light Variant,,,,14500.0,,,
+642255068,247811455,72509641,P2,Popcorn Machine Battery Variant Gas Powered,,,,13500.0,,,
+642489222,190927666,42728554,P1,Compressor Small Capacity,,,,5650.0,,,
+642489222,190927666,42728554,P1,Compressor Small Capacity,,,,890.0,,,
+642489222,190927666,42728554,P1,Compressor Small Capacity,,,,10000.0,,,
+642550148,124860749,24108739,P1,PVC Sleeve 4.5 mm,,,,,,,
+642574835,20563398,42728554,P1,"Tile Cutting Tool, 2-Foot Blade",270946037.0,Electric Chaff Cutter Machine,Only valid candidate,2800.0,22000.0,19200.0,87.2727
+642574835,20563398,42728554,P2,"Tile Cutting Tool, 4-Foot Blade",,,,6200.0,,,
+642605137,185163054,72509641,P1,Cabbage Shredding Machine Small,,,,,,,
+642626208,46144858,152298969,P1,Shirian Thermal Printer 3-Inch,189119527.0,Shreyans KP306 Thermal Receipt Printer (3inch) with USB + Bluetooth Connectivity,Higher score and valid match with 3 inch thermal printer,,4000.0,,
+642640747,160614693,24108739,P1,Brother Face 3071271,,,,,,,
+642939902,194020457,152298969,P1,Shreyaansh PL 240 Printer,249682011.0,SHREYANS SRS406T Label Barcode Printer (Thermal Transfer + Direct Thermal),Highest score among valid candidates,,10300.0,,
+642974170,251369558,24108739,P1,Wala Supreme Enterprise Printing Machine,189113892.0,Shreyans SRS CD410 4 inch Direct Thermal Barcode Printing Machine,Highest score and valid match,,10000.0,,
+643001456,43433778,24108739,P1,Brother Fitting White Size 9,,,,,,,
+643001456,43433778,24108739,P2,Brother Fitting White Size 12,311763924.0,Canon Label Tape Cassette 12mm Yellow,Only valid candidate; identifier exact match on '12mm' size token,,875.0,,
+643001456,43433778,24108739,P3,Brother Fitting White Size 18,,,,,,,
+643027958,251167913,152298969,P1,Barcode Label Printer Black and White,250008539.0,SHREYANS SRS-KP307 3 inch Thermal Printer with Autocutter (USB+Bluetooth),Highest score among valid candidates,,4800.0,,
+643027958,251167913,152298969,P2,Colorful Barcode Labels,,,,,,,
+643102744,30140010,72509641,P1,Bapu Machinery Pulverizer 5HP Single Phase,271583465.0,16 inch stone aata chakki Machine With Motor,Only valid candidate; category and specs compatible,160000.0,48500.0,111500.0,229.8969072
+643102744,30140010,72509641,P2,Bapu Machinery Pulverizer 7HP Single Phase,,,,,,,
+643179086,141547000,42728554,P1,Hammer 5 Kg,,,,7500.0,,,
+643179086,141547000,42728554,P2,Hammer 7 Kg,,,,8500.0,,,
+643260776,251868675,24108739,P1,Sukh Vyan Black Ribbon,,,,750.0,,,
+643260776,251868675,24108739,P1,Sukh Vyan Black Ribbon,,,,950.0,,,
+643439579,157112899,24108739,P1,Epson LW 400 Label Printer,155377731.0,Epson LW 400 Label Printer,Identifier exact match and brand exact with perfect name and spec compatibility,,4405.0,,
+643710907,229284132,42728554,P1,Mokro AC Capacitor,271857606.0,Havells Power Capacitor,Only valid candidate; no identifiers or brand in call to reject; category compatible; scored on name and specs,,25.0,,
+644006524,120268108,24108739,P1,Cable Marking Printer,146656067.0,TP70E Cable ID Printer,Only valid candidate matching cable marking printer semantics,,29500.0,,
+644020832,139524287,72509641,P1,Atta Chakki Flour Mill 14 Inch Single Phase 3 HP Motor,271583459.0,1 Hp Fully Automatic Domestic Flour Mill,Tie broken by price proximity,28000.0,13500.0,14500.0,107.4074074
+644020832,139524287,72509641,P2,Atta Chakki Flour Mill 16 Inch Single Phase Motor,270946026.0,Maxwell Atta Chakki Machine,"Highest score with valid category, identifier, and brand match",,16500.0,,
+644031073,120268108,24108739,P1,Second-Hand Printing Machine,189113892.0,Shreyans SRS CD410 4 inch Direct Thermal Barcode Printing Machine,Only valid candidate; no identifiers or specs in call to restrict; category compatible; brand neutral; scored on name and semantic similarity,,10000.0,,
+644031073,120268108,24108739,P2,Ferul Printing Service,311711109.0,Ferrule Printing Machine Supvan TP70E,Only valid candidate with identifier exact match,,29500.0,,
+644031073,120268108,24108739,P3,Swast Printer,189109951.0,Shreyans CA428 4inch Label Printer with USB + Bluetooth,Tie broken by price proximity,1000.0,8500.0,7500.0,88.23529412
+644031073,120268108,24108739,P3,Swast Printer,185784424.0,Shreyans KP206 Thermal Receipt Printer With Bluetooth (58mm),Tie broken by price proximity,2000.0,2200.0,200.0,9.090909091
+644061593,256669606,72509641,P1,Grinding Mill Stone Type 14 Inch 3HP Motor,271583465.0,16 inch stone aata chakki Machine With Motor,Only valid candidate matching category and specs,28500.0,48500.0,20000.0,41.2371134
+644061593,256669606,72509641,P2,Grinding Mill Table Top 2HP,270946026.0,Maxwell Atta Chakki Machine,Higher score and valid match with matching motor power 2 HP,12500.0,16500.0,4000.0,24.24242424
+644082513,29436751,72509641,P1,Gokul Grinding Machine 6HP Single Phase,,,,40000.0,,,
+644082513,29436751,72509641,P2,Gokul Grinding Machine 5HP Single Phase,,,,38000.0,,,
+644246857,256714984,152298969,P1,Handheld Building Machine,,,,,,,
+644248382,35406520,42728554,P1,Halogen Lamp,,,,,,,
+644299897,256722919,152298969,P1,SREN Spindle Model 710 With USB Wi-Fi Bluetooth LAN,185858076.0,Shreyans SRS710 80mm Thermal Receipt Printer with USB Interface,Only valid candidate with identifier near match and brand similarity,4500.0,5200.0,700.0,13.4615
+644299897,256722919,152298969,P1,SREN Spindle Model 710 With USB Wi-Fi Bluetooth LAN,185858076.0,Shreyans SRS710 80mm Thermal Receipt Printer with USB Interface,Identifier exact match and valid brand; best score,5000.0,5200.0,200.0,3.846153846
+644300508,46253198,152298969,P1,MB 55 Handle Coding Machine Android,311711109.0,Ferrule Printing Machine Supvan TP70E,Tie broken by price proximity,20000.0,29500.0,9500.0,32.20338983
+644300508,46253198,152298969,P1,MB 55 Handle Coding Machine Android,,,,10000.0,,,
+644366835,254740195,152298969,P1,Shreyans Thermal Printer SRS KP307 3-Inch 80mm,250008539.0,SHREYANS SRS-KP307 3 inch Thermal Printer with Autocutter (USB+Bluetooth),Only valid candidate with identifier near match and brand match,,4800.0,,
+644502140,185423791,24108739,P1,Supoavan Thermal Printing Machine PC Connectivity,,,,,,,
+644502140,185423791,24108739,P1,Supoavan Thermal Printing Machine PC Connectivity,,,,,,,
+644582354,68347652,42728554,P1,Geyser,255433356.0,Pure copper Gas Geyser Assembly,Only valid candidate matching category and no contradictions,,375.0,,
+644686180,205252019,72509641,P1,Welding Machine 300 Ampere,,,,,,,
+644736152,256828522,72509641,P1,Ghar Guti,,,,12500.0,,,
+644736152,256828522,72509641,P2,Machinery Saga Type,,,Multiple valid candidates with no identifiers or brand to differentiate; ambiguous match,,,,
+644802070,205252019,72509641,P1,Welding Machine,,,,,,,
+644845339,153133177,42728554,P1,Thermostat,,,,,,,
+644852683,256862821,42728554,P1,Mockpro Drill Machine 20mm,255433337.0,Electric Drill 13mm,Only valid candidate with matching category and identifiers,2000.0,780.0,1220.0,156.41
+644852683,256862821,42728554,P1,Mockpro Drill Machine 20mm,255433337.0,Electric Drill 13mm,Only valid candidate with matching category and identifiers,2000.0,780.0,1220.0,156.41
+644854689,100502312,152298969,P1,Mobile Printer 2 Inch Basic Model,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Highest score among valid candidates,1150.0,2200.0,1050.0,47.72727273
+644854689,100502312,152298969,P2,Mobile Printer 2 Inch Premium Model,185860219.0,Shreyans SRS58B Bluetooth Receipt Printer,Only valid candidate with matching category and compatible specs,1250.0,2200.0,950.0,43.18181818
+644857073,42695090,42728554,P1,Thermostat,,,,,,,
+644889048,100502312,152298969,P1,Shreyans Printer Model 1150,,,,1150.0,,,
+644889048,100502312,152298969,P1,Shreyans Printer Model 1150,,,,60000.0,,,
+644889048,100502312,152298969,P2,Shreyans Printer Model 1200,312978471.0,Label Printer,Only valid candidate; no identifiers or specs to contradict; brand missing in call treated neutral,1200.0,,,
+644926930,256870246,72509641,P1,2 HP Cutter Boxed Variant,276678993.0,KEN7614NB Cut Off Machine,Only valid candidate by category compatibility,,7800.0,,
+644961654,251868675,24108739,P1,Suub Van Black Ribbon,,,,950.0,,,
+644961654,251868675,24108739,P1,Suub Van Black Ribbon,,,,710.0,,,
+644961654,251868675,24108739,P1,Suub Van Black Ribbon,,,,,,,
+644961654,251868675,24108739,P1,Suub Van Black Ribbon,,,,1650.0,,,
+644961654,251868675,24108739,P1,Suub Van Black Ribbon,,,,130.0,,,
+645001337,251868675,24108739,P1,Suddan Black Ribbon 100 Meter,,,,,,,
+645191735,251868675,24108739,P1,Unknown Product for Isosceles Company,,,,130.0,,,
+645387173,3419924,42728554,P1,Imported Tile Cutter 24 Inch,,,,1800.0,,,
+645465016,124996714,24108739,P1,Supvan Cable ID Printer TP76E PC Connected,146656067.0,TP70E Cable ID Printer,Only valid candidate with matching identifiers and brand,,29500.0,,
+645465016,124996714,24108739,P2,Supvan Cable ID Printer TP70E Manual,155452443.0,SUPVAN TP76E Cable ID Printer,Only valid candidate with matching brand and identifiers,,36500.0,,
+645519421,236205498,152298969,P1,Thermal Pocket Printer 3 Inch,189119527.0,Shreyans KP306 Thermal Receipt Printer (3inch) with USB + Bluetooth Connectivity,Highest score among valid candidates,,4000.0,,
+645533724,124996714,24108739,P1,TP 76E Printer,146656067.0,TP70E Cable ID Printer,Only valid candidate; identifier near match and category compatible,46500.0,29500.0,17000.0,57.6271
+645539221,110288323,24108739,P1,Supwan Ferrule Cable Marker Printer With PC Connectivity,155452443.0,SUPVAN TP76E Cable ID Printer,Only valid candidate; brand match and semantic match; tie-break not needed,36500.0,36500.0,0.0,0
+645539221,110288323,24108739,P1,Supwan Ferrule Cable Marker Printer With PC Connectivity,,,,32850.0,,,
+645539221,110288323,24108739,P1,Supwan Ferrule Cable Marker Printer With PC Connectivity,,,,,,,
+645539221,110288323,24108739,P1,Supwan Ferrule Cable Marker Printer With PC Connectivity,,,,850.0,,,
+645541308,110288323,24108739,P1,Ribbon,,,,,,,
+645541308,110288323,24108739,P2,Level Tape,,,,,,,
+645541308,110288323,24108739,P3,Ferrule Tube,,,,,,,
+645651646,10272775,42728554,P1,Mock Pro Petrol Pump Set 3 Inch Aluminium Connector,,,,5800.0,,,
+645651646,10272775,42728554,P1,Mock Pro Petrol Pump Set 3 Inch Aluminium Connector,,,,5200.0,,,
+645651646,10272775,42728554,P2,Mock Pro Petrol Engine,289956543.0,Gasoline Engine Water Pump 2 Hp,Only valid candidate with matching category and no contradictions,3400.0,5800.0,2400.0,41.37931034
+645651646,10272775,42728554,P2,Mock Pro Petrol Engine,289956543.0,Gasoline Engine Water Pump 2 Hp,Only valid candidate with category compatibility and no contradictions,3100.0,5800.0,2700.0,46.5517
+645659518,184075734,42728554,P1,Aluminum Cutter Machine Millimeter Scale,,,,5500.0,,,
+645886659,76537258,72509641,P1,"Aata Pisne Ka Machine, Home Use, 5 Kg Per Hour",270946026.0,Maxwell Atta Chakki Machine,Highest score among valid candidates,11000.0,16500.0,5500.0,33.33333333
+645914156,93500968,24108739,P1,"Printing Sleeve Tube, 3.2 mm, 100 Meter Roll",,,,225.0,,,
+646053919,85033937,72509641,P1,Garlic Chilli Machine Nashik Made,,,,,,,
+646114678,10272775,42728554,P1,Mocpro Water Pump Set 3-Inch,,,,5600.0,,,
+646114678,10272775,42728554,P1,Mocpro Water Pump Set 3-Inch,275737527.0,MOKPRO piston pump,Only valid candidate by category compatibility,5200.0,3000.0,2200.0,73.33333333
+646261587,55706061,24108739,P1,Sharda Enterprises Tabletop Printing Machine TP70E,,,,,,,
+646353197,257213417,42728554,P1,Gas Geyser Lighter Box,255433356.0,Pure copper Gas Geyser Assembly,Only valid candidate matching gas geyser related product,150.0,375.0,225.0,60
+646353197,257213417,42728554,P1,Gas Geyser Lighter Box,255433356.0,Pure copper Gas Geyser Assembly,Only valid candidate with semantic and category compatibility,250.0,375.0,125.0,33.33333333
+646374211,10272775,42728554,P1,Mokpro Petrol Water Pump Set 3x3 Inch,,,,5800.0,,,
+646374211,10272775,42728554,P1,Mokpro Petrol Water Pump Set 3x3 Inch,,,,5300.0,,,
+646376923,193728516,24108739,P1,Cashew Printer Sticker 12mm x 9mm Red,,,,,,,
+646376923,193728516,24108739,P2,Cashew Printer Sticker 12mm x 9mm Blue,,,,,,,
+646376923,193728516,24108739,P3,Cashew Printer Sticker 12mm x 9mm Yellow,185877287.0,Shreyans Thermal Labels,Best valid match with identifier exact and category compatibility,,250.0,,
+646376923,193728516,24108739,P4,Cashew Printer Sticker 12mm x 9mm White,185877286.0,Shreyans Direct Thermal Label,Highest score among valid candidates,,250.0,,
+646381789,257210650,72509641,P1,Dew Grinder Atta Machine 5Kg,270946026.0,Maxwell Atta Chakki Machine,Highest score among valid candidates,14000.0,16500.0,2500.0,15.15151515
+646413800,77632251,72509641,P1,Popcorn Machine Electric,271583123.0,Popcorn Making Machine,Highest score among valid candidates; identifier near match; brand neutral,,15600.0,,
+646495107,257249598,42728554,P1,Gas Geyser Lighter Double Point,255433356.0,Pure copper Gas Geyser Assembly,Only valid candidate with partial semantic match and no contradictions,200.0,375.0,175.0,46.66666667
+646855635,151605260,24108739,P1,Epson Label Printer LW700,155378707.0,Epson LW 700 Label Printer,Highest score with identifier exact match and brand match,,9660.0,,
+646857763,40713061,24108739,P1,Ferrule Printing Machine Ribbon,283256552.0,PT-IR50BH Ink Ribbon Black for Max - Letatwin,Only valid candidate matching ferrule printing machine ribbon usage,,595.0,,
+646983749,224206369,42728554,P1,Quartz And Halogen Heater Rod,,,,,,,
+647013232,51422428,152298969,P1,Windows Touch Screen POS Machine Desktop,,,,30000.0,,,
+647013232,51422428,152298969,P1,Windows Touch Screen POS Machine Desktop,247181982.0,Shreyans SRS95A WITH INBUILT PRINTER & RESTAURANT SOFTWARE,Best score among valid candidates,25000.0,37000.0,12000.0,32.43243243
+647013232,51422428,152298969,P1,Windows Touch Screen POS Machine Desktop,246884449.0,Shreyans SRS95A Android Touch Pos with Inbuilt Printer & Software,Tie broken by price proximity,38000.0,37000.0,1000.0,2.7027
+647068849,180874980,24108739,P1,"Label Tape, White, 9mm",185877286.0,Shreyans Direct Thermal Label,Only valid candidate,770.0,250.0,520.0,208
+647068849,180874980,24108739,P2,"Label Tape, White, 12mm",,,,880.0,,,
+647110808,243238626,72509641,P1,Ginger Peeling Machine,,,,,,,
+647207360,213810738,72509641,P1,Garlic Peeling Machine Small,,,,12500.0,,,
+647267983,72227690,42728554,P1,Gas Geyser Circuit,,,,,,,
+647267983,72227690,42728554,P2,Relay for Gas Geyser Circuit,,,,,,,
+647275719,213810738,72509641,P1,Lakshmi Solapur Machine Small Variant,308889052.0,Pos Machine,Only valid candidate; no identifiers or brand in call product; category compatible,12500.0,19500.0,7000.0,35.8974359
+647345583,142518417,24108739,P1,Printer Machine TP 70E,146656067.0,TP70E Cable ID Printer,Identifier exact match with call product model 'TP70E',,29500.0,,
+647377483,121466293,152298969,P1,"Chromo Labels 4x6, 90 GSM Roll",185877286.0,Shreyans Direct Thermal Label,Only valid candidate matching label roll product type,180.0,250.0,70.0,28
+647435234,195792020,152298969,P1,Screen Auto Cutter,,,,4500.0,,,
+647537880,194251661,42728554,P1,Mallcom Fixon Vacuum Cleaner 30 Litre,,,,,,,
+647537880,194251661,42728554,P2,Mallcom Fixon Vacuum Cleaner 70 Litre,256243937.0,Wireless Handheld Vacuum Cleaner,Only valid candidate; category compatible and no contradictions,,1250.0,,
+647537880,194251661,42728554,P3,Mallcom Fixon Car Washer Copper 2500 Watt,,,,,,,
+647537880,194251661,42728554,P4,Mallcom Fixon Car Washer Aluminum 1800 Watt,275498405.0,Car washer variable controller,Only valid candidate with matching category and no contradictions,,3300.0,,
+647537880,194251661,42728554,P5,Mallcom Fixon Car Polisher,,,,,,,
+648103432,110494798,152298969,P1,Level Printer For Paper Labels,155377731.0,Epson LW 400 Label Printer,Highest score among valid candidates,4500.0,4405.0,95.0,2.156
+648142096,153578193,24108739,P1,TP 70 Printing Machine Cartridge,,,,900.0,,,
+648142096,153578193,24108739,P1,TP 70 Printing Machine Cartridge,,,,7100.0,,,
+648210716,238617305,152298969,P1,Thermal Printer 3 Inch,250008539.0,SHREYANS SRS-KP307 3 inch Thermal Printer with Autocutter (USB+Bluetooth),Highest score among valid candidates,,4800.0,,
+648451171,209356540,42728554,P1,Vacuum Cleaner 30 Liter,256243937.0,Wireless Handheld Vacuum Cleaner,Only valid candidate by category compatibility and no contradictions,,1250.0,,
+648482248,59432694,152298969,P1,Offline POS Machine,313720571.0,SHREYANS Handheld Pos Machine,Highest score among valid candidates,,17500.0,,
+648494100,57771617,72509641,P1,Farsan Machine 9 Inch,,,,24000.0,,,
+648494100,57771617,72509641,P2,Farsan Machine 7 Inch,,,,22500.0,,,
+648504023,257406947,72509641,P1,Automatic Sugarcane Crusher Machine,,,,10.0,,,
+648552499,120498092,24108739,P1,Leta Twin Ferrule Printing Machine PC Connectivity Model,,,,,,,
+648552499,120498092,24108739,P2,Leta Twin Ferrule Printing Machine Manual Model,,,,,,,
+648552499,120498092,24108739,P3,Leta Twin Ribbon Consumable Green and Black,,,,,,,
+648552499,120498092,24108739,P4,Leta Twin Ribbon Consumable White,,,,,,,

@@ -1,0 +1,5 @@
+seller_id,total_calls,unique_products,unique_buyers,seller_type,dominant_product,avg_seller_sentiment_num,median_initial_price,median_final_price,avg_discount_percent,negotiation_rate_percent,number_of_price_revisions_avg,price_variance,seller_minimum_price,seller_maximum_price,median_moq_value,median_moq_price,volume_mix_indicator
+24108739,35,1,28,mixed/unknown,Brother Face 3071271,0.51,835.0,865.0,-59.85,11.43,0.71,220857315.72,130.0,46500.0,2.0,710.0,20.0
+42728554,35,1,33,mixed/unknown,Thermostat,0.49,5200.0,5200.0,-6.86,17.14,0.66,8146845.76,9.0,10000.0,10.0,5500.0,45.71
+72509641,33,1,30,retail,Garlic Peeling Machine,0.45,14000.0,13500.0,-53.14,15.15,0.52,1181578780.56,10.0,160000.0,1.0,14000.0,0.0
+152298969,37,1,34,mixed/unknown,4-Inch Label Printer,0.62,4500.0,4500.0,-5.83,13.51,0.97,228778697.63,180.0,46000.0,49.0,4500.0,18.92

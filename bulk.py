@@ -62,10 +62,11 @@ def normalize_recording_url(raw_url: str) -> str:
     if isinstance(raw_url, bytes):
         raw_url = raw_url.decode('utf-8', errors='ignore')
     
-    # Remove ALL whitespace characters (spaces, tabs, newlines, etc.)
-    raw_url = ''.join(raw_url.split())
+    # Remove specific whitespace characters (spaces at ends, tabs, newlines)
+    # CAUTION: Do NOT remove internal spaces as they might be part of the token
+    raw_url = raw_url.replace('\n', '').replace('\r', '').replace('\t', '').strip()
     
-    logger.debug(f"After whitespace removal: {raw_url}")
+    logger.debug(f"After cleanup: {raw_url}")
     
     if not raw_url:
         logger.warning("URL is empty after sanitization")
@@ -219,9 +220,9 @@ def transcribe_audio(url, caller_id="unknown", receiver_id="unknown"):
         if isinstance(url, bytes):
             url = url.decode('utf-8', errors='ignore')
         
-        # Remove all whitespace (spaces, tabs, newlines, etc.)
-        clean_url = ''.join(url.split())
-        logger.info(f"URL after whitespace removal: {clean_url}")
+        # Remove specific whitespace characters (tabs, newlines) but KEEP spaces in middle which might be part of token
+        clean_url = url.replace('\n', '').replace('\r', '').replace('\t', '').strip()
+        logger.info(f"URL after cleanup: {clean_url}")
         
         # Normalize the URL (this will also remove whitespace again as safety)
         normalized_url = normalize_recording_url(clean_url)
@@ -236,7 +237,8 @@ def transcribe_audio(url, caller_id="unknown", receiver_id="unknown"):
         )
         
         # Download the transcription text
-        transcription_text = download_transcription_text(trans_url)
+        # Increased retries to 20 to handle 'Queued' status (approx 2-3 mins waiting)
+        transcription_text = download_transcription_text(trans_url, max_retries=20)
         
         # Build successful response
         result["success"] = True

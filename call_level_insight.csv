@@ -1,0 +1,141 @@
+call_id,buyer_id,seller_id,Buyer_Intent_Label,Seller_Intent_Label,buyer_sentiment,seller_sentiment,is_high_intent,negotiation_flag,product_name,final_price,delivery_responsibility,seller_delivers_to_buyer_location
+638646573,16344901,152298969,Low,Low,neutral,positive,False,no,Shriyanka Thermal Label Printer 300 DPI,,unknown,unknown
+638653977,255311872,152298969,High,Low,neutral,neutral,True,yes,4-Inch Label Printer,7800.0,unknown,unknown
+638669797,145710803,72509641,Low,Low,neutral,positive,False,no,Sugarcane Juice Machine,,unknown,unknown
+638826264,77218948,42728554,High,Low,neutral,neutral,True,no,"Wet Tissue Pack, 20 Pieces",9.0,unknown,unknown
+638860652,215017361,72509641,Low,Low,neutral,neutral,False,no,Natorch Air Compressor 5HP 250-300L Tank,,unknown,unknown
+638911462,71234229,72509641,Low,Low,neutral,neutral,False,no,Juice Extraction Machine Small,,unknown,unknown
+638980599,115263902,24108739,Low,Low,neutral,neutral,False,no,Canon Xerox Printing Machine Thermal Head MK 1500,,unknown,unknown
+639001620,115263902,24108739,Low,Low,neutral,neutral,False,no,Thermal Plate,,unknown,unknown
+639028363,235090901,72509641,Low,Low,neutral,positive,False,no,Manual Kanna Machine Green,,unknown,unknown
+639058009,218556470,152298969,High,High,neutral,positive,True,yes,Seryas Billing Printer 80mm,1700.0,seller,unknown
+639058746,218556470,152298969,High,Low,neutral,positive,True,no,"Printer, 58 mm",4500.0,seller,yes
+639069156,218556470,152298969,High,Low,positive,positive,True,no,Printer,1700.0,seller,yes
+639242387,11448831,152298969,Low,Low,positive,neutral,False,no,"Thermal Receipt Printer, 4-Inch CD 410",,seller,yes
+639267471,77543878,72509641,High,Low,neutral,positive,True,no,Vegetable Cutter Machine For Salad,912.0,unknown,unknown
+639271912,84338326,72509641,Low,Low,neutral,neutral,False,no,Papad Machine,,unknown,unknown
+639396599,195934901,152298969,High,Low,positive,positive,True,no,Barcode Label Printer 4 Inch,4500.0,unknown,unknown
+639472129,214283379,42728554,High,Low,neutral,neutral,True,no,YemoX Pro Cutto Machine,6400.0,buyer,no
+639498103,50319676,72509641,High,Low,positive,positive,True,no,Maratha Chakki Machine 2HP,15500.0,unknown,unknown
+639536764,254280789,72509641,Low,Low,neutral,neutral,False,no,Garlic Peeling Machine 100 Kg Per Hour Capacity Full Setup,,unknown,unknown
+639542132,88128856,152298969,High,Low,neutral,neutral,True,no,Bluetooth Thermal Printer 2 Inch,4500.0,unknown,unknown
+639800568,17540813,152298969,Low,Low,neutral,neutral,False,no,Bluetooth Receipt Printer 2 Inch,,unknown,unknown
+639894623,244196654,42728554,Low,Low,neutral,neutral,False,no,Vacuum Cleaner 30 Liter,,unknown,unknown
+639924255,150185454,42728554,Low,Low,neutral,positive,False,no,Imported Geyser Spare Parts,,unknown,unknown
+640001713,102546784,42728554,High,Low,neutral,positive,True,no,MOOF Pro Pipe 10 Inch,5200.0,unknown,unknown
+640043857,30937636,42728554,High,High,neutral,positive,True,yes,Makpro Meter Search 10 Inch,5500.0,seller,unknown
+640051635,107660868,24108739,High,Low,positive,neutral,True,no,"Ferrule Tube, 3 Square Mm",550.0,unknown,unknown
+640067743,225273914,24108739,Low,Low,neutral,neutral,False,no,Lita Bin Printer Machine Roller,,unknown,unknown
+640212121,134160851,42728554,High,Low,neutral,neutral,True,no,Drill Machine 20mm,1250.0,unknown,unknown
+640222751,103658699,152298969,High,Low,neutral,neutral,True,no,Sriyansh Label Sticker Printer Model 368D,4500.0,seller,yes
+640335642,186347151,24108739,Low,Low,neutral,positive,False,no,Ferrule Tube 2.7mm,,unknown,unknown
+640373110,248857939,152298969,Low,Low,neutral,positive,False,no,Thermal Receipt Printer 3-Inch,,unknown,unknown
+640439732,245283500,42728554,Low,Low,neutral,neutral,False,no,Havells Capacitor 2.5 MFD,,unknown,unknown
+640448844,112230231,152298969,High,Low,positive,positive,True,no,Shreyansh Billing Machine POS System 3-Inch Printer Android OS,35000.0,unknown,unknown
+640523446,93297367,24108739,High,High,positive,positive,True,yes,Epson Label Tape LK4WBN,200.0,seller,yes
+640567919,9007991,24108739,Low,Low,neutral,positive,False,no,Printer Cartridge For Mask Label Printer,,unknown,unknown
+640613763,255825718,42728554,High,Low,neutral,positive,True,no,Bike Cover Umbrella,1500.0,seller,yes
+640764464,133856124,72509641,Low,Low,neutral,neutral,False,no,Popcorn Machine,,unknown,unknown
+640804988,12525995,152298969,High,Low,neutral,neutral,True,no,Bluetooth Printer,1300.0,unknown,unknown
+640812166,69815260,24108739,Low,Low,neutral,neutral,False,no,Pherol Printing Machine Manual Model,,unknown,unknown
+640819587,74745381,72509641,High,Low,positive,positive,True,no,Garlic Peeling Machine,11500.0,unknown,unknown
+640874556,255882574,24108739,Low,Low,neutral,positive,False,no,Partex Ferrule Sleeve 10mm White,,unknown,unknown
+640896094,234429531,42728554,Low,Low,neutral,positive,False,no,Mlan Texon Mok Pro Washer Pump M1 Model,,unknown,unknown
+640931593,87782922,152298969,Low,Low,neutral,positive,False,no,Receipt Printer With Screen,,unknown,unknown
+640951114,79046811,72509641,High,Low,neutral,positive,True,no,Garlic Peeling Machine,11500.0,unknown,unknown
+640999397,28409348,152298969,Low,Low,neutral,neutral,False,no,Posiflo 2D Wireless Handheld Barcode Scanner,,unknown,unknown
+641039804,107561453,152298969,Low,Low,neutral,positive,False,no,Billing Printer 2-Inch,,unknown,unknown
+641094291,228461954,42728554,Low,Low,neutral,positive,False,no,PCB Compressor 300 Bar,,unknown,unknown
+641306420,235877892,152298969,High,High,positive,positive,True,yes,Shyan Fido Solution Windows Desktop Touchscreen POS Machine With Software And Thermal Printer,41000.0,seller,yes
+641372528,254436520,42728554,High,Low,positive,positive,True,no,Mokro Piston Pump 6.5 HP,5500.0,unknown,unknown
+641476515,49060277,72509641,High,Low,positive,positive,True,no,Srilaxmi Atta Chakki 2HP,14500.0,unknown,unknown
+641487115,256061570,42728554,High,Low,neutral,positive,True,no,Drilling Machine 20mm,2000.0,seller,yes
+641499481,121493527,152298969,High,Low,positive,positive,True,no,POS Machine Android,46000.0,unknown,unknown
+641813606,255364043,152298969,Low,Low,neutral,neutral,False,no,Thermometer POS Machine,,unknown,unknown
+641893295,139785679,42728554,High,Low,positive,positive,True,no,Umbrella Canopy For Scooter Activa,1500.0,unknown,yes
+641971766,66036475,42728554,High,Low,neutral,neutral,True,yes,Mock Pro Tile Cutter 2 Feet,6000.0,unknown,unknown
+641972129,194984753,152298969,High,High,neutral,positive,True,yes,KP307 Desktop Thermal Printer,4600.0,unknown,unknown
+642073861,180930188,24108739,Low,Low,neutral,neutral,False,no,Max Letter Ribbon Cartridge,,unknown,unknown
+642114542,101613460,152298969,Low,Low,neutral,positive,False,no,SRS 421 Thermal Receipt Printer Wifi LAN USB Bluetooth,,unknown,unknown
+642117936,36984089,72509641,High,Low,neutral,neutral,True,yes,SSI Sugar Cane Machine Casting Roll,18500.0,unknown,unknown
+642253360,247811455,72509641,High,Low,neutral,neutral,True,no,Electric Popcorn Machine,14500.0,unknown,unknown
+642255068,247811455,72509641,High,High,neutral,positive,True,yes,Popcorn Machine Light Variant,13500.0,unknown,unknown
+642489222,190927666,42728554,High,Low,neutral,neutral,True,no,Compressor Small Capacity,10000.0,unknown,unknown
+642550148,124860749,24108739,Low,Low,neutral,neutral,False,no,PVC Sleeve 4.5 mm,,unknown,unknown
+642574835,20563398,42728554,High,Low,neutral,positive,True,no,"Tile Cutting Tool, 2-Foot Blade",6200.0,unknown,unknown
+642605137,185163054,72509641,Low,Low,positive,positive,False,no,Cabbage Shredding Machine Small,,unknown,unknown
+642626208,46144858,152298969,Low,Low,neutral,positive,False,no,Shirian Thermal Printer 3-Inch,,unknown,unknown
+642640747,160614693,24108739,Low,Low,neutral,neutral,False,no,Brother Face 3071271,,unknown,unknown
+642939902,194020457,152298969,Low,Low,neutral,positive,False,no,Shreyaansh PL 240 Printer,,unknown,unknown
+642974170,251369558,24108739,Low,Low,neutral,neutral,False,no,Wala Supreme Enterprise Printing Machine,,unknown,unknown
+643001456,43433778,24108739,Low,Low,neutral,positive,False,no,Brother Fitting White Size 9,,unknown,unknown
+643027958,251167913,152298969,Low,Low,neutral,neutral,False,no,Barcode Label Printer Black and White,,unknown,unknown
+643102744,30140010,72509641,High,Low,neutral,neutral,True,no,Bapu Machinery Pulverizer 5HP Single Phase,160000.0,unknown,unknown
+643179086,141547000,42728554,High,Low,neutral,positive,True,no,Hammer 5 Kg,8500.0,seller,yes
+643260776,251868675,24108739,High,Low,neutral,neutral,True,no,Sukh Vyan Black Ribbon,950.0,buyer,yes
+643439579,157112899,24108739,Low,Low,neutral,positive,False,no,Epson LW 400 Label Printer,,seller,yes
+643710907,229284132,42728554,Low,Low,neutral,neutral,False,no,Mokro AC Capacitor,,unknown,unknown
+644006524,120268108,24108739,Low,Low,neutral,positive,False,no,Cable Marking Printer,,unknown,unknown
+644020832,139524287,72509641,High,Low,neutral,positive,True,no,Atta Chakki Flour Mill 14 Inch Single Phase 3 HP Motor,28000.0,unknown,unknown
+644031073,120268108,24108739,High,Low,neutral,neutral,True,no,Second-Hand Printing Machine,2000.0,unknown,unknown
+644061593,256669606,72509641,High,Low,neutral,neutral,True,yes,Grinding Mill Stone Type 14 Inch 3HP Motor,12500.0,unknown,unknown
+644082513,29436751,72509641,High,Low,neutral,neutral,True,yes,Gokul Grinding Machine 6HP Single Phase,38000.0,unknown,unknown
+644246857,256714984,152298969,Low,Low,neutral,neutral,False,no,Handheld Building Machine,,unknown,unknown
+644248382,35406520,42728554,Low,Low,neutral,neutral,False,no,Halogen Lamp,,unknown,unknown
+644299897,256722919,152298969,High,Low,positive,positive,True,no,SREN Spindle Model 710 With USB Wi-Fi Bluetooth LAN,5000.0,unknown,unknown
+644300508,46253198,152298969,High,High,neutral,positive,True,yes,MB 55 Handle Coding Machine Android,10000.0,unknown,unknown
+644366835,254740195,152298969,Low,Low,neutral,positive,False,no,Shreyans Thermal Printer SRS KP307 3-Inch 80mm,,unknown,unknown
+644502140,185423791,24108739,High,High,positive,positive,True,yes,Supoavan Thermal Printing Machine PC Connectivity,29500.0,seller,unknown
+644582354,68347652,42728554,Low,Low,unknown,unknown,False,no,Geyser,,unknown,unknown
+644686180,205252019,72509641,Low,Low,neutral,positive,False,no,Welding Machine 300 Ampere,,unknown,unknown
+644736152,256828522,72509641,Low,Low,neutral,neutral,False,no,Ghar Guti,12500.0,unknown,unknown
+644802070,205252019,72509641,Low,Low,neutral,neutral,False,no,Welding Machine,,unknown,unknown
+644845339,153133177,42728554,Low,Low,neutral,neutral,False,no,Thermostat,,unknown,unknown
+644852683,256862821,42728554,High,High,neutral,positive,True,yes,Mockpro Drill Machine 20mm,1400.0,seller,yes
+644854689,100502312,152298969,High,Low,neutral,neutral,True,no,Mobile Printer 2 Inch Basic Model,1250.0,buyer,no
+644857073,42695090,42728554,Low,Low,neutral,neutral,False,no,Thermostat,,unknown,unknown
+644889048,100502312,152298969,High,Low,neutral,positive,True,no,Shreyans Printer Model 1150,1200.0,buyer,no
+644926930,256870246,72509641,Low,Low,positive,positive,False,no,2 HP Cutter Boxed Variant,,unknown,unknown
+644961654,251868675,24108739,High,High,positive,positive,True,yes,Suub Van Black Ribbon,130.0,buyer,yes
+645001337,251868675,24108739,Low,Low,positive,positive,False,no,Suddan Black Ribbon 100 Meter,,unknown,unknown
+645191735,251868675,24108739,High,Low,positive,neutral,True,no,Unknown Product for Isosceles Company,130.0,unknown,unknown
+645387173,3419924,42728554,High,Low,positive,positive,True,no,Imported Tile Cutter 24 Inch,1800.0,unknown,unknown
+645465016,124996714,24108739,Low,Low,neutral,neutral,False,no,Supvan Cable ID Printer TP76E PC Connected,,unknown,unknown
+645519421,236205498,152298969,Low,Low,positive,positive,False,no,Thermal Pocket Printer 3 Inch,,unknown,unknown
+645533724,124996714,24108739,High,Low,neutral,neutral,True,no,TP 76E Printer,46500.0,unknown,unknown
+645539221,110288323,24108739,High,High,positive,positive,True,yes,Supwan Ferrule Cable Marker Printer With PC Connectivity,850.0,seller,unknown
+645541308,110288323,24108739,Low,Low,positive,positive,False,no,Ribbon,,seller,unknown
+645651646,10272775,42728554,High,Low,neutral,neutral,True,yes,Mock Pro Petrol Pump Set 3 Inch Aluminium Connector,3100.0,unknown,unknown
+645659518,184075734,42728554,High,Low,positive,positive,True,no,Aluminum Cutter Machine Millimeter Scale,5500.0,seller,yes
+645886659,76537258,72509641,High,Low,neutral,positive,True,no,"Aata Pisne Ka Machine, Home Use, 5 Kg Per Hour",11000.0,unknown,unknown
+645914156,93500968,24108739,High,Low,positive,positive,True,no,"Printing Sleeve Tube, 3.2 mm, 100 Meter Roll",225.0,seller,yes
+646053919,85033937,72509641,Low,Low,neutral,positive,False,no,Garlic Chilli Machine Nashik Made,,unknown,unknown
+646114678,10272775,42728554,High,High,neutral,positive,True,yes,Mocpro Water Pump Set 3-Inch,5200.0,seller,yes
+646261587,55706061,24108739,Low,Low,positive,positive,False,no,Sharda Enterprises Tabletop Printing Machine TP70E,,unknown,unknown
+646353197,257213417,42728554,High,Low,neutral,neutral,True,no,Gas Geyser Lighter Box,250.0,seller,yes
+646374211,10272775,42728554,High,Low,neutral,neutral,True,yes,Mokpro Petrol Water Pump Set 3x3 Inch,5300.0,unknown,unknown
+646376923,193728516,24108739,Low,Low,neutral,neutral,False,no,Cashew Printer Sticker 12mm x 9mm Red,,unknown,unknown
+646381789,257210650,72509641,High,Low,neutral,positive,True,no,Dew Grinder Atta Machine 5Kg,14000.0,unknown,unknown
+646413800,77632251,72509641,Low,Low,positive,neutral,False,no,Popcorn Machine Electric,,unknown,unknown
+646495107,257249598,42728554,High,Low,neutral,neutral,True,no,Gas Geyser Lighter Double Point,200.0,seller,yes
+646855635,151605260,24108739,Low,Low,positive,neutral,False,no,Epson Label Printer LW700,,unknown,unknown
+646857763,40713061,24108739,Low,Low,neutral,neutral,False,no,Ferrule Printing Machine Ribbon,,unknown,unknown
+646983749,224206369,42728554,Low,Low,positive,positive,False,no,Quartz And Halogen Heater Rod,,unknown,unknown
+647013232,51422428,152298969,High,Low,neutral,positive,True,no,Windows Touch Screen POS Machine Desktop,38000.0,seller,unknown
+647068849,180874980,24108739,High,Low,positive,positive,True,no,"Label Tape, White, 9mm",880.0,seller,yes
+647110808,243238626,72509641,Low,Low,neutral,neutral,False,no,Ginger Peeling Machine,,unknown,unknown
+647207360,213810738,72509641,High,Low,positive,neutral,True,no,Garlic Peeling Machine Small,12500.0,unknown,unknown
+647267983,72227690,42728554,Low,Low,neutral,neutral,False,no,Gas Geyser Circuit,,unknown,unknown
+647275719,213810738,72509641,High,Low,neutral,neutral,True,no,Lakshmi Solapur Machine Small Variant,12500.0,unknown,unknown
+647345583,142518417,24108739,Low,Low,neutral,positive,False,no,Printer Machine TP 70E,,unknown,unknown
+647377483,121466293,152298969,High,Low,neutral,neutral,True,no,"Chromo Labels 4x6, 90 GSM Roll",180.0,unknown,unknown
+647435234,195792020,152298969,High,Low,neutral,positive,True,no,Screen Auto Cutter,4500.0,unknown,unknown
+647537880,194251661,42728554,Low,Low,positive,positive,False,no,Mallcom Fixon Vacuum Cleaner 30 Litre,,unknown,unknown
+648103432,110494798,152298969,High,Low,neutral,neutral,True,no,Level Printer For Paper Labels,4500.0,seller,yes
+648142096,153578193,24108739,High,Low,positive,positive,True,no,TP 70 Printing Machine Cartridge,7100.0,buyer,no
+648210716,238617305,152298969,Low,Low,positive,positive,False,no,Thermal Printer 3 Inch,,unknown,unknown
+648451171,209356540,42728554,Low,Low,neutral,neutral,False,no,Vacuum Cleaner 30 Liter,,unknown,unknown
+648482248,59432694,152298969,Low,Low,neutral,neutral,False,no,Offline POS Machine,,unknown,unknown
+648494100,57771617,72509641,High,Low,neutral,neutral,True,yes,Farsan Machine 9 Inch,22500.0,unknown,unknown
+648504023,257406947,72509641,High,Low,neutral,neutral,True,no,Automatic Sugarcane Crusher Machine,10.0,unknown,unknown
+648552499,120498092,24108739,Low,Low,neutral,positive,False,no,Leta Twin Ferrule Printing Machine PC Connectivity Model,,unknown,unknown

@@ -1,5 +1,5 @@
 Reciever Seller ID,Buyer ID,call_id,call_transcription
-152298969,"16,344,901","638,646,573","{[00:03] Buyer: Hello?
+152298969,"16,344,901",638646573,"{[00:03] Buyer: Hello?
 [00:03] Seller: Hello, boliye.
 [00:05] Buyer: Shriyanka thermal label printer hai na?
 [00:08] Seller: Yes.
@@ -18,7 +18,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:20] Buyer: Aur thermal roll wala chahiye. Direct direct thermal nahi chahiye.
 [01:24] Seller: Okay chalega chalega.
 [01:27] Buyer: Okay, thank you.}"
-152298969,"255,311,872","638,650,286","{[00:00] Buyer: Hello.
+152298969,"255,311,872",638650286,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello madam, yeh WhatsApp number hai kya?
 [00:03] Buyer: Haan WhatsApp number hai. Nahi, yeh nahi hai. Mein aapko WhatsApp number bata rahi hu. Aapka number bataiye mein aapko hi pin karti hu WhatsApp pe.
 [00:11] Seller: Ek minute ruko.
@@ -43,7 +43,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:55] Seller: Ji madam, barabar.
 [00:56] Buyer: Okay, mein aapko hi pin karti hu.
 [00:58] Seller: Sir, do jldi.}"
-152298969,"255,311,872","638,653,977","{[00:00] Seller: Hello
+152298969,"255,311,872",638653977,"{[00:00] Seller: Hello
 [00:01] Buyer: Hello, aap abhi mujhe whatsapp se aap hi baat kar rahe the na?
 [00:05] Seller: Ji mam boliye.
 [00:06] Buyer: Ha to mai bol rahi dekho jo maine aapko printer bheja hai na 4 inch ka to wo aapko e-commerce ke liye best suitable printer hai, theek hai? And uske hisab dekho, abhi aapko e-commerce ka business hai to aapko label wagharah bana banwa ke matlab aapke jo bhi parcels ke upar chipkana hai aapko, right? To uske liye hamara khud ka software bhi aapko provide hua milega, matlab hum logon ka easy label application hai Playstore pe. Wo bhi lifetime free hai. To aap aapke jitne bhi labels hai na, udhar create karke draft mein aap save kar sakte ho and kabhi bhi print nikal sakte ho, kitna bhi print aap nikal sakte ho.
@@ -76,7 +76,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:51] Seller: Okay, okay chalega chalega, no issue.
 [02:53] Buyer: Okay mam, Dikshali hai matlab.
 }"
-72509641,"145,710,803","638,669,797","{[00:01] Buyer: हा बापू मशीनरी का?
+72509641,"145,710,803",638669797,"{[00:01] Buyer: हा बापू मशीनरी का?
 [00:02] Seller: हो.
 [00:02] Buyer: तुमच्याकडे रसवंदीचे मशीन आहेत का हो?
 [00:04] Seller: आहेत दादा.
@@ -93,34 +93,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:27] Buyer: 006
 [00:28] Seller: हम्म. ओके मी तुम्हाला हा टाकतो सगळ्या.
 [00:30] Buyer: हा.}"
-5057661,"17,067,378","638,680,281","{[00:00] Buyer: Haan namaste sir.
-[00:02] Seller: Namaste ji.
-[00:02] Buyer: Sir aapke pass blaster bar hai?
-[00:05] Seller: haan.
-[00:05] Buyer: uhh price kya hai sir?
-[00:08] Seller: Kitni peti chahiye?
-[00:10] Buyer: Ek peti?
-[00:13] Seller: Ek peti mein sir kya hai? kahaan dena hai ye maal?
-[00:17] Buyer: uhh mata transport mein laga dena hai sir.
-[00:21] Seller: Shree I mata transport, Dwarka ke liye chahiye kya?
-[00:23] Buyer: Nahi Agartala.
-[00:26] Seller: Tripura.
-[00:27] Seller: Lagwa dein? Aap number likho, ispe details send kar dena. 2200 wala GST padega.
-[00:32] Buyer: Haan?
-[00:32] Seller: 2200 rupay padega sir. 2100 rupay de dena aap. 2100 plus GST, 50 rupay billing ke, 2150 rupay de dena.
-[00:40] Buyer: Acha, kitna piece hoga sir ek mein?
-[00:42] Seller: 72 piece hoga.
-[00:43] Buyer: 72 piece. Haan, theek hai.
-[00:44] Buyer: Number WhatsApp number bol dijiye.
-[00:46] Seller: 93 93101
-[00:49] Buyer: 93101
-[00:52] Seller: 68
-[00:53] Buyer: 68
-[00:55] Seller: 458
-[00:56] Buyer: 458.
-[00:58] Buyer: Theek hai.
-[00:59] Buyer: Theek hai. Aur buffing pad bhi aap hai?}"
-42728554,"77,218,948","638,826,264","{[00:00] Buyer: Hello.
+42728554,"77,218,948",638826264,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Seller: Ji sir boliye.
 [00:03] Buyer: Wet tissue mil jaega sir aapke yaha?
@@ -175,7 +148,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:50] Buyer: Haanji.
 [01:50] Seller: Haan bhej deta hun.
 [01:52] Buyer: Bhej dijiye.}"
-72509641,"215,017,361","638,860,652","{[00:01] Buyer: Hello.
+72509641,"215,017,361",638860652,"{[00:01] Buyer: Hello.
 [00:02] Seller: Ha bola.
 [00:02] Buyer: Hello, aapla air compressor hava hota.
 [00:05] Seller: Kiti HP vala hai?
@@ -197,7 +170,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:40] Buyer: Aapla Natorch cha kiti paryant jato? Tyacha quotation pathavana mahla ya WhatsApp la.
 [00:43] Seller: Bara thik hai.
 [00:44] Buyer: Bara chal pathavana.}"
-72509641,"71,234,229","638,911,462","{[00:01] Buyer: Hello.
+72509641,"71,234,229",638911462,"{[00:01] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Buyer: Hello?
 [00:03] Seller: Ah, Namaskar sir, man Ladishmukh boltoy.
@@ -236,7 +209,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:18] Seller: Aalaich.
 [01:19] Buyer: Ho.
 }"
-24108739,"115,263,902","638,980,599","{[00:00] Buyer: Hello.
+24108739,"115,263,902",638980599,"{[00:00] Buyer: Hello.
 [00:02] Seller: Hello, Shradha Enterprises se bol raha?
 [00:04] Buyer: ha bol rahe
 [00:05] Seller: uh sir aapka udhar woh xerox printing machine service karega?
@@ -257,7 +230,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:01] Buyer: Ha, ek baar availability check karta hoon aur kitne price jaega woh bhi.
 [01:06] Seller: Thik hai sir, thik hai.
 [01:08] Buyer: Okay sir.}"
-24108739,"115,263,902","639,001,620","{[00:01] Buyer: Hello.
+24108739,"115,263,902",639001620,"{[00:01] Buyer: Hello.
 [00:03] Buyer: Sir, mai ek call kiya hai na aapko.
 [00:06] Buyer: Wo thermal plate ke liye.
 [00:10] Buyer: Haan, wo mai thermal plate ka price ke liye.
@@ -292,7 +265,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:50] Seller: Theek hai mai main time usko bhi bol deta hu aap bhi try kar sakte ho directly.
 [01:53] Buyer: Hmm, theek hai theek hai.
 }"
-72509641,"235,090,901","639,028,363","{Okay, here is the transcribed version of the audio:
+72509641,"235,090,901",639028363,"{Okay, here is the transcribed version of the audio:
 
 [00:01] Buyer: Hello.
 [00:02] Seller: Sir ji namaste.
@@ -337,7 +310,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:32] Seller: Haan. Theek hai, mein bhejta hu aapko photo wagarah.
 [01:34] Buyer: Theek hai, theek hai.
 }"
-152298969,"218,556,470","639,058,009","{[00:00] Buyer: Hello madam, Good afternoon madam.
+152298969,"218,556,470",639058009,"{[00:00] Buyer: Hello madam, Good afternoon madam.
 [00:02] Seller: Boliye sir, Good afternoon.
 [00:04] Buyer: Wo printer ke liye book kare?
 [00:06] Seller: Kya book karna hai aapko printer?
@@ -385,7 +358,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:28] Seller: ha dono me se check karke batao kon sa wala chahiye.
 [01:31] Buyer: Okay thank you madam phir call karna.
 [01:33] Seller: Ha ha usi number pe call karo mere aap.}"
-152298969,"218,556,470","639,058,746","{[00:02] Buyer: Ha madam, printer ke liye phone kar rahe hai na abhi?
+152298969,"218,556,470",639058746,"{[00:02] Buyer: Ha madam, printer ke liye phone kar rahe hai na abhi?
 [00:04] Seller: Haan haan printer ke liye.
 [00:06] Buyer: Oh, 58 mm ka wo na?
 [00:08] Seller: Haan whatsapp pe check karo na sir whatsapp pe bheja maine.
@@ -405,7 +378,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:43] Seller: Achcha achcha. Theek hai to mujhe address bhej do na sir whatsapp pe.
 [00:46] Buyer: Okay okay theek hai madam abhi jata.
 [00:48] Seller: Okay.}"
-152298969,"218,556,470","639,069,156","{Okay, I'm ready to transcribe the audio. Here is the transcription:
+152298969,"218,556,470",639069156,"{Okay, I'm ready to transcribe the audio. Here is the transcription:
 
 [00:00] Seller: Hello.
 [00:01] Buyer: Madam, WhatsApp mein address bhejiye.
@@ -443,111 +416,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:24] Buyer: Okay, thank you.
 [01:25] Unidentified: Meeru maatlaadi.
 }"
-5057661,"102,154,383","639,096,950","{[00:00] Buyer: Hello?
-[00:01] Seller: Hanji?
-[00:02] Buyer: Ji Madam point eight chahiye, kya rate hai?
-[00:06] Seller: Kya cheez Sir?
-[00:07] Buyer: Point eight zero point eight Prime 90. 90.
-[00:08] Seller: ₹90 kg plus GST. Kaun bol rahe hai aap?
-[00:12] Buyer: Main Bahadur Garh se bol raha hun.
-[00:13] Seller: Achha, ₹90 kg plus GST.
-[00:20] Buyer: Vo kya naam hai? Bhi hai madam kuchh.
-[00:23] Seller: Hanji?
-[00:24] Buyer: Kya naam hai? Bahadur Garh bhijwa doge aap? Kahan se bol rahe ho aap?
-[00:27] Seller: Sir, mera na barwala mein factory hai. Factory aur godown hai. Toh.
-[00:32] Buyer: Barwala?
-[00:32] Seller: Haan, Barwala. Kitne roll ki zaroorat hai? 560 hai sir. 10 roll ki hoti hai. Roll kitne ki hai aap madam? Aap ke pass na 75-80 ke liye.
-[00:38] Buyer: Kitne bundle?
-[00:40] Buyer: Ah, 15 pan.
-[00:42] Buyer: Sir, paanch bundle.
-[00:44] Buyer: 15 kilo ka bundle hota hai na madam ye.
-[00:47] Seller: Haanji Haanji, paanch bundle likha jayega tab.
-[00:49] Buyer: Haan.
-[00:52] Buyer: Rate madam ye kuchh, kya naam hai discount doge?
-[00:56] Seller: Sir, nahi ho payega.
-[00:58] Buyer: Barwala kahan madam ye Haryana mein hi hai na?
-[01:01] Seller: Nahi nahi. Barwala kidhar hai? Kawala ke pass.
-[01:04] Buyer: Bahadur.
-[01:05] Seller: Bahadur Garh. Bahadur Garh wala. Kaun banaate hain, thanda wala.
-[01:08] Buyer: Haan.
-[01:08] Seller: Seedha ye wala chowk pe niklega seedha taraf Kawala ki taraf.
-[01:12] Buyer: Achha, madam, Bahadur Garh mein delivery de doge?
-[01:17] Seller: Bahadur Garh mein main, sir, aapke saath bta deti hun. Sar na chhat puja se free hui hun. Tab mein clear kar dungi. Theek hai? Aapko hi bta dungi.
-[01:23] Buyer: Aap factory mein ho ya ghar pe ho abhi?
-[01:25] Seller: Ghar pe hi.
-[01:27] Buyer: Achha, ghar pe ho. Chalo btaiye madam fir mere ko confirm karke.
-[01:30] Seller: Haan main aapko abhi whatsapp pe high bol deti hun.
-[01:33] Buyer: Haan. Confirm karna madam, ok.}"
-5057661,"78,040,495","639,104,729","{[00:00] Buyer: Yeah, combi wheel mil jayega kya aapke paas?
-[00:02] Seller: Size kya hai combi wheel ka?
-[00:05] Buyer: Aap Delhi se bol rahe? Number aapka Ahmedabad ka aa raha hai yeh.
-[00:08] Seller: Sir woh aapne calling us pe kari hogi na IndiaMART ke through aayi hogi.
-[00:12] Buyer: Haanji, haanji, haanji. Bhaiya mereko number grade chahiye. 80 grade aur 220 grade.
-[00:17] Seller: Nahi grade toh shayad mil jayega 80 ya 220. Achha.
-[00:20] Buyer: 4 inch ka hona chahiye. 4 inch. Haan, 4x4 ka combi wheel hai na?
-[00:25] Buyer: Haanji, haanji, haanji.
-[00:27] Seller: Haan, mil jayega sir.
-[00:28] Buyer: Kahan pe aana padega?
-[00:31] Seller: Sir mera toh Delhi mein hai. Kahan aap kahan se bol rahe?
-[00:33] Buyer: Mein Delhi se hi bol raha hun lekin aapka number Ahmedabad ka likha aa raha tha na short mein isliye confuse tha.
-[00:38] Buyer: Delhi kahan se ho aap bol rahe?
-[00:39] Seller: Bawana se bol raha hu sir.
-[00:42] Buyer: Achha, Bawana? To...
-[00:43] Seller: Bawana.
-[00:44] Buyer: Haan toh kya rate-wet hoga bata dijiye aap.
-[00:47] Seller: Kitne kitne pieces chahiye?
-[00:49] Buyer: Bhaiya abhi filhaal toh do-do chahiye baaki mere lagte rehte hai.
-[00:53] Seller: Yeh ek hi rate padega ₹700 plus GST.
-[00:56] Buyer: Without GST batao bhaiya.
-[00:58] Seller: 9% add kar lo.
-[01:00] Buyer: 700 plus 9%. Ek photo bhej sakte ho aap mereko kon sa hai aapke paas?
-[01:03] Seller: Mera number likh lo aap. 93101.
-[01:06] Buyer: Ek minute hold karna, ek minute hold karna.
-[01:16] Buyer: Bolna bhaiya.
-[01:20] Seller: Hello. 93101
-[01:22] Buyer: 93101
-[01:23] Seller: 01
-[01:23] Seller: 68
-[01:24] Buyer: 9310168.
-[01:25] Seller: Nahi, nahi. 93101
-[01:28] Buyer: Haanji 9310168.
-[01:31] Seller: 458
-[01:32] Buyer: 4
-[01:33] Seller: 458
-[01:34] Buyer: 458 aapka naam bhaiya?
-[01:37] Seller: Anand Singh.
-[01:39] Buyer: Thik hai. Mein aapko hi bhej raha hun message pe aur aap mereko photo bhej dijiye.
-[01:42] Seller: Thik hai bhaiya.}"
-5057661,"240,027,544","639,237,701","{[00:00] Buyer: Hello.
-[00:00] Seller: Hello. Good morning.
-[00:02] Buyer: Haan ji.
-[00:02] Seller: Good morning ji.
-[00:03] Buyer: Sir, apne pass yeh velcro disc mil jayengi? 6 inch 6 hole mein?
-[00:08] Seller: Velcro disc kitne inch mein chahiye?
-[00:10] Buyer: 6 inch 6 hole 120 grit aur 320 grit.
-[00:14] Seller: Chinese chahiye ya Dearforce?
-[00:17] Buyer: Kya sir?
-[00:18] Seller: Isme Chinese chahiye aapko ya company ki chahiye?
-[00:21] Buyer: Company ki sir.
-[00:24] Seller: Dearforce ki mil jayegi bhaiya, 120 grit. Kitni quantity hai?
-[00:28] Buyer: Quantity sir yeh monthly rehti hai, 60 to 70,000.
-[00:34] Seller: 60 se 70,000 pieces?
-[00:35] Buyer: Haan ji.
-[00:36] Seller: Aap mera WhatsApp pe kar dijiye.
-[00:38] Buyer: Batayiyega.
-[00:39] Seller: 93101
-[00:43] Buyer: 93101
-[00:45] Seller: 68
-[00:46] Buyer: 68
-[00:47] Seller: 458
-[00:49] Buyer: 456
-[00:50] Buyer: Sir aap manufacture...
-[00:51] Seller: 456 nahi hai bhaiya, 458 hai.
-[00:54] Buyer: 458
-[00:55] Seller: India mein India mein manufacturer nahi hai bhaiya velcro disc ka, China se aata hai saara maal. Isme bas kuch company ka usko hum ab hum Dearforce company hai na distributor hai. Hum usme maal dete hai. Aap mere ko us pe daliye main aapko quotations wagera dalta hoon.
-[01:10] Buyer: Sir Dearforce ka milega apne pass.
-}"
-152298969,"11,448,831","639,242,387","{[00:03] Buyer: Hello.
+152298969,"11,448,831",639242387,"{[00:03] Buyer: Hello.
 [00:03] Seller: Yes sir, boliye.
 [00:06] Buyer: Shiyansh Digital Solution se bolte hain?
 [00:08] Seller: Ji haan.
@@ -593,7 +462,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:30] Seller: Haan WhatsApp pe hi kar do sir.
 [02:31] Buyer: Theek hai theek hai thank you.
 [02:33] Seller: Okay okay.}"
-72509641,"77,543,878","639,267,471","{[00:00] Buyer: Hello.
+72509641,"77,543,878",639267471,"{[00:00] Buyer: Hello.
 [00:02] Seller: Ha sir namaskar mi Sambhajinagar varun boltoy.
 [00:06] Buyer: Ha.
 [00:07] Seller: Mala Indiamart varun tumcha number milala naam and number.
@@ -637,7 +506,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:25] Seller: Ha mala please pathva, mhanje jar tumhi mhanalat tar pucchya don divsat mi yeto sir kahi adchan nahi hoto.
 [02:31] Buyer: Okay.
 [02:32] Seller: Please sir, please sir.}"
-72509641,"84,338,326","639,271,912","{[00:00] Buyer: Hello.
+72509641,"84,338,326",639271912,"{[00:00] Buyer: Hello.
 [00:01] Buyer: ha Bapu machine rikhta.
 [00:03] Seller: Ho.
 [00:04] Buyer: tara aapeekade pani puri vagere all in one machine aai ki papad
@@ -660,7 +529,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:35] Buyer: Bar bar theek hai.
 [00:36] Seller: Ho.
 [00:37] Seller: pan hai aapla kadun.}"
-152298969,"195,934,901","639,396,599","{[00:00] Buyer: Hello.
+152298969,"195,934,901",639396599,"{[00:00] Buyer: Hello.
 [00:01] Seller: Haan madam bolo.
 [00:03] Buyer: Aapka number mujhe online mila tha. Aapke paas label printing machine hai kya?
 [00:07] Seller: Haan hai na madam.
@@ -675,7 +544,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:33] Buyer: Ji ji, correct.
 [00:34] Buyer: Ji. Okay, main abhi arrange karti hoon. Thank you.
 [00:38] Seller: Yeh usko call}"
-42728554,"214,283,379","639,472,129","{Okay, here is the transcription of the audio provided, following all the given instructions:
+42728554,"214,283,379",639472129,"{Okay, here is the transcription of the audio provided, following all the given instructions:
 
 [00:00] Buyer: Hello.
 [00:01] Seller: Ha sir, boliye.
@@ -711,7 +580,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:26] Seller: Haan.
 [01:32] Seller: Niche se
 }"
-72509641,"50,319,676","639,498,103","{Okay, here is the transcription of the audio call, following all the specified requirements:
+72509641,"50,319,676",639498103,"{Okay, here is the transcription of the audio call, following all the specified requirements:
 
 [00:01] Buyer: Hello.
 [00:02] Seller: Hello.
@@ -766,7 +635,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:24] Seller: Hello.
 [01:25] Buyer: Ha, ha. Malegaon Standard kuthlya thikani ahe?
 }"
-72509641,"254,280,789","639,536,764","{[00:00] Seller: Hello sir.
+72509641,"254,280,789",639536764,"{[00:00] Seller: Hello sir.
 [00:02] Buyer: Hello.
 [00:02] Buyer: Mala garlic peeling machine bagaychi hoti mantala.
 [00:08] Seller: Ha.
@@ -790,7 +659,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:47] Seller: Ha. Ghyana ya number, ha ya number var mara WhatsApp la tumhala kaay kaay lagtaa mara WhatsApp karun theva mi tumhala thoda velyam madhe ekda free jhala ki pathavto details hai na.
 [00:55] Buyer: Theek hai.
 [00:56] Seller: Ha.}"
-152298969,"88,128,856","639,542,132","{[00:01] Caller: Hello
+152298969,"88,128,856",639542132,"{[00:01] Caller: Hello
 [00:01] Seller: Hello, uh, Shreyansh, uh, Bluetooth Thermal Printer?
 [00:05] Caller: Yes, bolia.
 [00:06] Seller: Ha, uh, mujhe na vo thermal printer ka requirement tha.
@@ -816,49 +685,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:33] Seller: Chalega, chalega, bhejiye.
 [01:35] Caller: Okay sir.
 [01:36] Seller: Aap pe aapka shop.}"
-5057661,"219,415,013","639,636,525","{[00:04] Buyer: Hello.
-[00:05] Seller: Hanji.
-[00:06] Buyer: Hanji sir.
-[00:07] Seller: Madam DXT se bol rahe hain?
-[00:09] Buyer: Ji.
-[00:10] Seller: Madam apne paas welding wagera ki copper wire
-[00:13] Buyer: Mique wire.
-[00:14] Seller: Haan.
-[00:15] Buyer: Hanji mil jayega sir. Prima ka milega.
-[00:19] Seller: Prima ka.
-[00:20] Buyer: Ji. Kitne kilo ka bundle hota hai?
-[00:23] Buyer: 15 kg ka hai sir.
-[00:26] Seller: Kya rate hai kilo ka?
-[00:30] Buyer: 1 kilo ka padega. Haan aapko kitni quantity chahiye? ₹90 padega sir.
-[00:35] Seller: ₹90. Prima ka.
-[00:36] Buyer: Haanji, ₹90 plus GST padega.
-[00:37] Seller: Suno madam hamara jo hai uska kaam hai jis ka scaffolding ka lagti rahegi. Quantity to apne paas lagti rahegi.
-[00:46] Seller: Aur 10 number ki road bhi hoti hai apne paas?
-[00:48] Buyer: Sir Prima ke aapke woh sara mil jayega jaise ki aath number, 10 number, 12 number hard 5 hard 3 ye sab mil jayega.
-[00:57] Seller: Woh kaise kilo hoti hai 10 number ki wire aur 10 number ki rod.
-[01:00] Buyer: Normal mein aapko padegi sir ₹92. ₹92 ek kilo per kg plus GST.
-[01:06] Seller: ₹92.
-[01:07] Seller: Ye apna kaha pe office hai?
-[01:10] Buyer: Sir aap kahan se bol rahe hain? Actually mera Delhi Bhawana sector ek mein hai.
-[01:15] Seller: Delhi Bhawana sector ek mein office hai aapka.
-[01:17] Seller: Haan madam main. Aapki manufacturing hai?
-[01:22] Buyer: Sir mere actually slab bil ki manufacturing hai.
-[01:26] Seller: Kis cheez ki?
-[01:27] Buyer: Slab bil slab bil regmar wale jo slab abrasive hote hain na.
-[01:33] Seller: Regmar wale.
-[01:35] Buyer: Regmar wagera ki.
-[01:37] Seller: Achha regmar to yahi hoti hai na to apna kya bolte hain usko emery paper.
-[01:42] Buyer: Haanji, haanji, haanji, haanji.
-[01:44] Seller: To usme bhi lagti hai ye welding road?
-[01:46] Buyer: Nahi nahi usme lagti nahi hai. Actually hamara ye trading and manufacturing dono hota hai sir.
-[01:51] Buyer: Sara item hota hai hamare paas.
-[01:52] Seller: Trading hai.
-[01:54] Buyer: Haanji.
-[01:55] Seller: Ye madam jo apna ye hai aapka isme Prima company aur bhi to koi company aati hogi?
-[02:03] Buyer: Prima company Mangalam hai sir lekin
-[02:05]  Phone aara mein daba
-[02:07] Announcer: Aap jis v yakti se baat kar rahe hain unhone aapke call ko hold}"
-152298969,"17,540,813","639,800,568","{[00:00] Buyer: Hello madam, aawaz aa rahi hai?
+152298969,"17,540,813",639800568,"{[00:00] Buyer: Hello madam, aawaz aa rahi hai?
 [00:03] Seller: Haan, haan, aawaz aa raha hai aapka.
 [00:05] Buyer: Ye, mere ko Bluetooth printer chahiye tha.
 [00:08] Seller: Two inch ka printer chahiye? Aapko Bluetooth printer?
@@ -877,53 +704,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:54] Seller: Price wagera ke saath mai aapko WhatsApp karti hu, theek hai?
 [00:57] Buyer: Theek hai.
 [00:58] Seller: Okay, okay.}"
-5057661,"120,582,809","639,889,010","{[00:01] Buyer: Hello.
-[00:02] Seller: Hello. Hello. Haan?
-[00:04] Buyer: Ji Ajanta Tools se bol raha hu sir.
-[00:06] Seller: Bolo ji.
-[00:07] Buyer: Nanded se bol raha hu.
-[00:09] Buyer: Sir, sabun milti hai apne pass? Steel wali sabun milti hai aapke pass?
-[00:14] Seller: Kahan se bol rahe ho aap? Anand, Anand?
-[00:16] Buyer: Ajanta Tools, Ajanta.
-[00:19] Buyer: Buffing ki sabun chahiye tha apne ko sir.
-[00:22] Seller: Mil jayega.
-[00:23] Buyer: Kya rate padega sir, peti rate?
-[00:26] Seller: ₹2500 plus GST padega bhaiya, saare wali.
-[00:29] Buyer: Bohot mehangi aa rahi hai. Sir, kam se mujhe de payenge aap?
-[00:31] Buyer: Weight kitna hai sabun ka?
-[00:35] Seller: 22 kilo ki peti hai, 72 piece ki.
-[00:38] Buyer: Nahi, aap manufacturing karte ho sir?
-[00:40] Buyer: Aapka naam Anand hai, Anand?
-[00:42] Buyer: Ajanta, Ajanta sir, Ajanta.
-[00:44] Seller: Are sir, Anand naam hai na aapka? Anand Nanded.
-[00:47] Buyer: Nahi, nahi, nahi, nahi.
-[00:47] Seller: Chor hai sir, chor hai sala wo ek number ka.
-[00:50] Buyer: Anand nahi hamara, hamara Ajanta Tools and Machinery.
-[00:52] Seller: Ab jante ho usko Anand Tools Nanded walon ko? Balaji karke hai ek banda Balaji.
-[00:54] Seller: Pata nahi sir hamko pata nahi hai.
-[00:57] Buyer: Pata nahi. Address kahan ka hai Nanded mein unka?
-[00:59] Seller: Nanded ka hai sir. Wo address mein. Mera number le lo.
-[01:00] Seller: C.P.A.
-[01:01] Buyer: Haan?
-[01:02] Seller: Mera number le lo. 93101.
-[01:05] Seller: Ek minute rukiye.
-[01:12] Seller: 93
-[01:13] Seller: 101
-[01:14] Seller: 101
-[01:15] Seller: 68
-[01:17] Seller: 8
-[01:18] Seller: 458.
-[01:19] Buyer: Haan?
-[01:20] Seller: 458.
-[01:22] Seller: 458.
-[01:23] Seller: Theek hai chalo sir, aapka WhatsApp number hai ye?
-[01:25] Buyer: Haan haan.
-[01:26] Seller: To sir, abhi ye bata rahe the weight sir.
-[01:27] Buyer: Haan.
-[01:28] Seller: Aap mere ko bhejo. Mai kal subah aapko sara rate waate jo badhiya rate hai bata deta hu. Theek hai?
-[01:31] Buyer: Haan.
-[01:31] Seller: Theek hai, theek hai sir.}"
-42728554,"244,196,654","639,894,623","{[00:02] Buyer: Hello.
+42728554,"244,196,654",639894623,"{[00:02] Buyer: Hello.
 [00:03] Seller: Haan?
 [00:03] Buyer: Haan, good evening.
 [00:06] Buyer: Aagaz tak roup se baat kar raha hu main.
@@ -950,7 +731,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:23] Buyer: Kya naam hai sir aapka?
 [01:24] Seller: Khushal.
 [01:25] Buyer: Khushal. Theek hai, main aapko message karta hu sir hai.}"
-42728554,"150,185,454","639,924,255","{[00:00] Buyer: Hello.
+42728554,"150,185,454",639924255,"{[00:00] Buyer: Hello.
 [00:03] Seller: Hello?
 [00:04] Buyer: Haan ji.
 [00:05] Buyer: Good morning sir.
@@ -980,7 +761,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:05] Buyer: Okay sir okay. Thank you sir.
 [01:07] Seller: Okay.
 [01:08] Buyer: Thank you.}"
-42728554,"102,546,784","640,001,713","{[00:01] Buyer: Hello.
+42728554,"102,546,784",640001713,"{[00:01] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:02] Buyer: Ha, good afternoon.
 [00:02] Seller: Hello.
@@ -1016,7 +797,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:14] Seller: Mai daalta hu, mai daalta hu WhatsApp pe.
 [01:16] Buyer: Haan, okay thanks.
 }"
-42728554,"30,937,636","640,043,857","{[00:01] Buyer: Hello.
+42728554,"30,937,636",640043857,"{[00:01] Buyer: Hello.
 [00:02] Seller: Ji sir, boliye.
 [00:03] Buyer: Makpro se bol rahe hain sir?
 [00:05] Seller: Ji sir, Makpro se baat kar raha hu, bataiye.
@@ -1071,7 +852,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:25] Buyer: Kya 14 inch isme aata hi nahi hai kya?
 [02:27] Seller: Nahi sir, vo aapko milna bahut mushkil hai, vo kam hi milte hai.
 }"
-24108739,"107,660,868","640,051,635","{[00:00] Buyer: Oye, hello.
+24108739,"107,660,868",640051635,"{[00:00] Buyer: Oye, hello.
 [00:01] Seller: Hello.
 [00:02] Buyer: Hello. Aa, me aaplyakade, sir me Shree Vijaya Engineering se baat kar raha hun, Shivajinagar.
 [00:07] Seller: Nahi nahi Marathi bolala, ha.
@@ -1164,7 +945,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [03:24] Seller: Okay okay.
 [03:25] Buyer: Thik aahe, thank you sir.
 }"
-24108739,"225,273,914","640,067,743","{[00:02] Seller: Hello.
+24108739,"225,273,914",640067743,"{[00:02] Seller: Hello.
 [00:02] Buyer: Good morning, sir. Anil Giri bol raha hun Bihar se.
 [00:06] Seller: Hello. Hello.
 [00:08] Seller: Haan, boliye. Sharda Enterprises.
@@ -1225,7 +1006,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [03:00] Seller: Bol dijiye yeh mere dost hi hai, yeh aapko aapko support karenge.
 [03:04] Buyer: Okay, thank you, sir.
 [03:05] Seller: Yeah.}"
-42728554,"134,160,851","640,212,121","{Okay, here is the transcription of the audio provided, formatted as per your instructions:
+42728554,"134,160,851",640212121,"{Okay, here is the transcription of the audio provided, formatted as per your instructions:
 
 [00:01] Buyer: Hello.
 [00:02] Buyer: Hello.
@@ -1277,7 +1058,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:01] Seller: 10 mm 13 mm abhi mera container mein hai wo 20 November ke baad aayega.
 [02:04] Buyer: Baat ek kaam karo aap mein aapko whatsapp pe hi bhejta hoon aap mujhe photo, photo aur haan quantity hai mere uske hisab se mujhe rate bhejeye to mein aapko order de sakta hoon, theek hai?
 [02:14] Seller: Theek hai, theek hai, theek.}"
-152298969,"103,658,699","640,222,751","{[00:01] Buyer: Hello.
+152298969,"103,658,699",640222751,"{[00:01] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:02] Buyer: Haan boliye. Madam Sriyansh pod machine se baat kar rahe hain?
 [00:06] Seller: Haan.
@@ -1318,7 +1099,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:05] Buyer: Theek hai yeh detail kuch ho toh mujhe WhatsApp pe share kar dijiyega please.
 [02:08] Seller: Okay sir okay.
 [02:10] Buyer: Okay.}"
-24108739,"204,250,172","640,292,158","{[00:01] Seller: Hello.
+24108739,"204,250,172",640292158,"{[00:01] Seller: Hello.
 [00:02] Seller: Hello.
 [00:02] Seller: Hello sir, good morning. Arati ji mai baat kar rahi hu Pune Arati ji mai baat kar rahi hu Pune se Pune Scope company se.
 [00:11] Seller: Ha boliye.
@@ -1351,7 +1132,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:06] Buyer: Uh, kuch nahi thik hai madam mai aaj aata hu, mai aaj aap office aata hu, hum machine delivery karte hai.
 [01:10] Seller: Thik hai chalega, okay.
 [01:11] Buyer: Yes.}"
-24108739,"186,347,151","640,335,642","{[00:04] Buyer: Hello.
+24108739,"186,347,151",640335642,"{[00:04] Buyer: Hello.
 [00:04] Seller: Hello, Shraddha Enterprises ahe.
 [00:05] Buyer: Ha boltaay.
 [00:06] Buyer: Mala tumcha number na, Hemantan Company madlyaa Mukim ni dilela ahe. Mala actually ferrule tube chi garaj, ferrule tube chi aavashyakta hoti.
@@ -1379,7 +1160,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:15] Buyer: Amol Narwade.
 [01:17] Seller: Okay, sir. Pathavto lagech. Okay sir, thank you.
 [01:22] Seller: Ho.}"
-152298969,"248,857,939","640,373,110","{[00:00] Buyer: Hello.
+152298969,"248,857,939",640373110,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Buyer: Good afternoon, madam.
 [00:03] Seller: Good afternoon, sir. Bolye na.
@@ -1420,7 +1201,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:04] Seller: I will WhatsApp you all the details and the specifications and a demo video also of the printer.
 [01:07] Buyer: Okay, thanks.
 [01:08] Seller: Yeah, welcome.}"
-42728554,"245,283,500","640,439,732","{[00:02] Buyer: Havells ka capacitor chahiye tha hello iska?
+42728554,"245,283,500",640439732,"{[00:02] Buyer: Havells ka capacitor chahiye tha hello iska?
 [00:06] Buyer: Hello?
 [00:06] Seller: Haan boliye.
 [00:08] Buyer: Mere ko Havells ka capacitor chahiye tha, 2.5 MFD ka.
@@ -1443,7 +1224,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:54] Buyer: Theek hai.
 [00:54] Seller: Theek hai.
 }"
-152298969,"112,230,231","640,448,844","{Okay, here is the transcription of the audio call:
+152298969,"112,230,231",640448844,"{Okay, here is the transcription of the audio call:
 
 [00:00] Buyer: Hello.
 [00:03] Seller: Hello, Shreyansh printer.
@@ -1490,7 +1271,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:49] Buyer: Thank you, thank you.
 [02:50] Seller: Okay sir, thank you.
 }"
-24108739,"93,297,367","640,523,446","{[00:01] Buyer: Hello, sir Namaskar Akshay bolto hai ithun Talawade warun Talawade Pune. Sir aaplyakade Epson ch, Epson ch label tape asel ka sir? LK4WBN?
+24108739,"93,297,367",640523446,"{[00:01] Buyer: Hello, sir Namaskar Akshay bolto hai ithun Talawade warun Talawade Pune. Sir aaplyakade Epson ch, Epson ch label tape asel ka sir? LK4WBN?
 [00:16] Seller: 4WBN asel na, stock made asel.
 [00:19] Buyer: Asel ka tumchyakade? A, mala sir katila hai sir pricing tyachi andaze?
 [00:25] Seller: 560 rupyla kai tari jate.
@@ -1512,7 +1293,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:27] Seller: OK. Mi tyala hi pathavto.
 [01:29] Buyer: Hi pathava sir, nakki nakki. OK, thank you.
 [01:32] Seller: Yes sir. OK.}"
-24108739,"9,007,991","640,567,919","{[00:00] Buyer: Hello Shraddha Enterprise Pune bolta hai ka?
+24108739,"9,007,991",640567919,"{[00:00] Buyer: Hello Shraddha Enterprise Pune bolta hai ka?
 [00:03] Seller: Ho bolta hai.
 [00:04] Buyer: Achcha aaple kade te mask yacha printer ch emnil ka label heart heart milto.
 [00:12] Buyer: Teml Kutla printer hai?
@@ -1525,7 +1306,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:34] Seller: Me tumhala hi pathavto mala te machine kutlay fakt sanga mhanje me sanghu shakto.
 [00:40] Buyer: Theek hai bar bar theek hai theek hai chalel.
 [00:43] Seller: Ho ho chalel.}"
-42728554,"255,825,718","640,613,763","{[00:00] Buyer: Hello.
+42728554,"255,825,718",640613763,"{[00:00] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:02] Buyer: Hello.
 [00:03] Seller: Yes ma'am, boliye.
@@ -1549,39 +1330,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:49] Seller: Theek hai, theek hai. Theek hai, aap mere ko call kar dena.
 [00:51] Buyer: Apni aapko call kar dungi.
 }"
-5057661,"218,592,072","640,625,334","{[00:01] Buyer: Madam, wo D.S International mein se?
-[00:04] Seller: Hanji, sir.
-[00:05] Buyer: Madam, aapke waha wo dearforce ka belt aata hai na?
-[00:08] Seller: Ha.
-[00:09] Buyer: Mil jaayega, main aapko size batata hu.
-[00:13] Seller: Kaunsa chahiye aapko dearforce mein?
-[00:16] Buyer: Dearforce mein mere ko hai na K.K 169, 120.
-[00:19] Seller: Mil jayega.
-[00:22] Buyer: 50 2000.
-[00:25] Seller: Han, han mil jayega, mil jayega. Greet kaunsa hai?
-[00:29] Buyer: Kya?
-[00:30] Seller: Greet kya hai greet?
-[00:32] Buyer: Kya?
-[00:34] Seller: Belt ka greet kya hai?
-[00:36] Seller: Greet, greet 120 madam.
-[00:38] Seller: Mil jaayega. 50000 ek minute.
-[00:41] Seller: 50
-[00:42] Seller: Ha, wo aapko milega, main bata deti hu, hold karo.
-[00:49] Buyer: 50 2000. 50 by 2000 50.
-[00:54] Seller: Quantity kya rahegi?
-[00:56] Buyer: Quantity madam mera kya wo wo wholesale ka kaam hai. Aap batao to main bataunga bhav aapko price kya hai. Mere ko do teen hazar lene ka hai.
-[01:04] Seller: Achha. 50 plus GST laga dungi. Quantity hogi to.
-[01:09] Buyer: Ek piece ka.
-[01:11] Seller: Ek rupay han, 50 plus GST.
-[01:15] Buyer: O madam aapne to bahut bhav diya. Idhar hamare 35 mein to idhar milta hai.
-[01:20] Seller: Kitne mein?
-[01:21] Buyer: 35 mein. 35 mein.
-[01:23] Seller: Kahan se bol rahe hain aap?
-[01:25] Buyer: Rajkot se.
-[01:27] Seller: Nahi nahi, fir hamara nahi padta padega sir.
-[01:30] Seller: Theek hai chalo madam.
-[01:31] Seller: Theek hai.}"
-72509641,"133,856,124","640,764,464","{[00:01] Buyer: Hello.
+72509641,"133,856,124",640764464,"{[00:01] Buyer: Hello.
 [00:02] Seller: Ha.
 [00:03] Buyer: ah, Aaplyakade popcorn machine aahe ka?
 [00:05] Seller: ho, aahe na dada.
@@ -1626,7 +1375,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [02:03] Buyer: Ha.
 [02:03] Seller: Bar thik aahe ya number varun tuhi call kartoy.
 [02:06] Buyer: Thik aahe.}"
-152298969,"12,525,995","640,804,988","{[00:03] Speaker: Shreeyes Retail Solutions.
+152298969,"12,525,995",640804988,"{[00:03] Speaker: Shreeyes Retail Solutions.
 [00:06] Speaker: Hello.
 [00:08] Speaker: Hello.
 [00:09] Speaker: Hello. Hello. Awaz aa raha hai sir aapko?
@@ -1651,7 +1400,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [01:04] Speaker: Election ka aap jo retail ka rate baat kar rahe ho wo regular customer ke hoga abhi election mein to aapko bhi pata hai wo 10-15 din ka time period hota hai.
 [01:11] Speaker: Yes yes yes pata hai. Aap mere ko just 5 minute do main aapko details bhi forward karti hu whatsapp pe theek hai.
 [01:14] Speaker: Okay theek hai.}"
-24108739,"69,815,260","640,812,166","{[00:00] Buyer: Hello?
+24108739,"69,815,260",640812166,"{[00:00] Buyer: Hello?
 [00:01] Seller: Ha, Hello.
 [00:02] Buyer: Ha, Hello.
 [00:03] Seller: sir, pherol printing machine rakho zara maruti nigam pyara karo uparthi.
@@ -1672,7 +1421,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:44] Seller: Thik hai sir.
 [00:45] Buyer: Yes.
 }"
-72509641,"74,745,381","640,819,587","{[00:00] Seller: Bapu machinery.
+72509641,"74,745,381",640819587,"{[00:00] Seller: Bapu machinery.
 [00:01] Buyer: Hello.
 [00:01] Seller: Ha. Bapu machinery.
 [00:03] Buyer: Ha ha.
@@ -1700,78 +1449,7 @@ Reciever Seller ID,Buyer ID,call_id,call_transcription
 [00:43] Seller: Ho.
 [00:43] Seller: Ahe stock ahe yeun dya tumhi baghayla manun dhya, kaay adchan nahi.
 [00:45] Buyer: Bar bar bar. Ho ho ho.}"
-5057661,"1,966,587","640,822,909","{[00:01] Buyer: Madam non weaving wheel banate hain aap log?
-[00:04] Seller: hmm.
-[00:04] Buyer: Sir non weaving wheel kaisa chahiye aapka?
-[00:07] Buyer: Mujhe 300 OD 1000 grit ka chahiye sir.
-[00:12] Seller: 300 300 OD ho gaya.
-[00:15] Buyer: Ji.
-[00:16] Seller: Aur iska motai kitni hai?
-[00:20] Buyer: Motai aapke paas jo readymade mila chalega sir mujhe, koi dikkat nahi.
-[00:26] Seller: 300 OD to sir bahut jyaada ho gaya. ye hamare paas usme
-regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
-[00:34] Buyer: Ji.
-[00:35] Seller: Usme na abrasive laga hoga regmal non moon nahi hoga usme kyuki 300 mm.
-[00:40] Buyer: abrasive me to material abrasive me material remove ho jayega sir, mujhe polishing ke liye chahiye sir utna.
-[00:46] Seller: polishing ke liye to use hota hai sir, 12 inchi chauda hota hai, 2 inchi mota hota hai, 1000 number ya 800 number chala lo polishing aa jayegi ispe.
-[00:54] Buyer: Achha, polishing kitni polishing aa jayega sir are value kitna aa jayega?
-[00:57] Seller: Sir aapko 12 inchi mein chahiye OD mein to iska bore size 16 mm rahega koi dikkat to nahi hai 16 mm bore mein?
-[01:04] Buyer: Nahi 16 mm me koi dikkat nahi hai aapke pass readymade kitna hai 16 16 mm hi aata hai kya sir?
-[01:09] Seller: Ha 16 mein aa jata hai iski hardness kitni chahiye?
-[01:13] Buyer: Nahi mujhe uske bare mein jankari nahi hai, mera ek rough pipe hai sir usme are value 1.1 tak maintain karna hai sir mujhe.
-[01:21] Seller: Kitna maintain karna hai are?
-[01:22] Buyer: Point one.
-[01:26] Seller: Thoda sir point point one tak kaise hoga.
-[01:31] Seller: Aap na sir mera number le lo aap usse jara ek baar photo detail dalo mein mein aapko thodi der mein share karta hoon na.
-[01:38] Buyer: Ha mil jayega.
-[01:39] Seller: 93101.
-[01:41] Buyer: 93901.
-[01:45] Seller: 93101.
-[01:49] Buyer: Ek minute 93101 ji sir.
-[01:53] Seller: 68.
-[01:55] Buyer: 68.
-[01:58] Seller: 458.
-[02:00] Buyer: 458.
-[02:02] Buyer: Ji sir.
-[02:05] Seller: Bhejo ek baar.
-[02:06] Buyer: Chalega sir aapka shubh naam sir?
-[02:09] Seller: GST International Private Limited.
-[02:13] Buyer: GST, kya baat hai.
-[02:15] Seller: Thik hai sir.
-[02:17] Buyer: Kab tak batate hain sir aap?
-[02:19] Seller: Abhi bhejo aap whatsapp per main drive kar raha hoon main abhi dekhte hain fir batata hoon.
-[02:22] Buyer: Thik hai.}"
-5057661,"102,154,383","640,823,759","{[00:00] Seller: Haan ji. Sir, MIG wire chahiye thi.
-[00:05] Seller: .8 mein chahiye kis mein chahiye ji? .8?
-[00:08] Buyer: Kahan se bol rahe hain sir?
-[00:10] Buyer: Bahadurgarh.
-[00:12] Buyer: Haryana.
-[00:14] Seller: .8 MIG wire kitni quantity chahiye sir? Prima ki hoti hai humare paas.
-[00:20] Buyer: Haan, Prima ki. Kya rate hoga sir?
-[00:22] Seller: 75 kilo lagti hai per month.
-[00:25] Buyer: Kitni lagti hai?
-[00:26] Seller: 75 kg.
-[00:28] Seller: Paanch petti hogi ji. Yeh ₹94 plus GST padegi ji aapke paas aake.
-[00:34] Buyer: 94 to sir jyada rate nahi hai?
-[00:36] Seller: Sir, mere counter se utha lo, ₹90 de dunga.
-[00:40] Buyer: Kya karwa du?
-[00:41] Seller: Counter se agar aap utha loge to ₹90 de dunga. Bawana mein hai ji mera counter.
-[00:48] Buyer: Achcha.
-[00:49] Seller: Paara lag jayega sir. Paara 90 doge? Delivery factory mein delivery doge?
-[00:55] Buyer: Haan, Bahadurgarh mein kahan factory hai apni?
-[00:58] Buyer: Sector 17.
-[01:01] Seller: Sector 17 toh yaar woh aage woh saab de dunga sir Bahadurgarh de denge, koi baat nahi.
-[01:05] Buyer: Theek hai.
-[01:08] Buyer: Ab jaise maan lo kitni... ek baar mein paanch hi chayiege sir, paanch se toh jyada kya? Paanch bango mein de doge?
-[01:16] Seller: Haan, mere ko parso jaana hai Bahadurgarh, parso wale route mein chod dunga aapko.
-[01:20] Buyer: Achcha theek hai jaise udhar chahiye hota hai toh matlab delivery de doge na?
-[01:24] Seller: Haan bhaiya de denge aapko delivery.
-[01:27] Buyer: Theek hai ji.
-[01:28] Buyer: Toh dastakunga.
-[01:29] Seller: Theek hai ji.
-[01:33] Speaker: Chalo shukr karo bhagwan ka, hum aa gaye parking mein.
-[01:37] Speaker: Aur idhar laga dete hain kahin.}"
-24108739,"255,882,574","640,874,556","{[00:03] Buyer: A Shraddha Enterprises na?
+24108739,"255,882,574",640874556,"{[00:03] Buyer: A Shraddha Enterprises na?
 [00:05] Seller: ha bolto aahe
 [00:06] Buyer: A te aamhala tumchaa number aahe na IndiaMart varun bhetlaa aahe. aamhala partex company chi ji sleevee aste na ferrule sleevee.
 [00:15] Seller: hmm.
@@ -1810,7 +1488,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [02:26] Buyer: ho ho
 [02:26] Seller: chalel chalel call karu maga yes yes yes chalel theek ho
 }"
-42728554,"234,429,531","640,896,094","{[00:00] Buyer: Hello.
+42728554,"234,429,531",640896094,"{[00:00] Buyer: Hello.
 [00:01] Seller: Haan.
 [00:01] Buyer: Sir, yeh Mlan Texon se baat kar rahe hain?
 [00:03] Seller: Haan, bol rahe hain, bataiye.
@@ -1858,7 +1536,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:38] Seller: Theek, theek.
 [01:39] Buyer: Okay, theek hai sir.
 [01:40] Buyer: Price rate usi time bataiye naa sir, price vageire uske?}"
-152298969,"87,782,922","640,931,593","{[00:00] Buyer: Hello.
+152298969,"87,782,922",640931593,"{[00:00] Buyer: Hello.
 [00:01] Buyer: Vikas Printer?
 [00:03] Buyer: Hello.
 [00:04] Buyer: Vikas Printer?
@@ -1901,7 +1579,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:43] Buyer: Uska rate bhi rate rate bhi dalna kya rate hai.
 [01:46] Seller: Okay okay theek hai chaliye.
 [01:47] Buyer: Okay.}"
-72509641,"79,046,811","640,951,114","{[00:02] Buyer: Hello, Shinnar kahan se bol raha hai?
+72509641,"79,046,811",640951114,"{[00:02] Buyer: Hello, Shinnar kahan se bol raha hai?
 [00:03] Seller: Haan.
 [00:03] Buyer: Haan, bol rahe hai.
 [00:04] Buyer: Garlic peeling machine to mangai thi woh?
@@ -1942,7 +1620,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:18] Buyer: Ho tha lag gaye laga nahi gaya. Okay okay.
 [01:21] Seller: Thik hai thik hai thik hai okay.
 [01:24] Buyer: Kya?}"
-152298969,"28,409,348","640,999,397","{[00:01] Buyer: Hello?
+152298969,"28,409,348",640999397,"{[00:01] Buyer: Hello?
 [00:02] Seller: Hello? Haan boliye.
 [00:04] Buyer: Ah Shreyansh mein se bol rahe ho? Shreyansh?
 [00:06] Seller: Haan, haan Shreyansh se bol raha hai.
@@ -1995,7 +1673,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:56] Buyer: Mumbai, Vaikala.
 [01:57] Buyer: Achcha Mumbai se, thik hai.
 [01:58] Seller: Haan, thik hai. Okay.}"
-152298969,"107,561,453","641,039,804","{Okay, here is the transcription of the call audio according to your specifications:
+152298969,"107,561,453",641039804,"{Okay, here is the transcription of the call audio according to your specifications:
 
 [00:01] Seller: Hello?
 [00:02] Buyer: Ji madam.
@@ -2015,7 +1693,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:36] Buyer: Ji madam.
 [00:37] Seller: Okay.
 }"
-42728554,"228,461,954","641,094,291","{Okay, here's the transcription of the provided audio:
+42728554,"228,461,954",641094291,"{Okay, here's the transcription of the provided audio:
 
 [00:02] Buyer: Hello.
 [00:03] Seller: Hello. Yes, sir boliye.
@@ -2045,34 +1723,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:29] Seller: Theek hai.
 [01:30] Buyer: Theek hai, main aapko Whatsapp kar dunga.
 }"
-5057661,"102,154,383","641,232,022","{[00:01] Buyer: Hello.
-[00:01] Seller: Hello.
-[00:02] Buyer: Haan ji.
-[00:04] Seller:  मैम क्या नाम है, Mig वायर के लिए बात हुई थी आपसे, बवाना से बोल रहे हो ना आप?
-[00:10] Buyer:  हाँ जी हाँ जी, DST International Private Limited से, किससे बात हुई थी? अच्छा, सिंघ साहब से बात हुई होगी, हां जी बताएं।
-[00:18] Seller: अ क्या रेट बताया था मैडम?
-[00:20] Buyer: नाम बता सकते हैं आप?
-[00:22] Seller: Next line hai mere pass?
-[00:24] Seller: बहादुर भाई।
-[00:24] Buyer: Haan ji.
-[00:25] Seller: बहादुर भाई।
-[00:28] Buyer: अ सर आपको बताया होगा ₹104 GST, पांच देके और वैसे अगर काउंटर पर उठाओगे तो ₹90 kg plus GST।
-[00:39] Seller: ठीक है, वो मैडम एक बार वो ठीक है WhatsApp पे ना अकाउंट डिटेल डाल दो और PI डाल दो इसकी पांच उसकी 15 किलो का होता है ना एक?
-[00:49] Buyer:  हां जी हां जी।
-[00:50] Seller: तो पांच 75 किलो का डाल दो।
-[00:54] Buyer: अच्छा। ठीक है। मैं डाल देती हूं। एक बार ना आप मुझे मैं आपको WhatsApp पे आई बोल दिया तो GST वगैरा डिटेल डाल दीजिए तभी PI बन पाएगा।
-[01:10] Seller:  ठीक है।
-[01:11] Buyer: ठीक है?
-[01:12] Seller: Okay. वो तो ठीक है अब डाल देता हूं, मैसेज करो आप।
-[01:16] Buyer: ठीक है।
-[01:17] Seller: रेट करोगे कुछ कम तो कर लो मैडम।
-[01:20] Buyer: कम नहीं हो पाएगा सर, जो रेट वही है।
-[01:24] Seller: अच्छा?
-[01:25] Buyer: जी सर।
-[01:30] Seller:  ठीक है, डालो एक बार WhatsApp पर मैसेज करो आप।
-[01:34] Buyer: ठीक है सर।
-[01:36] Seller:  ठीक।}"
-152298969,"235,877,892","641,306,420","{[00:00] Buyer: Hello.
+152298969,"235,877,892",641306420,"{[00:00] Buyer: Hello.
 [00:02] Seller: Hello, Shyan Fido Solution.
 [00:04] Buyer: Yes, boliye.
 [00:06] Buyer: Hello.
@@ -2201,7 +1852,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [07:12] Seller: Bhej diya, abhi bhej diya.
 [07:14] Buyer: Thik hai, okay, okay, thank you.
 }"
-42728554,"254,436,520","641,372,528","{[00:00] Buyer: Hello.
+42728554,"254,436,520",641372528,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Seller: Hello, haanji?
 [00:03] Buyer: Bhai saab mere ko ek piston pump chahiye 5 HP capacity ke uske liye chahiye blower ke liye.
@@ -2228,94 +1879,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:52] Seller: Thik hai, thik hai.
 [00:54] Buyer: Ji.
 }"
-5057661,"89,226,609","641,464,496","{[00:00] Buyer: Hello.
-[00:01] Seller: Hello.
-[00:02] Buyer: Ha ji sir.
-[00:04] Seller: Mam Panas Technology se baat kar raha hu Saifi kasna se.
-[00:07] Buyer: Ji bataiye. Yeh Megwire ki requirement thi.
-[00:11] Seller: Mil jayega. Kitne box chahiye?
-[00:13] Seller: Modi company ke jo Megwire aate hai na woh hai aapke pass 0.8 wale.
-[00:18] Buyer: Modi ka nahi milenge sir, Prima ke milenge. Aur Prima mein aur ha Greater Noida mein Prima hi chal raha hai hamara.
-[00:23] Buyer: Achhe quality mein chal raha hai. Woh matlab achhe quantity mein ja raha hai.
-[00:27] Seller: Yeh main ek toh chahiye ek roll toh chahiye uska copper ka, copper ki Megwire.
-[00:33] Buyer: Ha.
-[00:34] Seller: Copper ki coated nahi mukht pure copper ki jo Megwire aati hai na kyunki copper ki sheet pe welding karni hai.
-[00:40] Buyer: Achha. Nahi yeh toh sir copper coated hoti hai pehle mein.
-[00:43] Seller: Nahi woh hai mein ab woh aati hai woh hamare pass woh toh regular chalti hai 0.8 ki copper coated Megwire MS ki.
-[00:51] Seller: Ab woh hame mein ek woh yeh toh regular chalti hi hai, ek roll uska chahiye tha copper ki wire ka.
-[01:00] Buyer: Uska naam kuch hai?
-[01:02] Seller: Uska naam yeh copper ki copper ki Megwire, 1mm ki.
-[01:06] Buyer: 1 mm.
-[01:07] Seller: Ji.
-[01:09] Buyer: Okay.
-[01:11] Buyer: Thik hai.
-[01:12] Buyer: Dekh leti hu agar stock mein pada ho toh kyunki hum na mangaa kar dete hai.
-[01:16] Seller: Ji.
-[01:16] Seller: Aman metal wagera ko na jaise.
-[01:19] Seller: Iska price kya rehta hai aapka MS wali copper coated Megwire ka 0.8 wali ka.
-[01:24] Buyer: Kitni quantity kitni lagti hai?
-[01:27] Seller: Quantity yeh mein yeh
-[01:33] Seller: One week mein 20, 30 roll lag jate hai.
-[01:37] Buyer: Mahine mein.
-[01:37] Seller: Week week saptah mein.
-[01:39] Buyer: Achha saptah mein. Okay 90 rupay kg plus GST padega sir.
-[01:46] Seller: 90 rupay kg.
-[01:48] Buyer: Ha sab kuch se approved hai jaise ki DMRC ho gaya BHEL ho gaya. Har cheez se approved hai. Aapko koi dikkat nahi aayegi isme.
-[01:54] Seller: Quality best hai.
-[01:55] Buyer: Quality best hai sir. Yeh ek mein company hai aapko pata ho toh robot wagera manga rakha hai yaha pe, Greater Noida 3 mein hi Potec 3.
-[02:02] Buyer: Waha pe Prima ka hi jata hai.
-[02:04] Buyer: Aur mahine ka 300, 400 roll jate hai.
-[02:08] Seller: 90 rupay kg plus GST.
-[02:10] Buyer: Ha 15 kg ka spool hota hai.
-[02:13] Buyer: Layer bond hota hai.
-[02:14] Seller: 15 kg ka roll hota hoga.
-[02:17] Buyer: Ha ji ha ji.
-[02:19] Seller: Ek baar aap mera number aapke pass chala gaya?
-[02:22] Buyer: Ha mere ko India Mart pe aa gaya hoga.
-[02:24] Seller: Achha.
-[02:27] Buyer: Mein Whatsapp pe hi bolti hu aap mujhe kar dijiye thik hai?
-[02:31] Seller: Hi bol dena aur mein keh raha hu aur jo aapka best rate ho na iska hmm, Megwire ka.
-[02:39] Seller: Hmm.
-[02:39] Seller: Woh best rate ek mere ko bata dena phir hum aapse hi utha lenge.
-[02:42] Buyer: Sir dekho best rate hi bataya maine kyunki quantity ke upar maine bataya rate, sahi batau toh thik hai. Aaiye hum industrial mein nahi dete yeh hum wale ko dete rate.
-[02:50] Seller: Hmm aapke malum pata karlu 94 rupay kg bikta hai.
-[02:53] Buyer: apne mein
-[02:54] Seller: Hamare jo head hai mein unse bhi toh jabhi discuss kar paunga na toh sahi rate lagi kyunki yeh ab mere ko iska pata nahi hai Modi company ki aur jo Prime company hai usme kya antar hai.
-[03:03] Buyer: Aap kisi se bhi confirm karo thik hai?
-[03:06] Seller: Hmm.
-[03:07] Buyer: Ya compare karo Google pe Modi and iska Modi versus Prima. Khud aapko pata chal jayega.
-[03:12] Seller: Hmm.
-[03:13] Buyer: Thik hai is tarike se hota hai.
-[03:15] Seller: Thik hai mam ab mere ko ek baar whatsapp pe iska best rate aur woh urgent hai woh bhi chahiye copper ki Megwire.
-[03:19] Buyer: Mein ab
-[03:20] Buyer: mein bata rahi hu.
-[03:23] Seller: Woh check karke mere ko bata do aur iska bhi rate bata dena uska bhi bata dena.
-[03:27] Buyer: Thik hai mein abhi bata deti hu.
-[03:29] Seller: Thik hai bataiye. Yeh waise mam company kaha hogi aapki?
-[03:32] Buyer: Meri sir bawana.
-[03:34] Buyer: Delhi mein.
-[03:35] Seller: Delhi Delhi mein yeh kya jaise mangayi kya process rahega?
-[03:42] Seller: Sir transportation aapka hota hai.
-[03:46] Seller: Aapka aapke aap hoga toh agar aap dekho roll agar jyada
-[03:51] Seller: Huwe toh ek baar ko toh mein gaadi bhej sakti hu.
-[03:55] Seller: Achha.
-[03:56] Buyer: hmm woh aap discuss kar lo dekh lo.
-[04:01] Seller: Ek baar bhej doge aap uske baad woh rate hamara rahega.
-[04:03] Buyer: hmm.
-[04:07] Seller: Ais
-[04:09] Seller: Chaliye mere ko aap daliye.
-[04:11] Buyer: mein bata deti hu sacchai isme na jyada hum bachate nahi hai.
-[04:16] Buyer: 1 se 2 rupay kg pe hamara bachta hai.
-[04:18] Buyer: Usme aapko pata hai yaha se loading bhi hoti hai waha pe jayega.
-[04:21] Buyer: Kiraya bhi hota hai lekin woh cheez hota hai ki chalo koi baat nahi hum log yeh kar lete hai manage.
-[04:27] Seller: Thik hai mere ko ab mam dalo iska.
-[04:30] Buyer: Thik hai.
-[04:31] Seller: Ho sake toh quotation hi dal dena uska mein company detail aap hi dalo aapko deta hu.
-[04:34] Buyer: Thik hai mein dal.
-[04:36] Buyer: Thik hai.
-[04:37] Seller: Uska jarur check karana.
-}"
-72509641,"49,060,277","641,476,515","{Okay, here is the transcription of the audio:
+72509641,"49,060,277",641476515,"{Okay, here is the transcription of the audio:
 
 [00:01] Seller: Hello.
 [00:01] Seller: Hello.
@@ -2344,7 +1908,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:07] Buyer: Bar bar.
 [01:07] Seller: Prakash mhante cha nikadun jara utarto na ek number cha shop ikadna.
 [01:11] Buyer: Bar sir thik ahe chalel. Okay.}"
-42728554,"256,061,570","641,487,115","{[00:00] Buyer: Hello?
+42728554,"256,061,570",641487115,"{[00:00] Buyer: Hello?
 [00:01] Seller: Yes sir boliye.
 [00:02] Buyer: Sir adu yaavdrilling machine estalla sir amount rate.
 [00:06] Seller: Sir aap Hindi ya English mein baat karenge?
@@ -2387,7 +1951,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:32] Buyer: Haan isi number pe kar do sir.
 [01:33] Seller: Isi number pe theek hai theek hai.
 [01:34] Buyer: Haan sir.}"
-152298969,"121,493,527","641,499,481","{[00:01] Buyer: Hello.
+152298969,"121,493,527",641499481,"{[00:01] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:02] Buyer: Yes boliye sir. Suresh Technology na?
 [00:05] Seller: Shreya City Solutions.
@@ -2409,26 +1973,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:02] Seller: To mai Windows ka hi aapko quote kar deti hoon.
 [01:05] Buyer: Chalega chalega, de dijiyega. Okay.
 [01:07] Seller: Okay.}"
-5057661,"191,704,086","641,571,980","{[00:00] Buyer: Hello.
-[00:02] Seller: Hello.
-[00:03] Buyer: Sanvi Mam?
-[00:04] Seller: Haan Mam, BST se baat kar rahi hain?
-[00:06] Buyer: Ji Mam. 
-[00:07] Buyer: Mam ye abrasive wheel mein deal karte hain na?
-[00:11] Seller: Abrasive ji Mam, hum khud banate hain.
-[00:15] Buyer: Achha ye meri ek inquiry hai abrasive wheel ki. Main Noida se baat kar rahi hun, Nishesh Enterprises se.
-[00:20] Seller: Ji batayein.
-[00:21] Buyer: Ye hai, diameter 100 hoga.
-[00:26] Buyer: Aur jo inside diameter hai woh 16 mm ka hoga.
-[00:29] Buyer: Ye ho jayega kya? Matlab grit uski rahegi 80.
-[00:34] Seller: Ye Mam aapko flap disc chahiye na?
-[00:36] Buyer: Haan.
-[00:38] Seller: Haan. Ab mil jayega.
-[00:41] Buyer: Aur main aapko inquiry Whatsapp pe share karti hun, apna number bol dijiye zara.
-[00:44] Seller: Main aapko Whatsapp pe abhi hi bol deti hun, aap mujhe share kar dijiye.
-[00:47] Buyer: Haan please haan.
-[00:48] Seller: Okay.}"
-152298969,"255,364,043","641,813,606","{[00:00] Seller: हेलो
+152298969,"255,364,043",641813606,"{[00:00] Seller: हेलो
 [00:01] Seller: हेलो
 [00:02] Seller: यस बोलिए
 [00:02] Buyer: हाय गुड मॉर्निंग श्रंश सोल्यूशन से बात कर रहे हैं मैडम हां हां
@@ -2442,7 +1987,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:41] Buyer: अ सॉरी क्या चीज थर्मल प्रिंटर थर्मल प्रिंटर्स ओके सो और डायनेमिक क्यूआर का कोई सोल्यूशन प्रोवाइड करते हैं क्या आप यूपीआई
 [00:47] Seller: नहीं नहीं नहीं सर
 [00:49] Buyer: ओके ओके ठीक है मैम एक सेकंड था थैंक यू थैंक यू}"
-42728554,"139,785,679","641,893,295","{[00:00] Buyer: Hello.
+42728554,"139,785,679",641893295,"{[00:00] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:03] Seller: Yes sir boliye.
 [00:05] Buyer: Sir aapke paas yeh Umbrella Canopy hogi jo scooter mein lagi hoti hai activa mein.
@@ -2477,7 +2022,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:26] Seller: Ha thik hai thik hai. Okay sir.
 [01:28] Seller: Thik thik.
 [01:30] Seller: Thik hai.}"
-42728554,"66,036,475","641,971,766","{Okay, here's the transcription of the audio, following your instructions:
+42728554,"66,036,475",641971766,"{Okay, here's the transcription of the audio, following your instructions:
 
 [00:00] Buyer: Hello.
 [00:01] Seller: Hello, aapke pass tile cutter hai?
@@ -2516,7 +2061,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:59] Seller: Achha, thik hai.
 [01:00] Seller: Thik hai.
 }"
-152298969,"194,984,753","641,972,129","{[00:01] Buyer: Hello.
+152298969,"194,984,753",641972129,"{[00:01] Buyer: Hello.
 [00:02] Buyer: Hello, ye Shreyans Retail Solutions se baat ho rahi hai?
 [00:06] Seller: Yes, sir, boliye.
 [00:07] Buyer:  Uh, mera ek requirement tha, ye mera thermal printer ke regarding.
@@ -2569,7 +2114,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:47] Speaker: Start kar dijiye.
 [01:48] Seller:  Hello.
 [01:51] Speaker: Start kar dijiye.}"
-24108739,"180,930,188","642,073,861","{[00:00] Seller: Hello
+24108739,"180,930,188",642073861,"{[00:00] Seller: Hello
 [00:01] Buyer: Bolo
 [00:01] Seller: Madam, this is Shraddha Enterprises.
 [00:04] Buyer: Yeah.
@@ -2593,7 +2138,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:53] Buyer: Okay.
 [00:54] Seller: Okay ma'am thank you.
 }"
-152298969,"101,613,460","642,114,542","{[00:01] Seller: Hello.
+152298969,"101,613,460",642114542,"{[00:01] Seller: Hello.
 [00:02] Buyer: Aapne ola wifi wala thermal printer rakho ho na nana?
 [00:06] Seller: Hello.
 [00:07] Buyer: Ha, awaz aawe mara?
@@ -2630,7 +2175,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:36] Buyer: Ha forward kar dijiye. Description ke sath aur rate bhi bata dena usme.
 [01:39] Seller: Okay, okay, thik hai, chalega.
 }"
-72509641,"36,984,089","642,117,936","{[00:00] Buyer: Hello.
+72509641,"36,984,089",642117936,"{[00:00] Buyer: Hello.
 [00:01] Hello.
 [00:02] Hello.
 [00:03] Hello.
@@ -2660,7 +2205,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:06] Roha Raigad.
 [01:08] Ha.
 }"
-72509641,"247,811,455","642,253,360","{[00:00] Seller: Hello.
+72509641,"247,811,455",642253360,"{[00:00] Seller: Hello.
 [00:01] Buyer: Hello.
 [00:02] Seller: Haan bolo.
 [00:03] Buyer: Ye popcorn ka machine woh chahiye.
@@ -2693,7 +2238,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:58] Buyer: Hello.
 [00:59] Seller: Haan boliye.
 [01:00] Buyer: Battery wala kitna?}"
-72509641,"247,811,455","642,255,068","{[00:00] Seller: Hello.
+72509641,"247,811,455",642255068,"{[00:00] Seller: Hello.
 [00:01] Buyer: Hello.
 [00:03] Seller: Ha bolie.
 [00:04] Buyer: Popcorn machine chahiye ji.
@@ -2731,46 +2276,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:26] Seller: Bhej deta hu mein photo aapko.
 [01:28] Buyer: Ha photo bhej daalo, price bhi likh daalo uske niche.
 [01:31] Seller: Okay.}"
-5057661,"132,920,267","642,435,751","{[00:00] Seller: Hello.
-[00:01] Seller: Ye apna chand fan ke grounder me bhi deal karte ho?
-[00:03] Seller: Haanji.
-[00:04] Seller: Ye model mil jayega 9725, 9725.
-[00:07] Buyer: 9725 nahi hai, 9923 hai.
-[00:10] Seller: 9725 kyun nahi hai ji?
-[00:12] Buyer: Nahi hai toh nahi hai stock me sir, khatam ho gaya. Sorry, I'm sorry to say that. Matlab khatam ho gaya, kab available ho jayega?
-[00:19] Buyer: Ye sir, mai bata nahi sakti kyuki ye na 25 din lag jate hain order dalte hain toh.
-[00:24] Seller: Koi aur zariya aas paas se kahi se mil jaye?
-[00:29] Buyer: Haanji.
-[00:30] Seller: Aas paas se kahi se mil jaye kuch idea?
-[00:32] Buyer: Kitni quantity chahiye?
-[00:33] Seller: Are quantity toh jyada nahi chahiye lekin jaruri hai. Teen piece chahiye.
-[00:38] Buyer: Sorry sun lewa, mai aapko na WhatsApp pe high bhej di, thodi der me confirm karke bata dungi, theek hai?
-[00:43] Seller: Pakka kar dena, dekh lo pakka bilkul.
-[00:45] Buyer: confirm karti hun.
-[00:46] Seller: Theek hai.
-[00:47] Buyer: Ji.
-[00:49] Seller: Bata rahe ho aap ded ka nishan de raha hai. Chalo theek hai sir daal diya sir.}"
-5057661,"132,920,267","642,444,082","{Okay, here is the transcription of the audio provided:
-
-[00:00] Buyer: Hello. Aram se.
-[00:01] Seller: Hello.
-[00:02] Buyer: Hanji.
-[00:03] Buyer: Ji aap rate bata rahe the can ka grinder?
-[00:08] Seller: Kaun sa chahiye 670 bhi mein ya 850 mein?
-[00:13] Buyer: 850 ka rate bata do, 670 ka bhi bata do.
-[00:15] Seller: 670 bhaiya can mein padega aapko 1800 plus GST, theek hai?
-[00:22] Seller: Aur 850 watts padega aapko Polymac ke andar can ka hi brand hota hai, Polymac. Vo padega aapko 1950 plus GST.
-[00:35] Buyer: Nahi yeh jo main aapko bata raha hu 9725 model pooch raha hu.
-[00:40] Seller: Kiski? 9725? 
-[00:42] Buyer: 9725.
-[00:44] Seller: Sir 9725 to hum isse nahi hai lena padega. Rate kitni quantity hai?
-[00:49] Buyer: Teen piece chahiye bhai sahab dilwa do party hai aage regular milta rahega kaam vo nahi milega.
-[00:53] Seller: Nahi nahi sir hamare hamare paas ho nahi payega sir teen piece. Actually ye regular size hai nahi to stock mein nahi rakhte hum.
-[01:03] Buyer: Haan. Accha.
-[01:06] Buyer: Aur Dongcheng ka kitne ka hai?
-[01:09] Seller: Dongcheng Chinese nahi hota sir hamare paas yahi hota bas.
-[01:12] Buyer: Accha accha theek theek okay.}"
-42728554,"190,927,666","642,489,222","{Okay, here is the transcription of the provided audio, formatted as requested:
+42728554,"190,927,666",642489222,"{Okay, here is the transcription of the provided audio, formatted as requested:
 
 [00:02] Buyer: Hello.
 [00:03] Seller: Namaskar sir.
@@ -2801,26 +2307,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:07] Buyer: Accha.
 [01:08] Buyer: Okay sir, thank you.
 [01:09] Seller: Okay.}"
-5057661,"21,702,929","642,532,404","{[00:00] Buyer: Hello?
-[00:01] Seller: Ji namaskar ji ye DS International se bol rahe hain?
-[00:03] Buyer: DS International Private Limited. Sir aapki awaaz bohot slow aa rahi hai.
-[00:06] Seller: Ji madam. Ji.
-[00:08] Seller: Ji. Madam main na ek sanding belt dekh raha tha basically online.
-[00:13] Buyer: Mil jaega. Kon sa chahiye aapko?
-[00:16] Seller: A madam mera size, a aap mein ek alag hai ya aapke paas ye D Frost ka hi hai kya sir?
-[00:23] Buyer: BS Frost.
-[00:24] Seller: Mere paas B air force hi hai.
-[00:26] Buyer: Mere paas
-[00:31] Seller: Mera size hai mam, basically 100 grit hai, or 650 tak unka size hai to kya size yahi pata hai ya kuch aur zyada hai?
-[00:42] Buyer: Aapki awaaz break ho rahi hai, clear nahi aa rahi.
-[00:45] Seller: Hello?
-[00:47] Buyer: Ha ji, hello.
-[00:47] Seller: Ha ji mam WhatsApp number ya to de dijiye ki mai aapko ek baar WhatsApp pe data hun.
-[00:52] Buyer: Bhaiya.
-[00:53] Seller: Hello?
-[00:54] Buyer: Mein WhatsApp karti hu aapko na, theek.
-[00:57] Seller: Ji, ji, ji, ji. Hi bolti hu aap detail daaliye.}"
-24108739,"124,860,749","642,550,148","{[00:04] Buyer: Hello.
+24108739,"124,860,749",642550148,"{[00:04] Buyer: Hello.
 [00:06] Seller: Shradha Enterprises?
 [00:07] Buyer: Yes.
 [00:08] Buyer: Uh, sir, amhala na PVC sleeve havi hai 4.5 mm madhe available hoil ka?
@@ -2857,7 +2344,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:56] Seller: Thik hai thik hai. As kayi tumhala kalvto, haan?
 [01:58] Buyer: Ho chalel sir. Okay thank you. Namaste. Thank you.
 }"
-42728554,"20,563,398","642,574,835","{[00:00] Buyer: Hello.
+42728554,"20,563,398",642574835,"{[00:00] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:03] Buyer: Haan, yeh sir boliye.
 [00:06] Buyer: Boss ek baat bataiye, yeh jo tile cutting waali jo aapka tool aata hai na jo blade se cutti hai tile.
@@ -2944,7 +2431,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [04:59] Buyer: Arre mujhe bhej do isme ek baar.
 [05:01] Seller: Haan theek hai theek hai mein aapko bhej mein check kariyega.
 [05:05] Seller: Okay.}"
-72509641,"185,163,054","642,605,137","{[00:00] Buyer: Hello.
+72509641,"185,163,054",642605137,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Buyer: Hello. Ha.
 [00:03] Buyer: Ha bhai mere ko patta ghisne wala machine chahiye chota wala.
@@ -2988,7 +2475,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:20] Buyer: Barabar.
 [01:20] Seller: Theek hai mai, dekhta hu.
 [01:23] Buyer: Ok sir.}"
-152298969,"46,144,858","642,626,208","{[00:01] Seller: Hello
+152298969,"46,144,858",642626208,"{[00:01] Seller: Hello
 [00:03] Buyer: Hello
 [00:04] Seller: Bolye na sir
 [00:05] Buyer: Hello
@@ -3020,7 +2507,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:02] Seller: Okay chalega. Aapka number hai 9986655494?
 [01:06] Buyer: Hanji, hanji.
 [01:07] Seller: Okay, okay thik hai sir.}"
-24108739,"160,614,693","642,640,747","{[00:01] Buyer: Hello.
+24108739,"160,614,693",642640747,"{[00:01] Buyer: Hello.
 [00:03] Seller: Hello.
 [00:03] Seller: Haan boliye sir.
 [00:05] Buyer: Sandeep enterprise?
@@ -3061,7 +2548,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:17] Buyer: Haan, haan thik hai.
 [01:17] Buyer: Ya.
 }"
-152298969,"194,020,457","642,939,902","{[00:00] Buyer: Hello.
+152298969,"194,020,457",642939902,"{[00:00] Buyer: Hello.
 [00:02] Hello.
 [00:03] Seller: Hello, ha boliy.
 [00:05] Buyer: PSPL 240 printer.
@@ -3088,7 +2575,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:55] Buyer: 82, okay.
 [00:56] Seller: Ha, aap mujhe whatsapp kar dena, mai aapko then details forward karti hu, thik hai? Ha, thik hai, okay.
 [01:00] Seller: Okay.}"
-24108739,"251,369,558","642,974,170","{[00:03] Speaker: Hello.
+24108739,"251,369,558",642974170,"{[00:03] Speaker: Hello.
 [00:04] Speaker: Hello.
 [00:05] Speaker: Hello.
 [00:05] Speaker: sir.
@@ -3120,7 +2607,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:21] Speaker: Ho sir theek hai theek hai.
 [01:23] Speaker: theek hai sir theek hai chala.
 }"
-24108739,"43,433,778","643,001,456","{[00:00] Seller: Hello, hello. Sir, Srilakshmi Hardwood madhun bolto aahe Takaran varun.
+24108739,"43,433,778",643001456,"{[00:00] Seller: Hello, hello. Sir, Srilakshmi Hardwood madhun bolto aahe Takaran varun.
 [00:04] Buyer: Ha, bola sir.
 [00:05] Seller: Sir aaplyakade Brother cha fitting ahe ka, marking wala?
 [00:11] Seller: Brother cha fitting, kutli size ahe?
@@ -3142,7 +2629,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:42] Seller: 14
 [00:43] Buyer: 14, theek hai sir, me patavto tumhala WhatsApp var.
 [00:46] Seller: Yes, yes, yes, theek hai.}"
-152298969,"251,167,913","643,027,958","{[00:01] Seller: Hello
+152298969,"251,167,913",643027958,"{[00:01] Seller: Hello
 [00:02] Buyer: Good afternoon mam.
 [00:03] Seller: Good afternoon mam boliye.
 [00:05] Buyer: Mam hame barcode label color printer ki requirement thi.
@@ -3162,7 +2649,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:48] Buyer: Yes mam.
 [00:49] Seller: Okay mam thank you.
 [00:50] Buyer: Okay mam.}"
-72509641,"30,140,010","643,102,744","{Okay, here is the transcription of the provided audio:
+72509641,"30,140,010",643102744,"{Okay, here is the transcription of the provided audio:
 
 [00:01] Buyer: Hello.
 [00:01] Seller: Hello.
@@ -3185,7 +2672,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:46] Seller: Bar, vicharto.
 [00:47] Buyer: Mee tumhala Whatsapp la send karto. Mala sanga barobar thik aahe na. Ho.
 }"
-42728554,"141,547,000","643,179,086","{[00:00] Buyer: Hello.
+42728554,"141,547,000",643179086,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:01] Buyer: Haan sir ji namashkar.
 [00:03] Seller: Haan, Namaste.
@@ -3218,7 +2705,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:59] Seller: To Mangal ko leke jayega to ho sakta hai Shukrawar tak aa jayega aapke paas.
 [01:02] Seller: Do din, teen din ka time lagta hai.
 [01:05] Buyer: Chaliye thik hai sir.}"
-24108739,"251,868,675","643,260,776","{[00:01] Buyer: Hello.
+24108739,"251,868,675",643260776,"{[00:01] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:03] Buyer: Haan dada bolchhilam Sukh vyaner ribbon available achhe? Hello?
 [00:06] Seller: Haan boliyee.
@@ -3244,7 +2731,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:54] Seller: Lagana padega thoda extra.
 [00:56] Buyer: Thik hai okay thik hai thik hai.
 [00:58] Seller: Okay.}"
-24108739,"157,112,899","643,439,579","{[00:01] Buyer: Hello.
+24108739,"157,112,899",643439579,"{[00:01] Buyer: Hello.
 [00:02] Seller: This is Sharda Enterprises?
 [00:04] Buyer: Yes, speaking.
 [00:06] Buyer: Yeah, this is Kiran Jain calling from Bigstack. We are corporate suppliers and we have a requirement of Epson LW 400 label printer.
@@ -3325,38 +2812,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [03:58] Buyer: Okay fine. Thanks, thanks.
 [04:00] Seller: Thank you.
 }"
-5057661,"82,077,035","643,627,933","{[00:00] Buyer: Hello.
-[00:01] Seller: Hello.
-[00:02] Buyer: Hanji.
-[00:03] Buyer: Aapke paas sanding belt mil jayegi?
-[00:06] Seller: Size kya hai?
-[00:07] Buyer: 4 inch by 36 inch, 60 number ki.
-[00:13] Seller: 4 inch by 36 inch.
-[00:15] Buyer: Hanji.
-[00:15] Seller: 4 inch ka matlab kitna ho gaya tumhara 400, 100 mm.
-[00:19] Seller: Aur length kitni hogi?
-[00:20] Buyer: 36 inch.
-[00:22] Seller: Ha wo 100 guna 910 ki belt hogi.
-[00:26] Seller: 910.
-[00:27] Seller: Jute jute ka kaam hai aapka, rubber ka?
-[00:30] Buyer: Nahin, nahin, nahin.
-[00:32] Buyer: Hume to ceramic pe disna hota hai.
-[00:39] Seller: 100 guna 610 ka size hoga. Kaunsa grid chahiye aapko?
-[00:43] Buyer: 60.
-[00:44] Seller: Kitne piece chahiye?
-[00:46] Buyer: Pehle to ek piece, ek baar try kar ke dekhenge, ki hamare size sahi baith raha hai ya nahi baith raha.
-[00:51] Seller: Ek piece se kaise aap karoge, ab ek piece ka koi dunga hai na.
-[00:54] Buyer: Theek hai dekho, aap size mein confident hai ki sahi hai size to 10 piece ek sath le lenge.
-[01:00] Seller: Kahan se bol rahe hai aap?
-[01:02] Buyer: Wazirpur se.
-[01:05] Seller: Oh hamara na Bawana mein, loge kaise?
-[01:08] Buyer: Achcha.
-[01:09] Seller: Hmm.
-[01:10] Buyer: Theek hai.
-[01:11] Seller: Ab near by pata karo, woh Girraj wada baitha hai wahan pe, Sarimani wala baitha hai usse le lo.
-[01:16] Buyer: Theek hai.
-[01:16] Seller: Mukesh ji aaunse le lo kisi se bhi le lo.}"
-42728554,"229,284,132","643,710,907","{[00:01] Buyer: Hello.
+42728554,"229,284,132",643710907,"{[00:01] Buyer: Hello.
 [00:02] Seller: Ji sir boliye, Namaste.
 [00:04] Buyer: Namaskar.
 [00:04] Buyer: Sir aapna number denge sir, ye to India Mart ka number hai. Mere ko capacitor chahiye tha sir.
@@ -3382,7 +2838,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:56] Seller: Haan.
 [00:57] Buyer: Thik hai ji.
 [00:58] Seller: Thik hai. Okay.}"
-24108739,"18,675,249","643,781,993","{[00:01] Buyer: Hello, Yergative Enterprises sir Akshay boltoy. Falkan Exim madhun.
+24108739,"18,675,249",643781993,"{[00:01] Buyer: Hello, Yergative Enterprises sir Akshay boltoy. Falkan Exim madhun.
 [00:06] Buyer: Ha actual ya bhagat hoto mi nigdi Akurdi bhagat. Aaj kahi bheta yeu shakhta, Falken mhun aalo mi. Milind sir mahit ahet na tumhala?
 [00:15] Buyer: Milind ghodke.
 [00:17] Seller: Mi sarancha mulga boltoye. Sar yekanshi bolat ahet.
@@ -3399,78 +2855,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:50] Buyer: Okay, yes, yes, yeto mi.
 [00:51] Seller: Yeah, okay.
 [00:52] Buyer: Check number nahi dila.}"
-5057661,"73,205,225","643,878,439","{[00:01] Buyer: Haan Madam, Namaste.
-[00:02] Seller: Namaste sir.
-[00:03] Buyer: Main keh raha hoon, Mangalam ki welding rods mil jayegi kya aapke paas?
-[00:06] Seller: Mil jayegi. Kya number chahiye aapko?
-[00:07] Buyer: Aa, 10 number chahiye Madam.
-[00:09] Seller: 10 number mil jayegi. Quantity kitni chahiye?
-[00:12] Buyer: Aa, 28 packet chahiye Madam.
-[00:13] Seller: Haan ji? Ek box mein kitne, 8 packet aate hain na?
-[00:15] Seller: 8 aate hain haanji.
-[00:16] Buyer: Teeno 8, 8, 24, 4, 8, 32. Haan, lagbhag 3 se 4 packet box
-[00:21] Buyer: Thi hongi. 4 box.
-[00:22] Seller: Ji, ji.
-[00:22] Seller: ₹2150 plus GST padega sir.
-[00:29] Buyer: ₹2150 plus GST hai na?
-[00:30] Seller: Hmm. Aa, theek hai. Aap mera number note kijiye us per aa, main Bhilwara Rajasthan se bol raha hoon.
-[00:36] Seller: Accha, accha.
-[00:37] Buyer: Theek hai, to aap transport kar payenge kya?
-[00:40] Seller: Bilkul sir, ho jata hai.
-[00:41] Buyer: To mera number note kijiye aap us per mere ko, main aapko meri company details share karta hoon aap mere ko ek performa invoice.
-[00:45] Seller: Main nahi, main bhej deti hoon aapko whatsapp per.
-[00:45] Buyer: Perform invoice, haan, performa invoice bana ke bhej dena aap mere ko.
-[00:49] Seller: Main abhi bhej deti hoon.
-[00:50] Buyer: Number note karenge kya please aap?
-[00:52] Seller: Nahi, mere paas WhatsApp pe aa, India Mart pe aa gaya hua sir.
-[00:56] Buyer: Kya number aaya hai?
-[00:57] Seller: Hold.
-[01:20] Seller: 8824965370.
-[01:21] Buyer: Haan. Ji, ji Madam, theek hai. Okay. Main dekha isme India Mart mein kayi baar number nahi aata is vajah se puchh raha tha.
-[01:25] Seller: Nahi, nahi jo aap number active rakhoge na, wo aa jata hai hamare paas mein.
-[01:28] Buyer: Okay, okay ma'am, okay thank you.
-[01:31] Seller: Theek hai.
-[01:31] Seller: Okay.}"
-5057661,"184,159,322","643,953,985","{[00:00] Buyer: Hello madam hum Karnataka se Gushti se baat kar raha hun madam.
-[00:03] Seller: Boliye.
-[00:03] Buyer: Madam humko welding rod chahiye madam. To aapke pass welding rod MS welding rod madam.
-[00:08] Seller: Mil jayega Prima chahiye ya Mangalam?
-[00:12] Buyer: Mangalam and Prima kya kya rate hai madam?
-[00:14] Seller: Prima padega aapko ₹92 per kg plus GST.
-[00:19] Buyer: Ha madam.
-[00:20] Seller: Aur number kaunsa chahiye 10 number?
-[00:22] Buyer: 3.15 madam.
-[00:24] Seller: Ya ya ya yes madam. 10 number 10 number aa. 10 number. Ha toh ₹2150 plus GST padega Mangalam.
-[00:32] Buyer: Ek se?
-[00:32] Seller: 21 2100 ₹50 per per box plus GST.
-[00:39] Buyer: Wo kitna piece aata madam haat?
-[00:40] Seller: Aath packet ek packet.
-[00:45] Seller: Hello.
-[00:46] Seller: 20 kgs 20 kgs box hota hai.
-[00:54] Seller: Hello.
-[01:01] Seller: Bataye.
-[01:04] Speaker: Hmm.}"
-5057661,"184,159,322","643,954,320","{[00:00] Seller: Hello.
-[00:01] Buyer: Hello madam, abhi call kiya na madam, nine ninety two plus.
-[00:05] Seller: Main aapko WhatsApp pe kar rahi hu.
-[00:06] Buyer: Han madam, ek box mein kitna piece aata hai madam?
-[00:10] Seller: Aath packet aata hai. eight box eight packet. han.
-[00:15] Buyer: Eight pieces madam.
-[00:16] Seller: Ek box, ek packet aata hai 2.5 kg ka packet aata hai ek.
-[00:22] Buyer: Madam vo Prime company achcha hai na madam?
-[00:25] Seller: Prime achcha hai, han.
-[00:27] Buyer: Ekdum standard hai.
-[00:28] Seller: Haan bilkul, bilkul. Usme koi dikkat nahi hai, bubbles nahi bante.
-[00:34] Buyer: Okay. Madam vo 92 final rate madam?
-[00:38] Seller: Yes sir.
-[00:39] Buyer: Isme rate nahi kam hota?
-[00:42] Seller: Nahi nahi nahi hoga.
-[00:44] Buyer: Humko 100 box chahiye madam.
-[00:47] Seller: 100 box chahiye. Chalo main WhatsApp pe na aapko high bhej rahi hu likh ke, aage main discuss karke bata rahi hu, thik hai?
-[00:54] Buyer: Okay. Okay.
-[00:56] Seller: Okay.
-}"
-24108739,"120,268,108","644,006,524","{[00:00] Buyer: Tata Enterprises madhun boltoy ka?
+24108739,"120,268,108",644006524,"{[00:00] Buyer: Tata Enterprises madhun boltoy ka?
 [00:02] Seller: Ha boltoy.
 [00:03] Buyer: Printer aste tumcha cable marking printer aahe ka tumchakade?
 [00:07] Seller: O, parallel printer ahe na.
@@ -3492,7 +2877,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:45] Seller: Kiran Kokane.
 [00:47] Seller: Chala thik ahe lagech pathavto tumhala.
 [00:48] Buyer: ha.}"
-24108739,"120,268,108","644,008,838","{[00:01] Seller: Hello.
+24108739,"120,268,108",644008838,"{[00:01] Seller: Hello.
 [00:02] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:04] Buyer: Mag aaplya location la saghle gharach yet ahet, sir sap disat nahi.
@@ -3507,7 +2892,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:29] Seller: Thamb, mi aala baher chalu.
 [00:30] Buyer: Ikach lagle aapla.
 [00:31] Buyer: Ha maghe, maghe maghe.}"
-72509641,"139,524,287","644,020,832","{Okay, here's the transcription of the audio:
+72509641,"139,524,287",644020832,"{Okay, here's the transcription of the audio:
 
 [00:01] Seller: Hello.
 [00:01] Buyer: Hello.
@@ -3562,7 +2947,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:34] Seller: Barobar chalta. Me tumhala, mala, me tumhala miss call karto. Me call karun gheto mag number save karun ghya.
 [01:37] Buyer: Bar chale.
 }"
-24108739,"120,268,108","644,031,073","{[00:00] Seller: Hello.
+24108739,"120,268,108",644031073,"{[00:00] Seller: Hello.
 [00:01] Buyer: Hello?
 [00:01] Seller: Hello. Ha Shraddha Enterprises madhun boltoy.
 [00:04] Buyer: Ha sir ata just aapli meeting jhali hoti.
@@ -3616,7 +3001,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [02:20] Seller: Check karto asala tar sangto nakki.
 [02:22] Buyer: Theek ahe ho sir.
 [02:23] Seller: Ho.}"
-72509641,"256,669,606","644,061,593","{[00:00] Buyer: Hello.
+72509641,"256,669,606",644061593,"{[00:00] Buyer: Hello.
 [00:01] Seller: ha bola
 [00:02] Buyer: aaplyala ti chakki pahije hoti ghar ghanti ghar zara asade.
 [00:06] Seller: milun jail na. kuthlya thikhani pahije?
@@ -3656,7 +3041,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:38] Seller: ho.
 [01:40] Buyer: chalel theek hai.
 [01:42] Buyer: bar karto tumhala phone.}"
-72509641,"29,436,751","644,082,513","{[00:01] Buyer: हेलो।
+72509641,"29,436,751",644082513,"{[00:01] Buyer: हेलो।
 [00:01] Seller: हेलो।
 [00:02] Buyer: हा।
 [00:02] Buyer: हेलो ये गोकुल मशीनरी से क्या, गोकुल मशीनरी से क्या?
@@ -3707,7 +3092,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:36] Seller: हैदराबाद में नहीं की।
 [01:37] Buyer: ठीक है ठीक है थैंक्स।
 }"
-152298969,"256,714,984","644,246,857","{[00:00] Buyer: Hello.
+152298969,"256,714,984",644246857,"{[00:00] Buyer: Hello.
 [00:02] Seller: Hello madam, hello.
 [00:03] Buyer: Ha, ha boliye.
 [00:04] Seller: Madam, building machine ka aapka isme dekha internet mein. Idhar Bangalore mein kaun hai?
@@ -3741,7 +3126,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:19] Buyer: Ok.
 [01:20] Seller: Thank you madam.
 }"
-42728554,"35,406,520","644,248,382","{[00:00] Buyer: Hello.
+42728554,"35,406,520",644248382,"{[00:00] Buyer: Hello.
 [00:01] Seller: Ji sir, boliye.
 [00:03] Buyer: Yeh halogen mil jayegi sir apne paas?
 [00:05] Seller: Ha sir, mil jayegi.
@@ -3765,7 +3150,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:41] Seller: 61.
 [00:42] Buyer: 61.
 [00:43] Seller: Ha, yeh mere sir ka number hai, aap inse baat kar lijiye, woh aapko sab bata denge inke baare mein.}"
-152298969,"256,722,919","644,299,897","{Okay, here is the transcription of the provided audio:
+152298969,"256,722,919",644299897,"{Okay, here is the transcription of the provided audio:
 
 [00:01] Speaker: Hello.
 [00:03] Speaker: Hello.
@@ -3810,7 +3195,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:05] Buyer: Yeah, sure.
 [01:06] Seller: Yeah, thank you.
 [01:07] Buyer: Thank you.}"
-152298969,"46,253,198","644,300,508","{[00:01] Seller: Hello
+152298969,"46,253,198",644300508,"{[00:01] Seller: Hello
 [00:03] Buyer: Hello
 [00:04] Seller: Hello, ha boliye na sir.
 [00:07] Buyer: Ye aapko machine chaiye raha dekho na teen mahina pehle apan baat ho raha tha.
@@ -3842,7 +3227,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:03] Seller: Okay chalega. Just give me five minutes, I will share you all the details.
 [01:07] Buyer: Hm
 }"
-152298969,"254,740,195","644,366,835","{[00:02] Buyer: Hello.
+152298969,"254,740,195",644366835,"{[00:02] Buyer: Hello.
 [00:03] Seller: Haan, boliye naa sir.
 [00:04] Buyer: Uh, I requested for the printer, thermal printer, Shreyans thermal printer.
 [00:09] Seller: Okay.
@@ -3886,29 +3271,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:50] Buyer: Yes, Sudarshan Raju.
 [01:52] Seller: Okay. Okay sir. Thank you.
 [01:53] Buyer: Thank you.}"
-5057661,"27,213,881","644,382,203","{[00:00] Buyer: Hello.
-[00:01] Buyer: Haan ji apne paas .8 mm welding wo mil jayegi?
-[00:07] Seller: .8 mm welding mein kya chahiye bhaiya rad chahiye ya mig wire chahiye?
-[00:11] Buyer: Mig wire.
-[00:13] Seller: Kitne dabbe chahiye?
-[00:15] Buyer: Ye bhaiya matlab Chavri Bazar se bhej raha hu mein supply ka kaam hai.
-[00:20] Buyer: To ye to har hafte le lunga 10-20 dabbe.
-[00:24] Seller: Bhaiya primer bhi hota hai hamaare paas, mein primer ka distributor hu. Primer ka milega hamaare paas, primer ka naam suna hai aapne?
-[00:32] Buyer: Haan primer to brand ho gayi. Primer ka kitne rupay kilo padega?
-[00:35] Seller: .8 mm.
-[00:37] Seller: .8 mm padega bhaiya aapko 90 rupay plus GST aur yaha se hum gaadi mein book kar denge bhada aapka hoga.
-[00:46] Buyer: Kaha se?
-[00:47] Seller: Bawana hai ji hamaara godown.
-[00:51] Buyer: Bawana?
-[00:53] Seller: Haan.
-[00:54] Buyer: Uske baad koi gunjaish nahi 90 ke baad?
-[00:58] Seller: Sahi rate hai sir isme mig wire wagera mein kuch khaas nahi hai.
-[01:01] Buyer: Kyuki ye to itna to Chavri mein hi mil raha hai mujhe.
-[01:04] Seller: Ab wo wahi hai sir Chavri mein bahut bada dealer baitha hai uske rate mein comparision kar rahe ho itna hi theek hai.
-[01:12] Buyer: Achcha.
-[01:15] Buyer: Ye baat hai kya?
-[01:21] Buyer: Bata na sir.}"
-24108739,"185,423,791","644,502,140","{[00:02] Buyer: श्रद्धा इंटरप्राइजेज? हां जी सर
+24108739,"185,423,791",644502140,"{[00:02] Buyer: श्रद्धा इंटरप्राइजेज? हां जी सर
 [00:03] Seller: हेलो हां बोलिए सर श्रद्धा इंटरप्राइजेज
 [00:06] Buyer: सर मला ते आपले थर्मल प्रिंटिंग मशीन ची रिक्वायरमेंट होते तुमचा वेबसाईट बघितलं मी
 [00:11] Seller: बर बर बर तर आपण कुठून बोलतोय?
@@ -3924,12 +3287,12 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:27] Buyer: हा बरोबर आहे आम्ही ओई आहे म्हणा कारण की आम्हाला रिक्वायरमेंट लागते सप्लायर्सची हा हा मग काय होतं आणि आमच्याकडे कसे आहे आम्ही दोन जरी पीस मागवले हा हा तरी आम्ही दोन पीस ही देतो ओके त्याच्यासाठी तुम्ही बॉक्स घ्या वगैरे असं काही म्हणत नाही हो म्हणजे दोन चं कारण काय एक एक स्पेअर मध्ये ठेवायची एक नॉर्मल वापरायची अशा ह्याने दोन घेतले मी येस येस तुम्हाला मला जर का तुमची काही डिटेल्स शेअर करू शकलात तर आय कॅन ऑर्गनाईज नंबर देतो कारण की हा आय थिंक नंबर ह्याच्यावरनं लागलेला आहे आपला हो माझा नंबर आहे नाईन थ्री एकच मिनिटं थांबा
 [01:58] Seller: नाईन थ्री सेवन थ्री सेवन थ्री फोर सिक्स फोर सिक्स फाईव्ह सेवन फाईव्ह सेवन झिरो सिक्स अजून एक अल्टरनेट नंबर देतो मी माझ्या मुलाचा एट वन फोर नाईन फोर नाईन एट वन फोर नाईन फाईव्ह थ्री येस फाईव्ह थ्री फोर सिक्स फोर सिक्स वन फोर वन फोर नॉर्मली टेक्निकल सपोर्ट जो आहे हा सगळा नॉर्मली माझा मुलगा देतो ओके ओके हं तर काय प्राईसिंग काय असेल सर याची हे तुम्हाला पीसी वाल्याला कनेक्टिव्हिटी घेतलं तर 36500 त्याची रॅक रेट आहे त्याच्यामध्ये आपण डिस्काऊंट करून देऊ शकतो आणि दुसरे जे नॉन पीसी जे आहे हे 29500 किंमत आहे
 [02:36] Seller: त्याच्यामध्ये तुम्हाला हा डिस्काऊंट करून आपण ऍडिशनल बेनिफिट देऊ शकतो मशीनला दोन्ही मशीनला तुम्हाला हार्ड ब्रेक टेस्ट येते ओके त्यामध्ये अडॅप्टर पावर कॉर्ड वगैरे येते एक रिबन मशीन बरोबर आम्ही देतो एक लेबल टेप देतो ओके आणि एक तुम्हाला जी हवी असलेली ट्यूब आहे म्हणजे नॉर्मली 3 mm, 3.2, 3.5 अप टू 4.2 पर्यंत ओके की जी तुमची वायर साईज नॉर्मली घ्या वन स्क्वेअर एमएम टू 2.5 स्क्वेअर एमएम पर्यंत यस यस हा एक एक बंडल तुम्हाला त्याच्याबरोबर फ्री येतो यस सर आणि ते 100 मीटर चं ओके ओके आणि याची वॉरंटी वगैरे कसं असतं सर्विस वॉरंटी सर्विस वॉरंटी मध्ये नॉर्मली आम्ही मेजर काही आतापर्यंत तसं असतं कधी आतापर्यंत अनुभव आलेला नाही आहे एक सर्विस तुम्हाला एका वर्षांमध्ये फ्री मिळते ओके म्हणजे त्याचं काय नॉर्मली हे सगळं क्लिनिंग म्हणा ग्रीसिंग म्हणा सगळं कारण तुम्ही मशीन वापरत जावाल तसे थोडेसे गियर लूज होतात मग ते टाईटनिंग करून घेणं हे सगळं हे आम्ही तुम्हाला फ्री ऑफ कॉस्ट मध्ये देतो ओके आणि जर का काही मेजर इशू असेल तर मग देन वी रिक्वेस्ट आवर कस्टमर टू सेंड बॅक द मशीन टू निगडी ओके ओके हा आणि मशीनची गॅरंटी किती आहे काय गॅरंटी आहे 12 मंथ्स 12 मंथ्स 12 मंथ्स चालेल मी काय करतो माझ्या कंपनीचे डिटेल्स पाठवतो तुम्हाला या नंबर वरती बरं मला फक्त एक तुमचं फॉर्मल कोट येऊ द्या म्हणजे मी सॉफ्टवेअर मध्ये तुमचं पार्टी नेम एडिट करून मग पुढची प्रोसेस चालू करतो आणि अवेलेबिलिटी कशी असेल सर आपल्याकडे आहे लगेच सर एक्स स्टॉकमध्ये असतं कारण वी आर ए डिस्ट्रीब्युटर पॅन इंडिया डिस्ट्रीब्युटर ओके ओके चालेल चालेल यस यस ओके ओके मी तुम्हाला WhatsApp करतो लगेच डिटेल्स चालेल चालेल चालेल ओके थँक्यू}"
-42728554,"68,347,652","644,582,354","{[00:02] Buyer: Sir, woh geyser sau sattar job chahiye tha mereko.
+42728554,"68,347,652",644582354,"{[00:02] Buyer: Sir, woh geyser sau sattar job chahiye tha mereko.
 [00:05]  : Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold kar rakha hai. Kripya line par bane rahein. The person you are speaking with has put your call on hold. Please stay on the line.
 [00:18]  : Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold kar rakha hai. Kripya line par bane rahein. The person you are speaking with has put your call on hold. Please stay on the line.
 [00:29]  : Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold kar rakha hai. Kripya line par bane rahein. The person you are speaking with has put your call on hold. Please stay on the line.
 [00:41]  : Aap jis vyakti se baat kar rahe hain,}"
-72509641,"205,252,019","644,686,180","{[00:00] Buyer: Hello?
+72509641,"205,252,019",644686180,"{[00:00] Buyer: Hello?
 [00:01] Seller: Namaskar mandal.
 [00:02] Buyer: Ha, namaskar.
 [00:03] Seller: Kuthe? Nashik laagla na phone?
@@ -3953,7 +3316,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:38] Buyer: Hmm, theek ahe chala mag mala photo taakshaal udhya?
 [00:40] Seller: Ho, chalta.
 [00:43] Unknown: Aap jis vyakti se bolat aahat, tyanne aapla call hold var thevla ahe. Krupya line var raha. Aap jis vyakti se baat}"
-72509641,"256,828,522","644,736,152","{[00:00] Buyer: Hello.
+72509641,"256,828,522",644736152,"{[00:00] Buyer: Hello.
 [00:00] Buyer: ha matlab aaplya gharni hai ka gharguti?
 [00:03] Seller: Ho hai na.
 [00:05] Buyer: kiti laay?
@@ -3981,7 +3344,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:54] Seller: panchvati madhe malegaon stand var.
 [00:56] Buyer: bar thik hai thik hai.
 [01:00] Buyer: Vasat kai?}"
-72509641,"205,252,019","644,802,070","{Okay, here is the transcription of the audio file:
+72509641,"205,252,019",644802070,"{Okay, here is the transcription of the audio file:
 
 [00:01] Buyer: Hello.
 [00:02] Seller: Ha.
@@ -4006,7 +3369,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:55] Buyer: 10. Okay thik ahe.
 [00:58] Announcer: Aapan jyaa vyaktishi bolat aahat tyaani aapla call hold var thevla.
 }"
-42728554,"153,133,177","644,845,339","{[00:01] Buyer: Hello.
+42728554,"153,133,177",644845339,"{[00:01] Buyer: Hello.
 [00:01] Seller: Good afternoon.
 [00:03] Buyer: Hello. Good afternoon, sir.
 [00:03] Seller: Yes, Ma'am, tell me.
@@ -4045,7 +3408,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:37] Seller: Okay, Ma'am, I will WhatsApp Sir's number to you.
 [01:41] Buyer: Okay, sir.
 }"
-42728554,"256,862,821","644,852,683","{Okay, here is the transcribed audio:
+42728554,"256,862,821",644852683,"{Okay, here is the transcribed audio:
 
 [00:01] Buyer: Hello?
 [00:02] Seller: Yes sir, boliye.
@@ -4105,7 +3468,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [04:04] Buyer: Ho gaya?
 [04:04] Seller: Ho gaya.
 }"
-152298969,"100,502,312","644,854,689","{Okay, here's the transcription:
+152298969,"100,502,312",644854689,"{Okay, here's the transcription:
 
 [00:01] Buyer: Hello.
 [00:02] Seller: Hello.
@@ -4183,7 +3546,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [02:50] Seller: Okay.
 [02:51] Buyer: Ok.
 [02:51] Buyer: Ok ha, main check karti hu.}"
-42728554,"42,695,090","644,857,073","{Okay, here's the transcription of the audio:
+42728554,"42,695,090",644857073,"{Okay, here's the transcription of the audio:
 
 [00:00] Speaker: Hello.
 [00:01] Seller: Ji sir, boliye.
@@ -4210,33 +3573,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:46] Buyer: Theek hai, baat hu.
 [00:47] Seller: Haan, aap baat kar lijiye.
 }"
-5057661,"180,979,406","644,867,700","{[00:00] Speaker: Hello.
-[00:01] Speaker: Hello.
-[00:01] Speaker: Hanji.
-[00:02] Speaker: Kaise bol rahe hain?
-[00:03] Speaker: Sir, DHT International Private Limited se. Kya bataiye?
-[00:08] Speaker: Achcha achcha.
-[00:09] Speaker: Bataiye.
-[00:11] Speaker: Mere jaise 12 number rod chahiye.
-[00:14] Speaker: Kiska?
-[00:15] Speaker: Iron wala.
-[00:16] Speaker: Nahi, matlab company kaun sa chahiye? Mere paas Mangalam aur Primal milega aur koi nahi milega aise.
-[00:24] Speaker: Achcha Mangalam mil jayega kya aapko?
-[00:26] Speaker: Hmm.
-[00:27] Speaker: Mangalam chal jayega.
-[00:28] Speaker: ₹2500 plus GST padega.
-[00:30] Speaker: Kya mam?
-[00:30] Speaker: ₹2500 plus GST. Kitne box chahiye?
-[00:34] Speaker: 2500 plus GST?
-[00:36] Speaker: Ji, 12 number.
-[00:38] Speaker: Isme kitne box aayenge?
-[00:40] Speaker: Aath hi box hote hain sir.
-[00:42] Speaker: Aath box aayenge isme?
-[00:43] Speaker: Hmm.
-[00:44] Speaker: Ek minute rukiye.
-[00:47] Speaker: Main WhatsApp pe abhi hi bolti hu. Bata dena.
-[00:49] Speaker: Thik hai.}"
-152298969,"100,502,312","644,889,048","{[00:00] Buyer: Hello.
+152298969,"100,502,312",644889048,"{[00:00] Buyer: Hello.
 [00:00] Seller: Hello.
 [00:02] Buyer: Haan boliye.
 [00:04] Buyer: Wo aapse baat ho raha tha na abhi printer ke liye.
@@ -4297,7 +3634,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [03:07] Seller: Haan wahi number pe call kiya karo.
 [03:10] Buyer: Theek hai theek hai main karta hu.
 [03:12] Seller: Haan to jaldi mujhe confirm kar do agar ho.}"
-72509641,"256,870,246","644,926,930","{[00:04] Seller: haa matlab cutter vagerah tumi mahit hai. aata aaplya ghar guti chahiye ki commercial chahiye.
+72509641,"256,870,246",644926930,"{[00:04] Seller: haa matlab cutter vagerah tumi mahit hai. aata aaplya ghar guti chahiye ki commercial chahiye.
 [00:12] Buyer: nahi nahi aamala gharguti payje re 2 hp chi, pn quantity shambar nag astare.
 [00:18] Buyer: ani kuthe thekani payje saheb aaplyala he?
 [00:20] Buyer: aah sinar madhe dhaych aahe aaplyala thaa.
@@ -4337,7 +3674,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:34] Buyer: hmm
 [01:34] Buyer: chalel ho ho.
 [01:36] Seller: thik aahe.}"
-24108739,"251,868,675","644,961,654","{[00:01] Buyer: Hello
+24108739,"251,868,675",644961654,"{[00:01] Buyer: Hello
 [00:01] Seller: Haan
 [00:02] Buyer: Hello
 [00:02] Seller: Ha vendor bhejo
@@ -4409,7 +3746,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [03:28] Buyer: Theek hai okay theek hai theek hai theek hai.
 [03:30] Seller: Haan okay.
 }"
-24108739,"251,868,675","645,001,337","{[00:02] Buyer: Hello.
+24108739,"251,868,675",645001337,"{[00:02] Buyer: Hello.
 [00:03] Buyer: Hello, aap India Mart se bol rahe hai na?
 [00:07] Seller: Ha India Mart, Shraddha Enterprises.
 [00:09] Buyer: Ha kal sham ko baat ho raha tha na Whatsapp mein?
@@ -4438,65 +3775,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:13] Seller: Hmm, theek hai, theek hai.
 [01:14] Seller: Okay.
 }"
-5057661,"27,192,160","645,170,497","{[00:00] Buyer: Hello?
-[00:01] Seller: ha ji.
-[00:02] Buyer: Bol rahe the ki sir, cutting mill lekar deal karte hain na sir?
-[00:05] Seller: Haan.
-[00:06] Buyer: To iske size mil jayega sir?
-[00:09] Seller: kitna size hai?
-[00:11] Buyer: 16, 16.
-[00:13] Seller: 16 inch cutting mill chahiye, kaha se bol rahe ho?
-[00:16] Buyer: Main Rotexol Bihar se bol raha hoon.
-[00:21] Seller: Mil jayega bhaiya, 16 inch, na?
-[00:24] Buyer: Aur ek 20 inch bhi aata hai.
-[00:26] Seller: 20 inch cutting mill to nahi suna yaar aaj tak humne.
-[00:30] Buyer: 20 inch ka maine dekha hai tabhi do din customer aate rehte hain, pipe plant bagal mein hi na?
-[00:34] Seller: Han.
-[00:35] Buyer: Bagal mein hi kya bolte hain ki Nepal hai, Nepal se pipe plant waale sab aate hain.
-[00:39] Seller: Accha.
-[00:40] Buyer: To wo log Patna se le aate hain.
-[00:44] Buyer: Main bhi teen chaar baar bola ki bhaiya manga dijiye.
-[00:47] Buyer: To pehle ye ki na ki teen chaar aa rahe hain.
-[00:51] Seller: socha ki main zara try karke dekhta hoon to kya pata.
-[00:55] Seller: Accha.
-[00:57] Buyer: 16 inch ka kya rate pad jayega sir?
-[01:01] Seller: 16 inch 130 rupees plus GST padega.
-[01:04] Buyer: Yeh heavy duty hoga na sir wo?
-[01:06] Seller: Bhaiya pipe plant mein hi maal deta hum, pipe plant ka sab kuch milega mere paas, fiber, masala, jhoot, flexible.
-[01:13] Seller: Neel ka samaan sab milega.
-[01:15] Buyer: Ek usme ek lagte hain wo piston rubber nylon ka, laal colour mein.
-[01:19] Seller: Yeh to haat me milta hai sab ko?
-[01:20] Buyer: Nahi nahi, wo pipe plant mein hi lagta hai.
-[01:23] Seller: Accha.
-[01:25] Buyer: 130 plus GST lagega na?
-[01:27] Seller: Photo available hai sir aapke paas?
-[01:30] Seller: Aap, aap mere ko hello bolo WhatsApp pe.
-[01:32] Seller: Yeh number hai aapke WhatsApp bana hai sir?
-[01:34] Seller: hmm hmm.
-[01:35] Buyer: Main hello karta hoon sir aapko.
-[01:37] hmm.}"
-5057661,"27,192,160","645,170,929","{[00:01] Seller: Net wala number nahi hai sir. Ye packet wala number hai.
-[00:06] Buyer: Likho ek baar, 93
-[00:08] Seller: Ruk jaiye abhi.
-[00:14] Buyer: 93
-[00:16] Seller: Ban gaya re, kuch kar te jae hum.
-[00:22] Seller: Are mama kuch nasta ban gaya?
-[00:24] Seller: Jaana hai humko?
-[00:25] Seller: Udhar pehle jao to.
-[00:26] Seller: Kya naam hai uska?
-[00:28] Seller: Baat karo to beta.
-[00:29] Seller: Nine kitna bolega sir?
-[00:31] Buyer: Hello.
-[00:31] Buyer: 93
-[00:33] Buyer: 93
-[00:35] Buyer: 93101
-[00:37] Buyer: 101
-[00:39] Buyer: 68
-[00:41] Buyer: 68
-[00:42] Buyer: 458
-[00:43] Buyer: 458
-[00:45] Buyer: hmm.}"
-24108739,"251,868,675","645,189,222","{[00:01] Buyer: Hello.
+24108739,"251,868,675",645189222,"{[00:01] Buyer: Hello.
 [00:02] Seller: Shradha Enterprises. Hello.
 [00:04] Buyer: Hello.
 [00:05] Seller: Han, boliye Shradha Enterprises?
@@ -4511,7 +3790,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:45] Seller: Sir mere hisab se toh ho gaya hai par, let me, let me reconfirm again.
 [00:50] Buyer: Okay, okay, okay. Please confirm. Please confirm and then call me back.
 [00:54] Seller: Yeah.}"
-24108739,"251,868,675","645,191,735","{[00:01] Buyer: Ha ji.
+24108739,"251,868,675",645191735,"{[00:01] Buyer: Ha ji.
 [00:02] Buyer: Aapka aaya hai abhi abhi mail pe aaya hai.
 [00:04] Buyer: Ha.
 [00:05] Buyer: Abhi mail pe aaya hai lekin uska extra aur kitna charge lagega courier ka ki courier charge ismein hai?
@@ -4552,49 +3831,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:43] Seller: Hmmm.
 [01:44] Seller: Thik hai.
 [01:46] Seller: Par ek cheez hogi.}"
-5057661,"244,761,398","645,218,171","{[00:00] Seller: Hello.
-[00:01] Seller: Hello.
-[00:01] Buyer: Ha ji sir.
-[00:02] Buyer: Mam aap welding rod supply karte hain kya?
-[00:05] Seller: Ha ji.
-[00:06] Buyer: Kahan pe aapka shop hai?
-[00:07] Seller: Mera Bawana sector ek mein hai sir. Delhi.
-[00:11] Buyer: Bawana sector ek Delhi. To supply kar dete hain site pe?
-[00:15] Seller: Site pe kahan pe chahiye matlab?
-[00:17] Buyer: Delhi mein Dhaula Kua ke paas.
-[00:19] Seller: Dhaula Kua kitne box chahiye?
-[00:21] Buyer: Ek box chahiye, mam.
-[00:23] Seller: Sir, ek box ke liye kon jaega itna yeh bhi to dekhiye aap.
-[00:26] Buyer: Kitne box ke liye jate hain aap log?
-[00:29] Seller: Kam se kam 20-30 box ho to insan wo bhi kare kyunki kiraya lagta hai na ya to aap uthwal portal karwa lenge ho jaega.
-[00:38] Buyer: Nearest metro station kaun sa hai?
-[00:40] Seller: Rithala padta hai.
-[00:42] Buyer: Rithala?
-[00:44] Seller: Hmm.
-[00:45] Buyer: Kya rate hai, mam?
-[00:46] Seller: Number kaun sa chahiye aapko?
-[00:48] Buyer: 3.15.
-[00:49] Seller: 10 number 2150 plus GST.
-[00:52] Buyer: Thik hai, mam.
-[00:53] Seller: Thik.
-[00:55] Seller: Aap jis shaksiyat se baat kar rahi hai.}"
-5057661,"244,761,398","645,266,342","{[00:01] Buyer: Hello.
-[00:02] Seller: Hanji.
-[00:03] Buyer: Mam ye Adore ka one box kitne ka hai 3.15?
-[00:06] Seller: Adore nahi rakhte hain hum.
-[00:08] Buyer: Kon kon sa rakhte hain?
-[00:09] Seller: Mangalam hai aur Suprun mil jayega aur Prima milega.
-[00:14] Buyer: Accha Mangalam ka kya hai mam?
-[00:15] Seller: Mangalam ka 2150 plus GST.
-[00:18] Buyer: 2150 plus GST.
-[00:20] Seller: Hanji sir.
-[00:21] Buyer: Kam nahi hoga mam. Kyunki mere owner baat kiye the to aap 2000 bataye hain aur plus GST.
-[00:27] Seller: Nahi nahi, maine nahi bataya. Kisi aur se baat hui hogi.
-[00:30] Buyer: Accha accha accha accha. To usme kitne box honge? Ek box mein kitne honge mam?
-[00:33] Seller: Aath packet hota hai 20 ke ji.
-[00:36] Buyer: Okay. Theek hai mam.
-}"
-42728554,"3,419,924","645,387,173","{[00:01] Buyer: Hello.
+42728554,"3,419,924",645387173,"{[00:01] Buyer: Hello.
 [00:02] Seller: Hello.
 [00:03] Buyer: Hello, haan ji.
 [00:04] Buyer: Haan sir, trawdi se bol raha. apne pass tile cutter ayenge kya?
@@ -4629,7 +3866,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:22] Buyer: 261, ji.
 [01:24] Buyer: Theek hai ji, main bhej deta hun.
 [01:26] Seller: Okay.}"
-24108739,"124,996,714","645,465,016","{[00:02] Buyer: Hello
+24108739,"124,996,714",645465016,"{[00:02] Buyer: Hello
 [00:02] Seller: Hello. Hello. Good morning sir.
 [00:04] Buyer: Good morning. Bola?
 [00:06] Seller: Sir, yeh Sidh Shradha Enterprises se bole?
@@ -4653,7 +3890,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:00] Buyer: Okay, sir. Mai code...
 [01:01] Seller: Ji sir.
 [01:02] Buyer: Abhi toh mai WhatsApp pe bheij deta hu.}"
-152298969,"236,205,498","645,519,421","{[00:00] Buyer: Hello.
+152298969,"236,205,498",645519421,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:01] Seller: Ji boliye sir.
 [00:02] Buyer: Haan mam.
@@ -4676,7 +3913,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:38] Seller: Okay, main abhi kar rahi hu aapko whatsapp.
 [00:39] Buyer: Dealer rate dijiye, okay.
 [00:41] Seller: Haan, theek hai.}"
-24108739,"124,996,714","645,533,724","{[00:01] Buyer: Hello. Ha ji sir?
+24108739,"124,996,714",645533724,"{[00:01] Buyer: Hello. Ha ji sir?
 [00:02] Seller: Connectors Express bole sir?
 [00:03] Buyer: Ha ji. Ha ji.
 [00:05] Seller: Ha ji sir ji aapne morning me sir quotation bheja tha na ye printer ka ye TP 76E karke.
@@ -4707,7 +3944,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:12] Buyer: Mai aapko apne apne number se, mai aapko apne number se call kar raha hun sir actually isme kuch piche background noise bahut aa raha hai. Ha na? Mai apne number se aapko call kar raha hun ek bar. Ek minute rukiye.
 [01:18] Buyer: Okay okay.
 [01:20] Buyer: Nahi sir.}"
-24108739,"110,288,323","645,539,221","{[00:00] Buyer: Hello.
+24108739,"110,288,323",645539221,"{[00:00] Buyer: Hello.
 [00:01] Seller: Haan.
 [00:02] Buyer: Sir, aapka chalne lagta hai kya?
 [00:04] Seller: Kaise?
@@ -4908,7 +4145,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [10:51] Seller: aap 2.5 square mm ke wire ke liye jo lagega.
 [10:54] Speaker: to mai agar koi aur size bataunga to wo wala de denge ha chalega na.
 [10:58] Buyer: achcha.}"
-24108739,"110,288,323","645,541,308","{[00:00] Buyer: Hello.
+24108739,"110,288,323",645541308,"{[00:00] Buyer: Hello.
 [00:00] Seller: Ha sir wo mujhe lag raha network issue tha sir cut gaya tha.
 [00:03] Seller: Ha ha mai aapko try kar raha tha continuously wo out of reach vagera dikha raha tha.
 [00:07] Buyer: Acha acha.
@@ -5012,32 +4249,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [04:57] Seller: Thik thik hai thik hai.
 [04:58] Buyer: Chaliye okay sir okay sir thank you okay bye.
 }"
-5057661,"210,815,527","645,562,530","{[00:01] Buyer: Hello.
-[00:03] Seller: Haan, hello.
-[00:03] Buyer: Haan ji, sir?
-[00:04] Seller: Haan, keh rahe the Mangalam Welding Road mil jayega kya?
-[00:08] Buyer: Welding, kya chahiye? Welding Rod?
-[00:10] Seller: Haan, welding rod.
-[00:11] Buyer: Mil jayega, kaun se?
-[00:12] Seller: Mangalam ka, 10 number.
-[00:15] Buyer: Haan mil jayega. ₹2150 plus GST.
-[00:18] Buyer: Kitne ka?
-[00:18] Seller: ₹2150 plus GST.
-[00:21] Buyer: Aur 10 number?
-[00:23] Buyer: Haan ji.
-[00:24] Buyer: Aur kitne mein rahega? ₹450 hai, madam?
-[00:27] Buyer: Nahi, ₹350 hota hai.
-[00:29] Buyer: ₹450 nahi hota hai?
-[00:30] Buyer: Nahi, ₹450 ka alag rate hai.
-[00:32] Buyer: Kya uska rate hai?
-[00:33] Buyer: Uska hai ₹2450 plus GST.
-[00:37] Buyer: ₹2400 plus GST. 100 peti, 100 box lene the.
-[00:40] Buyer: Hmm.
-[00:41] Buyer: Aur 10 lene pe, 10 box?
-[00:45] Buyer: Main abhi aapko WhatsApp karke bata rahi hoon, theek hai?
-[00:47] Seller: Theek hai, theek hai, turant kariye.
-[00:49] Buyer: Theek hai.}"
-42728554,"10,272,775","645,651,646","{[00:00] Buyer: Hello.
+42728554,"10,272,775",645651646,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Buyer: Haanji.
 [00:03] Seller: Sir, Jaywala Ji Enterprises se bol raha hun Agra se. Apne paas petrol ke engine mil jayenge petrol ke pump set mil jayenge kya?
@@ -5092,7 +4304,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [04:09] Seller: Kyunki aaj warranty deke bechte hain sab log.
 [04:13] Buyer: Nahi nahi koi issue nahi hai thik hai. Thik hai sir thik hai okay.
 [04:15] Seller: Thank you.}"
-42728554,"184,075,734","645,659,518","{[00:02] Buyer: Hello.
+42728554,"184,075,734",645659518,"{[00:02] Buyer: Hello.
 [00:05] Buyer: Hello.
 [00:06] Seller: Haan?
 [00:07] Buyer: Hello?
@@ -5112,24 +4324,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:43] Buyer: Thik sir.
 [00:45] Buyer: Whatsapp number bhej dijiye sir.
 [00:46] Seller: Bhej denge, subah bhej denge.}"
-5057661,"185,302,135","645,816,095","{[00:00] Hello.
-[00:01] Hello.
-[00:02] Hello ji sir.
-[00:03] Jee pooch rahe the ki jo Prima ka 4, 450 mm ka jo aata hai electrode, uska price kya hai?
-[00:10] Sir aapko 7016 chahiye na?
-[00:13] Kya?
-[00:14] Ye code kya chahiye uska? 7013 chahiye ya 7018, 7016?
-[00:18] 7016. 70 ha 7016 hai.
-[00:22] 7016 hai na? Steel hai?
-[00:23] Ji.
-[00:23] Ha, mild steel hai.
-[00:25] Ha, thodi der mein bhej denge, theek hai?
-[00:27] Theek hai, maine aapko pic bhi share kari hai packet ki. Usko aapne dekha nahi, pata nahi dekha ki nahi dekha.
-[00:32] Haan mein abhi bhej deti hu thodi der mein.
-[00:34] Uska price mujhe bataiyega. Kise packet ka price kitne ka hai, Prima ka ye.
-[00:37] Haan haan, theek hai, abhi batati hu.
-[00:39] Okay okay.}"
-152298969,"155,331,514","645,837,169","{[00:00] Buyer: Hello, Shreyansh Retail Solution?
+152298969,"155,331,514",645837169,"{[00:00] Buyer: Hello, Shreyansh Retail Solution?
 [00:04] Seller: Yes.
 [00:06] Buyer: Ji, main Assam se bol raha hun.
 [00:09] Seller: Okay.
@@ -5140,7 +4335,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:33] Seller: Main abhi question karti hu aapko.
 [00:36] Buyer: Theek.
 [00:37] Seller: Okay, bhaiya.}"
-72509641,"76,537,258","645,886,659","{[00:00] Buyer: Hello.
+72509641,"76,537,258",645886659,"{[00:00] Buyer: Hello.
 [00:01] Buyer: Hello.
 [00:02] Buyer: Ha.
 [00:03] Buyer: Namaskar, namaskar.
@@ -5191,7 +4386,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:48] Buyer: Hmm.
 [01:49] Buyer: Thik hai, main abhi WhatsApp bhejta hu.
 [01:51] Buyer: Thik hai.}"
-152298969,"155,331,514","645,893,581","{[00:00] Caller: Hello?
+152298969,"155,331,514",645893581,"{[00:00] Caller: Hello?
 [00:01] Seller: Ji, mein kal mein phone kiya tha. 
 [00:04] Caller: He he. Aapse khabong tea state se. Accha, yeh aap logon ka shreyas retail insulation solution mein yeh do payment, teen payment hua tha uska bill chahiye tha. Woh kiske sath contact karna padega mujhko?
 [00:22] Seller: Toh aapne purchase kis se kiya tha?
@@ -5205,7 +4400,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:00] Caller: Theek hai.
 [01:01] Caller: Theek hai, theek hai.
 }"
-24108739,"93,500,968","645,914,156","{[00:00] Buyer: Hello.
+24108739,"93,500,968",645914156,"{[00:00] Buyer: Hello.
 [00:01] Seller: Ha chalu.
 [00:01] Buyer: Sir aaplyakad printing sleeves bhetat ka ferruleche?
 [00:05] Seller: Bhetat.
@@ -5269,131 +4464,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [02:18] Buyer: theek aahe okay.
 [02:21] Seller: Okay.
 [02:22] Buyer: Tumchi company cha nav ka aahe?}"
-5057661,"35,085,280","646,001,243","{Okay, here is the transcription of the audio provided, following all the specified requirements:
-
-[00:00] Buyer: Hello?
-[00:01] Seller: Hello. Mangalam ka rod supply karte hain ji?
-[00:03] Buyer: Haan ji.
-[00:04] Seller: Very good. Haan ji?
-[00:05] Buyer: Haan ji karte hain sir.
-[00:07] Seller: Kahan pe hai aapka?
-[00:07] Buyer: Delhi Bawana sector ek.
-[00:11] Seller: Achcha achcha Bawana mein hai.
-[00:13] Buyer: Haan haan haan. Aap kahan se bol rahe hain? Chahiye tha ji kundali, kundali.
-[00:17] Buyer: Kundali se mil jayega. Kahan a kaun sa number chahiye aapko?
-[00:22] Seller: Humko 10 number aur 8 number chahiye.
-[00:24] Buyer: 10 number aur 8 number mil jayega. Kitne kitne box chahiye?
-[00:27] Seller: Aap rate sahi doge to le lenge 25-25 box.
-[00:29] Buyer: 25-25 box, 2120 rupees plus GST padega 10 number aur 2630 rupees plus GST padega 8 number.
-[00:37] Seller: Kitna kilo ka hai ji? 2120 rupees?
-[00:39] Buyer: Haan ji?
-[00:40] Seller: Kitne kilo ka box hai ji?
-[00:42] Buyer: Ye 10 20 kg ka hai. 8 packet hota hai usme.
-[00:46] Seller: Achcha.
-[00:46] Buyer: Dono mein 8 hota hai. 28 mein bhi 8 hota hai aur Sorry sir 2730 rupees bol rahi thi. Haan ji, haan ji 20-20 kg ka hi hai.
-[00:56] Seller: Haan ye 8 number ka kya rate bole ji?
-[00:57] Buyer: 2730 rupees plus GST.
-[01:02] Seller: Achcha, kuch gunjaish hai?
-[01:04] Buyer: Kuch gunjaish ye kar sakti hoon sir agar itna quantity hoga to main chudwa sakti hoon, bas ye kaam kar sakti hoon.
-[01:10] Buyer: Transportation matlab apna de sakti hoon baki aap dekhna.
-[01:16] Seller: Thik hai madam main bata raha hoon. Ye number aapka hai ye?
-[01:18] Buyer: Haan ji, haan ji, haan ji. Chahiye na aap number likhe. 9310
-[01:23] Seller: 9310
-[01:25] Buyer: Haan 168458
-[01:28] Seller: 1684
-[01:29] Buyer: Haan
-[01:30] Seller: 58
-[01:31] Seller: 9310
-[01:32] Seller: 168
-[01:33] Seller: 4
-[01:34] Seller: 58 haan ji
-[01:35] Seller: 58
-[01:35] Buyer: Ab bata dijiye. Ji, DHT International Private Limited hai, company.
-[01:40] Seller: Achcha aur bhi company ka rod bechte hain kya aap log?
-[01:42] Buyer: Sir mere paas Prima ka hum log distributor hain. Prima ke mig wire welding rod sara mil jayega.
-[01:48] Buyer: aur Supron bhi mil jayega.
-[01:49] Seller: Aur supron bhi
-[01:49] Buyer: Haan ji rod sahi hai sir. Prima dekho har jagah chalta hai. Koi dikkat nahi hai usme.
-[01:54] Seller: Achcha Prima kya rate ka iska peti hai?
-[01:57] Buyer: a ab isme aapko kaun sa chalana hai sir do teen tarah ke aate hain.
-[02:00] Seller: MS wali 6013
-[02:02] Buyer: Haan 6013 na aapko 94 rupees kg plus GST pad jayega.
-[02:06] Buyer: 10 number usme 20 kg ka hota hai.
-[02:07] Seller: Pehle pehle peti pe nahi aayi hai, matlab kilo pe nahi aata hai, peti pe aata hai ek kilo pe aa raha hai.
-[02:11] Buyer: Nahi nahi ye bhi kilo pe peti mein hi aata hai actually hum log kilo ke hisab se bata dete hain.
-[02:15] Buyer: Main abhi aapko whatsapp karke na Prima ke rate de deti hoon. Thik hai?
-[02:19] Seller: De dijiye kaise ki humko lena hai ji. Badhiya quality hoga to
-[02:23] Buyer: Haan koi dikkat nahi hai. Aap ek do box leke trial kar lijiye. Koi dikkat nahi. Kya banate hain aap?
-[02:27] Seller: Hamara plant hai ji fabrication ka kaam hai hum log ka to continue lagta tha abhi to
-[02:30] Buyer: ha koi dikkat nahi hai aap use kar sakte hain. ek box leke jaise Mangalam le lijiye aur uske baad ek box Prima leke trial kar lijiye aapko khud hi pata chal jayega.
-[02:39] Seller: Achcha
-[02:39] Buyer: Thik hai?
-[02:40] Seller: aur kya kya sath mein supply karte hain ji? Cable bhi rakhte hain kya welding ka?
-[02:43] Buyer: Mere paas sara item mil jayega sir. Welding accessories mil jayegi.
-[02:46] Buyer: Aur flabel wagera jaise ki fabrication ka kaam hai to wagera lagta hoga na Flap wheel samajh rahe hain?
-[02:49] Seller: Haa haa
-[02:50] Buyer: To ye sara mil jayega hum khud ki manufacturing karte hain.
-[02:54] Seller: Achcha ji.
-[02:56] Seller: Thik hai madam main bata raha hoon, thoda iska rate de dijiye whatsapp isi number pe de dijiye.
-[02:59] Buyer: Main Prima ka bhej rahi hoon. Ji main bhejti hoon abhi na mere paas aa gaya hoga aapka number.
-[03:02] Seller: ka jo ho sakta hai wo karke humko bhej dijiye.
-[03:04] Buyer: Main bhej deti hoon, thik hai.
-}"
-5057661,"218,660,627","646,016,358","{[00:00] Buyer: हेलो?
-[00:01] Seller: हेलो?
-[00:02] Buyer: हांजी?
-[00:02] Buyer: सर एसटी इंटरनेशनल से बोल रहे है।
-[00:05] Seller: हम्म।
-[00:05] Buyer: ये एमरी बेल्ट का ना रिक्वायरमेंट था।
-[00:07] Seller: साइज़ क्या है?
-[00:08] Buyer: 40 एमएम विड्थ और 400 मीटर का रिक्वायरमेंट था।
-[00:14] Seller: कितना है? 40 एमएम।
-[00:15] Buyer: विड्थ।
-[00:19] Seller: 40 एमएम 40 एमएम तो चौड़ी बेल्ट हो गई। और लेंथ कितनी है?
-[00:23] Buyer: 400 मीटर।
-[00:25] Seller: मैडम मीटर को एमएम में कैसे कन्वर्ट करोगे?
-[00:27] Buyer: 400 मीटर बोल रही हूं मैं, उसका लेंथ क्वांटिटी।
-[00:34] Seller: अच्छा है।
-[00:37] Seller: मीटर को।
-[00:39] Buyer: मिल गया?
-[00:39] Seller: साइज़ कितना हुआ है, समझ में नहीं आ रहा।
-[00:41] Buyer: रोल मांग रही है।
-[00:42] Seller: ना ना रोल नहीं है। रोल नहीं है। आपको तो एमरी बेल्ट चाहिए ना?
-[00:45] Buyer: रोल ही होगा ना वो तो।
-[00:47] Buyer: रोल में चाहिए। रोल फॉर्म में चाहिए।
-[00:50] Buyer: 400 मीटर। 350 एमएम का आता है ना हमारे पास। तो 400 एमएम मांग रही हूं।
-[00:52] Seller: हां।
-[00:53] Seller: अच्छा।
-[00:55] Seller: मैडम हमारे पास तो 300 एमएम तक का लास्ट होगा।
-[00:57] Buyer: 350।
-[00:57] Seller: 300 एमएम होता है यार। 350 नहीं होता।
-[01:00] Buyer: मैं विड्थ विड्थ 40 एमएम है सर उसका।
-[01:03] Seller: विड्थ जो है इसकी चौड़ाई 40 एमएम है और उसकी लेंथ कितनी बता रहे हो? 50 4000 मीटर सॉरी।
-[01:07] Buyer: 400 मीटर।
-[01:08] Seller: 400 मीटर।
-[01:09] Buyer: हां।
-[01:09] Seller: 400 मीटर लेंथ नहीं है। 50 मीटर तक तो होता है। मतलब 40 एमएम मतलब करीब 1 1/2 इंच चौड़ा हो जाएगा।
-[01:14] Buyer: हम्म।
-[01:15] Seller: और 50 मीटर लेंथ मिल जाएगी। ये मैक्सिमम लेंथ है।
-[01:18] Buyer: 50 मीटर। क्या रेट पड़ेगा बताओ?
-[01:20] Seller: क्या ग्रिट है इसका?
-[01:23] Seller: ग्रिट क्या है? ग्रिट?
-[01:24] Buyer: ग्रिट तो सर, इसका पता नहीं है मुझे एकदम डिटेल टेक्निकल इसका।
-[01:26] Seller: ग्रिट बताना पड़ेगा ना। कौन से ग्रिट में चाहिए? 60 में चाहिए? 80 में चाहिए?
-[01:28] Buyer: सबके अलग रहते हैं।
-[01:30] Buyer: हां?
-[01:31] Buyer: आप मुझे नंबर दीजिए। मैं आपको ना व्हाट्सएप में इंक्वायरी शेयर कर देती हूं। फोटो भी है मेरे को वो भी भेज देती हूं।
-[01:35] Seller: 93101?
-[01:37] Buyer: मेरे को बोल के दीजिए।
-[01:37] Seller: 93101। हां।
-[01:39] Seller: 68?
-[01:41] Buyer: 68।
-[01:41] Seller: 458?
-[01:43] Buyer: 45।
-[01:44] Seller: 8।
-[01:45] Buyer: ओके।
-}"
-72509641,"85,033,937","646,053,919","{[00:02] Buyer: Hello
+72509641,"85,033,937",646053919,"{[00:02] Buyer: Hello
 [00:04] Seller: Hello, ha.
 [00:07] Buyer: Ha dada mala gardic chilli machine payji hoti.
 [00:10] Seller: Mil jaayega na dada.
@@ -5411,7 +4482,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:36] Seller: Achha me laun jail na saheb tumala kay kadhi payji te laun de kay archan nahi
 [00:40] Buyer: bari thik hai
 [00:41] Seller: tumcha nashik made kay address?}"
-42728554,"10,272,775","646,114,678","{[00:02] Buyer: Hello.
+42728554,"10,272,775",646114678,"{[00:02] Buyer: Hello.
 [00:03] Seller: Hello.
 [00:03] Buyer: Hello.
 [00:04] Buyer: Haan, sir water pump set mil jayenge kya apne paas 3x3 ke?
@@ -5471,30 +4542,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [03:02] Buyer: Chaliye theek hai sir theek hai.
 [03:03] Seller: Haan.
 }"
-5057661,"185,302,135","646,181,404","{[00:00] Buyer: Hello.
-[00:01] Seller: Hello.
-[00:02] Buyer: Haanji?
-[00:03] Seller: Haanji madam, maine primer ke price ke liye poocha tha, do din din ho gaye, ab tak koi aaya hi nahi message.
-[00:08] Buyer: Achha wo steel welding rod abhi mere paas bhi nahi aaya sir rate na isiliye nahi mila aapko.
-[00:14] Seller: Aisa hai.
-[00:15] Buyer: Usme hum MS ki rod bechte hai na.
-[00:18] Seller: Kya hogaya?
-[00:19] Buyer: Primer MS ki rod bechte hai, steel wali nahi bechte SS wali.
-[00:24] Seller: Achha.
-[00:24] Buyer: Jo maine abhi aage rate dal rakha hai toh abhi aaya nahi.
-[00:29] Seller: Achha madam iska price approximate kitna hoga aapke hisaab se?
-[00:33] Buyer: Sir nahi pata main kya, approximate kuch nahi pata.
-[00:38] Seller: Nahi sir plus minus thoda bahut anumaan dijiyega ki matlab kitne rupaye tak ka price hoga jo maine whatsapp pe pic dali hui na aapko primer ki.
-[00:44] Buyer: Nahi sir mujhe kuch idea nahi hai.
-[00:47] Seller: Aap monday hai na kal pata chal payega.
-[00:50] Seller: Aap toh sale karti hai fir bhi kuch anumaan toh aapko hoga hi ki steel welding ka jo hai kya rate rehta hoga.
-[00:56] Buyer: Motamoti 3000 tak ka hi hoga wo.
-[00:59] Seller: Achha jo main pic pic dali thi wo aapne check kar dekhi thi aapne?
-[01:03] Buyer: Hmm main kal bata paungi, kal monday hai na kal bata denge wo.
-[01:07] Seller: Achha theek hai okay thank you.
-[01:08] Buyer: Theek hai.
-}"
-24108739,"55,706,061","646,261,587","{[00:01] Buyer: Hello.
+24108739,"55,706,061",646261587,"{[00:01] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Buyer: Ha boliye.
 [00:02] Seller: Hello.
@@ -5565,7 +4613,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [02:08] Seller: Configuration.
 [02:08] Buyer: Okay sir, theek hai sir.
 [02:08] Seller: Okay.}"
-42728554,"257,213,417","646,353,197","{[00:00] Buyer: Hello.
+42728554,"257,213,417",646353197,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello?
 [00:02] Buyer: Uh, bhai aapke paas yeh gas se wo box mil jayega isme jo geezer ka hota hai? Lighter wala box?
 [00:08] Seller: Ek minute hold karo aap.
@@ -5592,7 +4640,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:23] Buyer: Theek hai bhaiya, main aapko confirm karta hun. Theek hai?
 [01:25] Seller: Theek hai.
 [01:26] Buyer: Okay.}"
-42728554,"10,272,775","646,374,211","{Okay, here is the transcription of the provided audio:
+42728554,"10,272,775",646374211,"{Okay, here is the transcription of the provided audio:
 
 [00:01] Seller: Hello?
 [00:02] Buyer: Hello?
@@ -5633,7 +4681,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:37] Buyer: Koi dikkat nahi.
 [01:38] Buyer: Card dal du kya?
 }"
-24108739,"193,728,516","646,376,923","{[00:00] Buyer: Hello?
+24108739,"193,728,516",646376923,"{[00:00] Buyer: Hello?
 [00:01] Seller: Ha sir, Shraddha Enterprises?
 [00:02] Buyer: Hello?
 [00:04] Buyer: cashew enterprises kya bolte hai cashew ka jo printer hai na uska jo leveling wala jo sticker apan print karte hai uska size chahiye tha.
@@ -5683,7 +4731,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [02:58] Seller: thik hai abhi to yaad nahi aa raha hai koi agar aa gaya to main aapko message kar deta hu is number pe.
 [03:02] Buyer: ha ha thik hai thik hai sir.
 [03:04] Seller: Okay.}"
-72509641,"257,210,650","646,381,789","{[00:03] Seller: Hello.
+72509641,"257,210,650",646381789,"{[00:03] Seller: Hello.
 [00:04] Buyer: Hello.
 [00:05] Seller: Hello.
 [00:06] Buyer: Hello.
@@ -5716,7 +4764,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:04] Seller: Ha, ispe mujhe atta machine likh ke bhej do na Whatsapp pe. Mai thodi der me aapko photo bhej deta hu uske.
 [01:08] Buyer: Chalega ji, bhej dijiyega.
 [01:09] Seller: Ha.}"
-72509641,"77,632,251","646,413,800","{[00:01] Buyer: Hello.
+72509641,"77,632,251",646413800,"{[00:01] Buyer: Hello.
 [00:03] Buyer: Hello.
 [00:04] Buyer: Hello.
 [00:05] Seller: Ha bola.
@@ -5745,7 +4793,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:45] Seller: Downtown, Donau ekach?
 [00:46] Seller: Barobar, thik hai na.
 [00:47] Buyer: Thank you, okay.}"
-42728554,"257,249,598","646,495,107","{[00:01] Buyer: Hello.
+42728554,"257,249,598",646495107,"{[00:01] Buyer: Hello.
 [00:02] Seller: Hello sir.
 [00:03] Buyer: Hello, hello.
 [00:05] Buyer: Hello. Awaz aa rahi hai aapko?
@@ -5777,108 +4825,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:26] Buyer: Theek hai sir, main aapko repeat call kar raha hun.
 [01:27] Seller: Haan, theek hai, theek hai.
 [01:28] Buyer: Okay.}"
-5057661,"257,249,867","646,496,939","{[00:01] Buyer: Hello.
-[00:03] Buyer: Hello.
-[00:03] Seller: Haan ji.
-[00:04] Buyer: Haan ye, welding rod chahiye tha Mangalam ka.
-[00:06] Seller: Mil jayega.
-[00:07] Buyer: Rate kya rahega?
-[00:08] Seller: Rate kya rahega? 10 number, 8 number?
-[00:10] Buyer: Woh bhi dena.
-[00:12] Buyer: Chane aur good prasad waale, Haan ji?
-[00:15] Buyer: 10 20 ke le lo.
-[00:16] Seller: Haan ji.
-[00:17] Buyer: 10 number chahiye humko, 10 number
-[00:19] Buyer: 350 mm.
-[00:20] Seller: Achha, kitni quantity kya hai?
-[00:22] Buyer: Aap quantity ke hisab se rate uska hoga kya?
-[00:26] Seller: Sir, ek box loge toh aapko fir interest, waise nahi hardware wala rate nahi lagega na.
-[00:29] Buyer: Nahi toh humko ek box nahi chahiye, humko 20, 25, 30 box tak chahiye.
-[00:32] Seller: 2120 plus GST padega.
-[00:34] Buyer: 2120 plus GST.
-[00:35] Seller: Haan.
-[00:35] Buyer: Toh 21, GST kitna ho ja raha hai?
-[00:40] Seller: GST 18% hai.
-[00:41] Buyer: Toh 2120 plus 18% GST kitna ho ja raha hai?
-[00:47] Seller: 18% 350 mm.
-[00:49] Seller: Haan.
-[00:50] Buyer: 3. 3.15 multiply 350 hota hai.
-[00:52] Buyer: Achha, 350 hai.
-[00:53] Buyer: Toh ye 25, 2500 lagbhag ja raha hai iska rate.
-[00:56] Seller: Kya?
-[00:56] Buyer: ₹2500 peti ja raha hai rate iska.
-[00:58] Seller: Haan.
-[00:58] Seller: Waise GST toh aapka account mein aa jaata hai na ji.
-[01:02] Buyer: Account mein aa jaata hai, agar hum kisi ko GST se sell karenge toh aayega na.
-[01:06] Seller: Haan toh GST toh aapko dena hi padega.
-[01:07] Buyer: Agar humne purchase kiya toh sell toh humko karna hi karna hai na.
-[01:09] Seller: Haan.
-[01:10] Buyer: Ya toh humne kisi ko apna piece bechte toh uska benefit milega.
-[01:13] Seller: Haan, woh toh hai.
-[01:14] Buyer: Woh toh alag, alag scene hai par humko ye maal kaise milega.
-[01:16] Seller: Kaise milega? Kahan se bol rahe hain aap?
-[01:18] Buyer: Hum Siddharth Nagar se bol rahe hain.
-[01:19] Seller: Siddharth Nagar kaha padta hai?
-[01:20] Buyer: Uttar Pradesh, district Siddharth Nagar.
-[01:21] Seller: Uttar Pradesh toh gadi jati hogi, bus jaata hai nahi toh transport lagta hai.
-[01:24] Buyer: Aap aap kahan se bol rahi hai?
-[01:24] Seller: Mai Delhi se baat kar rahi hun.
-[01:26] Buyer: Achha, Delhi se.
-[01:27] Buyer: Transport per peti pe kharcha yahan tak ke liye kitna aa jayega?
-[01:29] Buyer: Ye Gorakhpur ke pass hai.
-[01:31] Seller: Gorakhpur ke pass hai.
-[01:32] Seller: Sir wo per kg pe toh jaata hai, do teen rupay kg jaata hai.
-[01:35] Buyer: Achha, do teen rupay kg.
-[01:35] Buyer: Achha, toh 150 rupay 150 rupay, 150 rupay bhaada pad jaayega yaani ₹2600 ke kareeb chala gaya.
-[01:39] Seller: Haan, 33 3000 ka bikta bhi toh hai.
-[01:41] Buyer: Haan, 3000 ka bikta hai.
-[01:42] Seller: Hai?
-[01:43] Buyer: Haan 3000 mein bikta hai peti.
-[01:44] Seller: Haan, toh wahi toh bol rahi hu na.
-[01:46] Buyer: Toh ye payment humko kaise karna hoga?
-[01:48] Seller: Hum?
-[01:49] Buyer: Humara 20 peti bhej dijiye.
-[01:51] Seller: Achha, theek hai. Mai thodi der mein na aapko Whatsapp karti hu, theek hai? Fir aap mujhe detail se dijiyega.
-[01:55] Buyer: Theek hai, okay okay mai karwati hu. Okay theek hai.}"
-5057661,"250,928,254","646,683,039","{[00:00] Buyer: Hello.
-[00:01] Seller: Hello.
-[00:02] Buyer: Haan ji sir.
-[00:05] Buyer: Ye Mangalam rod mil jayegi na aapke pass?
-[00:07] Seller: Mil jayegi.
-[00:08] Buyer: Achha toh original box aata hai wahi milegi?
-[00:10] Seller: Original hi milegi sir.
-[00:12] Buyer: Haan ji?
-[00:12] Seller: Haan ji haan ji original milti hai sir.
-[00:15] Buyer: Haan jispe ek QR code aata hai uspe jo amount ek cashback aata hai.
-[00:22] Seller: Sir woh sab pe hota hai scheme alag alag hoti hai.
-[00:25] Seller: Sabhi ke kabhi jaise 20 box lete ho toh woh pay jata hai.
-[00:26] Buyer: Lekin maine toh suna tha abhi woh log local mein aa gaya.
-[00:29] Seller: Haan woh ek Saharanpur ka hota hai ek Haridwar ka hota hai.
-[00:32] Buyer: Ji ji abhi mere ko Mangalam road chahiye tha.
-[00:33] Seller: Haridwar wala hai na woh local hai.
-[00:36] Buyer: Toh aap rate bataoge ek baar iska 6013 ka?
-[00:39] Seller: Number kya hai 10 number, 8 number?
-[00:41] Buyer: Ispe mam box hai mere pass jispe likha hua hai 6013.
-[00:45] Seller: 3.15 likha hai ya 4.00?
-[00:49] Buyer: Ispe likha hai 6013ER4211.
-[00:52] Seller: Nahi nahi niche bhi likha hoga mm likha hota hai.
-[00:55] Buyer: Mm ha mm likha hota hai. 
-[00:56] Seller: 3.15 into 350.
-[00:57] Seller: Haan 10 number hai ₹2150 plus GST.
-[01:01] Buyer: ₹2150 plus GST.
-[01:03] Seller: Haan ji.
-[01:04] Buyer: Aur mam without bill le toh?
-[01:06] Seller: Without bill, aap kaha se bol rahe hain?
-[01:08] Buyer: Keshi Nagar se.
-[01:10] Seller: ₹2300.
-[01:12] Buyer: Haan ji?
-[01:12] Seller: ₹2300
-[01:15] Buyer: ₹2300.
-[01:17] Seller: Haan ji.
-[01:17] Buyer: Aap kaha se Delhi se bol rahe ho na?
-[01:19] Seller: Haan haan Bawana se baat kar raha hu.
-[01:21] Buyer: Ji thik hai.}"
-152298969,"27,417,784","646,747,691","{[00:00] Buyer: Hello.
+152298969,"27,417,784",646747691,"{[00:00] Buyer: Hello.
 [00:01] Seller: Hello.
 [00:02] Buyer: Hmm bolo na.
 [00:03] Seller: Hello.
@@ -5896,7 +4843,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:30] Seller: Haan haan haan madam.
 [00:31] Buyer: Okay, main aapko bhi WhatsApp pe hi sun karti hu, thik hai?
 [00:34] Seller: Thik thik.}"
-24108739,"151,605,260","646,855,635","{Okay, here is the transcription of the audio you provided:
+24108739,"151,605,260",646855635,"{Okay, here is the transcription of the audio you provided:
 
 [00:00] Buyer: Hello,
 [00:01] Seller: Hello, ha boliye sir.
@@ -5922,7 +4869,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:15] Seller: 700 nahi hai toh dusra kaun sa hai, yeh bhi main bol dunga na. 1000 bhi uske upar ka hai.
 [01:20] Buyer: Theek hai toh batayiye please thoda check karke, haji, haji, haji.
 }"
-24108739,"40,713,061","646,857,763","{[00:00] Buyer: Hello?
+24108739,"40,713,061",646857763,"{[00:00] Buyer: Hello?
 [00:01] Seller: Sir, this is Sharda Enterprises Pune.
 [00:03] Buyer: ha boliye?
 [00:04] Seller: Sir ji, namaste, main Santosh baat kar raha hun, Banashri Electrical Company, Hospet, Karnataka se.
@@ -5955,7 +4902,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:14] Buyer: Okay ji.
 [01:15] Seller: Thank you so much.
 [01:17] Buyer: Yes, yes.}"
-42728554,"224,206,369","646,983,749","{[00:00] Seller: Sir, Merillion Exports se bol rahe hain?
+42728554,"224,206,369",646983749,"{[00:00] Seller: Sir, Merillion Exports se bol rahe hain?
 [00:03] Buyer: Haan, haan.
 [00:05] Buyer: Sir, mere ko, main Chandigarh se baat kar raha hun ji Hindustan Electronics se. Mere ko na heater ki rods ki requirement thi aapke pass sender thi Mock programs ki?
 [00:17] Seller: Kya?
@@ -5991,7 +4938,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:56] Buyer: Thik hai.
 [01:56] Buyer: Thik hai sir, usme bhi thoda pahele ye likha hua tha phir aahar hai.
 }"
-152298969,"51,422,428","647,013,232","{[00:00] Buyer: Yeh touch screen pause machine windows wala kya range se starting hai?
+152298969,"51,422,428",647013232,"{[00:00] Buyer: Yeh touch screen pause machine windows wala kya range se starting hai?
 [00:05] Seller: Handy mein dekh rahe ho ya phir desktop par rakhne wala dekh rahe ho?
 [00:09] Buyer: Konsa?
 [00:10] Seller: Handy pause machine dekh rahe ho ya desktop per rakhne wala dekh rahe ho?
@@ -6102,39 +5049,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [07:11] Seller: Hmm theek hai sir main jo bhi hai main aapko update deti hu paanch das minute mein.
 [07:15] Buyer: Haan Haan.
 }"
-5057661,"246,874,253","647,036,886","{Okay, here is the transcribed audio:
-
-[00:00] Buyer: Hello.
-[00:01] Seller: Hello.
-[00:02] Buyer: Haanji.
-[00:03] Seller: Madam Mangalam, Mangalam rod chahiye aapke paas hai?
-[00:07] Buyer: Haanji hai.
-[00:08] Seller: Kaunsa number chahiye?
-[00:09] Buyer: Kitne ki beting padegi?
-[00:10] Seller: 10 number madam.
-[00:11] Buyer: 2130 rupay plus GST box rate.
-[00:17] Buyer: Aur koi discount madam?
-[00:19] Seller: Aur koi discount? Primer le lijiye, primer pad jaega sasta.
-[00:24] Buyer: Vo kitne ka padega ji?
-[00:26] Seller: Yeh aapko 1880 rupay ka box padega 10 number.
-[00:29] Buyer: Kya farak hai madam dono mein?
-[00:34] Seller: Sir, Mangalam brand pe bik raha hai. Primer actually Mangalam se zyada chalta hai. Yeh bhi bata du.
-[00:41] Buyer: Aapki, aap kaha pe bechte hai madam? Mere ko Gurgaon mein chahiye do peti.
-[00:45] Seller: Nahi sir, hamara toh Bawana mein hai. Transport karwana padega.
-[00:49] Buyer: Kitna lagega porter madam, Bawana se Gurgaon sector 48?
-[00:55] Seller: Abhi yeh cheez toh nahi bata sakte kyunki...
-[00:57] Buyer: Cutting, cutting wheel bhi chahiye, grinding bhi chahiye, saara samaan chahiye madam.
-[01:01] Seller: Sir saara samaan mil jayega. Kyun ki yeh hamara khud ka hai.
-[01:04] Buyer: Haan haan.
-[01:04] Seller: Toh ya toh ek baar aana padega nahi toh vahi gaadi waadi karni padegi kyunki porter se toh dekho sir 20 kg kg ka hi woh hota hai. Toh aapko pata hai ki 20 kg ka toh box hi hota hai.
-[01:16] Buyer: Woh toh box toh madam piche bike ke rakh lenge. Baaki do, do do dabbe grinding ke chahiye wheel ke.
-[01:23] Seller: Dabbe...
-[01:24] Buyer: Mere paas toh powder wale aise hai woh 10-10 foot lamba pipe bhi le jaate hai madam.
-[01:29] Seller: Nahi nahi, woh cheez toh lete jaate hai na porter wale. Chalo aap na, main aapko abhi WhatsApp pe hi bol rahi hu, usse mujhe likh do kya kya chahiye main aapko rate bhi daal deti hu aur phir order de dena aap. Theek hai?
-[01:39] Buyer: Theek hai madam, hi bhejiye.
-[01:41] Seller: Bhejti hu.
-[01:44] Buyer: Bas.}"
-24108739,"180,874,980","647,068,849","{[00:00] Buyer: Hello
+24108739,"180,874,980",647068849,"{[00:00] Buyer: Hello
 [00:01] Seller: Hello Punacha ma je raichu?
 [00:03] Buyer: ha boliye
 [00:04] Seller: Sub one ka label tape ko chahiye sir mere ko
@@ -6305,7 +5220,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [04:51] Seller: theek hai sir mein mein abhi details bhej rahe hai aapko bhi
 [04:52] Buyer: okay
 }"
-72509641,"243,238,626","647,110,808","{[00:00] Buyer: Hello.
+72509641,"243,238,626",647110808,"{[00:00] Buyer: Hello.
 [00:00] Seller: Hello.
 [00:01] Buyer: Ha bola.
 [00:03] Buyer: Namaskar sir. Raghu masala company bolto hai.
@@ -6322,7 +5237,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:44] Seller: Nahi tyachasathi nahi hai dada kai asa.
 [00:46] Buyer: Okay okay.
 [00:47] Buyer: Chal.}"
-72509641,"213,810,738","647,207,360","{[00:00] Seller: Hello.
+72509641,"213,810,738",647207360,"{[00:00] Seller: Hello.
 [00:03] Buyer: Hello.
 [00:03] Seller: Ka bola?
 [00:05] Buyer: He, garlic peeling machine aahe tumchya kade?
@@ -6343,7 +5258,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:45] Buyer: Pan thik aahe, 7:30 vaje paryant dukaan chalu aahe?
 [00:48] Seller: Samnay kale 7:30 paryant.
 [00:50] Buyer: Chalel, udyan shakto.}"
-42728554,"72,227,690","647,267,983","{[00:02] Buyer: Yeh gas geyser ka circuit kitne ka hai?
+42728554,"72,227,690",647267983,"{[00:02] Buyer: Yeh gas geyser ka circuit kitne ka hai?
 [00:05] Seller: Kitni quantity chahiye?
 [00:07] Buyer: Filhal toh do piece chahiye, aur relay.
 [00:10] Seller: Kya apna resell ka kaam hai kya?
@@ -6360,7 +5275,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:45] Seller: 61.
 [00:47] Buyer: Ok sirji.
 [00:49] Seller: Theek hai.}"
-42728554,"72,227,690","647,269,282","{Okay, here is the transcription of the provided audio:
+42728554,"72,227,690",647269282,"{Okay, here is the transcription of the provided audio:
 
 [00:00] Buyer: Number bataiyo.
 [00:02] Seller: Kya?
@@ -6385,7 +5300,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:01] Buyer: Haan, aap WhatsApp kar do sabse badhiya.
 [01:03] Seller: Teek hai, Teek hai.
 [01:04] Buyer: Teek hai sir. Okay.}"
-72509641,"213,810,738","647,275,719","{Okay, here is the transcribed version of the audio:
+72509641,"213,810,738",647275719,"{Okay, here is the transcribed version of the audio:
 
 [00:02] Buyer: Hello.
 [00:02] Seller: Ha.
@@ -6414,7 +5329,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:39] Seller: Ho.
 [00:40] Seller: Ho.
 }"
-72509641,"213,810,738","647,282,172","{Okay, here is the transcription of the provided audio:
+72509641,"213,810,738",647282172,"{Okay, here is the transcription of the provided audio:
 
 [00:01] Buyer: Location kuthe aahe?
 
@@ -6444,7 +5359,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:26] Seller: Arey ghaych aahe yaar, tar kay baghnar, ghaych aahe mala.
 [01:29] Buyer: Bar theek aahe.
 }"
-24108739,"142,518,417","647,345,583","{[00:01] Buyer: Hello.
+24108739,"142,518,417",647345583,"{[00:01] Buyer: Hello.
 [00:01] Seller: Ha bhaiyya hello.
 [00:02] Buyer: uh kam, kaha pe hai ye company aapki?
 [00:05] Seller: Pune mein hai.
@@ -6586,7 +5501,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [07:27] Buyer: Vtech.
 [07:28] Seller: Okay.
 [07:29] Buyer: Hmm.}"
-152298969,"121,466,293","647,377,483","{[00:00] Seller: Hello
+152298969,"121,466,293",647377483,"{[00:00] Seller: Hello
 [00:01] Buyer: Hello
 [00:02] Seller: Haan sir boliye.
 [00:03] Buyer: Yes ma’am, Vasai se baat kar raha hoon. Mujhe 4x6 ka chromo labels ka requirement tha.
@@ -6604,7 +5519,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:47] Seller: Yes sir.
 [00:49] Buyer: Okay, ma'am, thank you.
 [00:51] Seller: Okay sir.}"
-152298969,"195,792,020","647,435,234","{[00:02] Buyer: Hello?
+152298969,"195,792,020",647435234,"{[00:02] Buyer: Hello?
 [00:03] Seller: Haan madam boliye.
 [00:06] Buyer: A, ye Shreyansh mein call lagai thi.
 [00:07] Seller: Haan, haan.
@@ -6622,41 +5537,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:40] Seller: Haan easily easily koi bhi software connect kar sakte ho.
 [00:43] Buyer: Theek hai chalega, aap bhejiye mujhe WhatsApp.
 [00:45] Seller: Haan abhi bhejte hai.}"
-5057661,"104,449,979","647,449,896","{Okay, here is the transcription of the call audio:
-
-[00:04] Buyer: Bhaiya Mangalam ki 3.15 into 450 kitne ki hai?
-[00:08] Seller: Ye number kitna hua? Ye 10 number ho gaya na?
-[00:10] Buyer: Haan, 10 number ho gaya.
-[00:13] Seller: 10 number hogi bhaiya, 10 number 20 kilo ki peti hai, ek 2200 plus GST ka.
-[00:21] Buyer: 2200 plus GST. Kitna lag jayega?
-[00:22] Seller: Hain?
-[00:23] Buyer: Kitna lag jayega?
-[00:25] Seller: Kahan pe jana hai?
-[00:27] Buyer: Aap, aapki dukaan kahan pe hai?
-[00:29] Seller: Bawana.
-[00:30] Buyer: Bawana me hai?
-[00:31] Seller: Hmm.
-[00:32] Buyer: Jahangirpuri tak?
-[00:34] Seller: Kitni quantity hai?
-[00:36] Buyer: Bulk mein chahiye hoga bhaiya, 10, 10 laga lo aap, 10, agar uska aata hai trolly ka.
-[00:45] Buyer: 10 laga lo, 10 peti.
-[00:48] Seller: Dekho bhaiya, Monday chudwa dunga main apni khud ki gaadi se na, 200 rupaye kiraya de dena.
-[00:52] Buyer: Haan ji?
-[00:53] Seller: 200 rupaye kiraya de dena, main apni gaadi se chudwa dunga.
-[00:56] Buyer: Achha. Chalo theek hai, aapko bata denge phir hum. Aap apna number de do.
-[01:02] Seller: 93101
-[01:04] Buyer: Aapki awaaz
-[01:05] Seller: 93101
-[01:08] Buyer: 93101
-[01:09] Seller: 9310
-[01:10] Buyer: One
-[01:12] Seller: One
-[01:13] Seller: 68458
-[01:15] Buyer: 68
-[01:16] Seller: 458
-[01:17] Buyer: 458
-[01:19] Buyer: Kis naam se hai dukaan?}"
-42728554,"194,251,661","647,537,880","{[00:03] Buyer: Sir aap Mallcom Fixon se bol rahe ho?
+42728554,"194,251,661",647537880,"{[00:03] Buyer: Sir aap Mallcom Fixon se bol rahe ho?
 [00:05] Seller: Haan boliye.
 [00:05] Buyer: Ye aapke paas vacuum cleaner bhi hota hai gaadi wala?
 [00:08] Seller: Hmm.
@@ -6703,7 +5584,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:38] Buyer: Bhej dijiye.
 [01:39] Buyer: Mere ko address bhej dijiye main dekh leta hu.
 [01:41] Buyer: Theek hai.}"
-152298969,"110,494,798","648,103,432","{[00:00] Buyer: Hello.
+152298969,"110,494,798",648103432,"{[00:00] Buyer: Hello.
 [00:01] Seller: Ji hello.
 [00:02] Buyer: Yes boliye.
 [00:03] Buyer: Haan boliye.
@@ -6732,7 +5613,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:01] Buyer: Okay okay okay.
 [01:02] Seller: Theek hai.
 }"
-24108739,"153,578,193","648,142,096","{[00:00] Seller: Hello.
+24108739,"153,578,193",648142096,"{[00:00] Seller: Hello.
 [00:01] Buyer: Hello?
 [00:02] Seller: Haan, boliye.
 [00:03] Buyer: Vedant Enterprises?
@@ -6785,7 +5666,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:53] Seller: Aise toh fir main koi na aane wala hai toh kone mein se le leta hu.
 [01:57] Buyer: Aap mujhe whatsapp pe daal dijiye, main aata hu.
 [01:59] Seller: Okay.}"
-152298969,"238,617,305","648,210,716","{[00:00] Seller: Hello.
+152298969,"238,617,305",648210716,"{[00:00] Seller: Hello.
 [00:01] Buyer: Hello?
 [00:01] Seller: Han boliye.
 [00:03] Buyer: Han, madam, mujhe 3 inch thermal printer ki inquiry karni thi.
@@ -6802,71 +5683,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:47] Seller: Han, mein WhatsApp karti hun.
 [00:48] Buyer: Theek hai. Okay, okay. Thank you.
 }"
-5057661,"103,272,270","648,431,952","{[00:00] Buyer: Haan, hello.
-[00:01] Seller: Hello.
-[00:02] Buyer: Haan ji.
-[00:04] Buyer: Mangalam welding road hoti hai?
-[00:06] Seller: Mangalam mil jayegi. Hmm?
-[00:08] Seller: Haan ji, mil jayegi sir.
-[00:09] Buyer: Kya rate hai 10 number?
-[00:11] Seller: 10 number, ₹2150 plus GST. Quantity kya hai? Do, do glass. Quantity kya hai?
-[00:19] Buyer: 10, 20 peti le lenge.
-[00:22] Seller: 10, 20 peti, ₹100 uh, ₹2130 laga dungi plus GST.
-[00:27] Buyer: Kitna, 100?
-[00:28] Seller: Ek, ₹2130.
-[00:31] Buyer: ₹2130.
-[00:32] Seller: Plus GST. Haan ji.
-[00:34] Buyer: Aur without bill?
-[00:36] Seller: Without bill ₹2300.
-[00:39] Buyer: ₹2300 ki?
-[00:40] Seller: Haan ji.
-[00:43] Buyer: Kahan pe hai apna?
-[00:44] Seller: Sir, Barwala hai, Barwala.
-[00:47] Buyer: Barwala mein hai?
-[00:48] Seller: Haan ji.
-[00:49] Buyer: Kya wholesale hai kya hai apna?
-[00:52] Seller: Sir, mera wholesale hi hai. Hum manufacturing karte hai flap bill, uh, flap bill aur luster ki. Bas khade raho.
-[00:58] Buyer: Achha.
-[00:59] Seller: Haan, toh hamare paas welding item bhi hota hai. Mig wire, welding road sab hota hai.
-[01:03] Buyer: Manohar ki mig wire bhi hai?
-[01:06] Seller: Nahi, hamare paas Prima ki milegi.
-[01:08] Buyer: Prima ki hai?
-[01:09] Seller: Haan ji, Prima ka weld.
-[01:13] Seller: Yeh aapko pad jaega ₹90 per kg plus GST.
-[01:17] Buyer: Achha.
-[01:18] Seller: Hmm. ₹2300.
-[01:20] Seller: Haan ji.
-[01:21] Buyer: ₹2300 ki welding road bata rahe ho, ₹2220 ka rate aa raha tha mere ko 10 peti ka na.
-[01:26] Seller: Sir, dekho isme bhi do quality aati hai. Ek jo saste wali aati hai na, woh sahi nahi chalti hai. Baaki aap dekh lo, koi dikkat nahi hai, naam Mangalam hi aata hai.
-[01:33] Buyer: Achha. Nahi, woh bhi direct distributor se dealership ja rahi hai direct.
-[01:37] Seller: Woh mai samajh gayi. Woh, woh maine aapko kya bola ki aap khud dekh lijiyega. Kyunki na isme do quality aate hai.
-[01:42] Buyer: Chalo aap apne wali ki ek baar photo bhejoge mere ko?
-[01:44] Seller: Photo. Chal dekhiye. Bawana, Bawana Industrial se hi baat kar raha hu main bhi.
-[01:48] Seller: Bawana mein kahan pe? Mera Bawana sector 1 mein vaise manufacturing, uh, woh bhi hai, plant bhi hai.
-[01:53] Buyer: Kis cheez ka?
-[01:54] Seller: Flap bill banta hai wahan pe.
-[01:56] Buyer: Kya flap disc?
-[01:57] Seller: Haan.
-[01:58] Seller: Flap bill. Kya ho jayega? Woh usme banta hai, kya naam hai, Sector 1 hai na, NI 39 sector 1.
-[02:03] Buyer: NI 39.
-[02:03] Seller: Agar wahan se uthana chaho toh utha sakte ho. Nahi toh bologe toh mai bhijwa bhi dungi.
-[02:09] Buyer: NI 39 hai?
-[02:10] Seller: Haan ji.
-[02:11] Buyer: Kya banta hai mai samjha hi nahi aap kya bata rahe ho mere ko samajh nahi aaya.
-[02:14] Seller: Are ek mal ka product banta hai.
-[02:16] Buyer: Achha, theek, theek, theek.
-[02:19] Buyer: Toh yeh toh road pe hui na dukan, dukan si hai woh toh shayad.
-[02:22] Seller: Haan, haan.
-[02:25] Buyer: Woh, wahan bhaiya se ek baithte hai koi.
-[02:28] Seller: Haan, haan, haan.
-[02:30] Buyer: Road ki dukan hai woh. Dukan woh sab rakhte hai woh bhi welding road waghrah bhi rakhte hai?
-[02:34] Seller: Haan ji. Hmm.
-[02:37] Buyer: Meri F block mein F77 hai.
-[02:41] Seller: Mai na aapko aadhe ghante, 10-15 minute mein na whatsapp pe hi bolti hu, phir baat kar leti hu. Theek hai, thoda raste mein mai hu, aawaz nahi aa rahi.
-[02:47] Buyer: Theek hai, theek hai.
-[02:48] Seller: Theek hai. Theek hai.
-}"
-42728554,"209,356,540","648,451,171","{[00:00] Buyer: Hello.
+42728554,"209,356,540",648451171,"{[00:00] Buyer: Hello.
 [00:03] Seller: Hello.
 [00:03] Buyer: Hello, haan.
 [00:04] Buyer: Sir, 30 liter mein vacuum cleaner mil jayega aapke paas?
@@ -6887,7 +5704,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:49] Buyer: 6459. Theek hai sir main aapko, main aapko WhatsApp kar deti hun.
 [00:56] Seller: Theek hai.
 [00:56] Seller: Kya quantity kya batayi aapne?}"
-152298969,"59,432,694","648,482,248","{[00:02] Caller: Hello.
+152298969,"59,432,694",648482248,"{[00:02] Caller: Hello.
 [00:03] Seller: Hello.
 [00:04] Caller: Hello.
 [00:06] Seller: Hi.
@@ -6950,7 +5767,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [02:23] Caller: P I N E L A B.
 [02:24] Seller: Fynlab. Okay madam. Okay madam.
 [02:27] Caller: Thank you.}"
-72509641,"57,771,617","648,494,100","{[00:00] Buyer: Hello
+72509641,"57,771,617",648494100,"{[00:00] Buyer: Hello
 [00:02] Buyer: Hello
 [00:04] Buyer: Hello
 [00:06] Buyer: Ha kuthun bolta hai?
@@ -6993,7 +5810,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [01:46] Buyer: Bar.
 [01:47] Seller: Ha. thik hai chalte kay aadchan nahi.
 }"
-72509641,"257,406,947","648,504,023","{[00:00] Buyer: Hello.
+72509641,"257,406,947",648504023,"{[00:00] Buyer: Hello.
 [00:01] Buyer: Ha baba bolna.
 [00:02] Seller: Ho.
 [00:03] Buyer: Matal tumchade crusher hai na hyacha, usacha.
@@ -7015,7 +5832,7 @@ regmal wala hoga non moon nahi hoga, regmal regmal laga hoga.
 [00:53] Buyer: Taashi ek ton vagere hota crush crushing.
 [00:57] Seller: Nahi tasa nahi, tasa nahi.
 [01:01] Buyer: Ho nahi furchi ten rupees stangli.}"
-24108739,"120,498,092","648,552,499","{[00:01] Buyer: Hello?
+24108739,"120,498,092",648552499,"{[00:01] Buyer: Hello?
 [00:02] Seller: Hello.
 [00:03] Buyer: Sir, apne pass ferrule printing machine milega na?
 [00:05] Seller: Haan milega na sir.
